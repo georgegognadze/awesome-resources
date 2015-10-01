@@ -3,7 +3,7 @@
 Awesome coding and learning resources for everyone.
 Most of this links will make your learning process fun and creative.
 
-<h4>Coding resources for beginners of all ages.<h4>
+<h4> Coding resources for beginners of all ages <h4>
 
 <a href="https://code.org/" target="_blank"> Code.org Tutorials </a> <br>
 <a href="https://www.codecademy.com/" target="_blank"> Codecademy </a> <br>
@@ -17,7 +17,7 @@ Most of this links will make your learning process fun and creative.
 <a href="https://www.test4u.eu/" target="_blank"> Test4u </a> <br>
 
 
-<h4>Coding for younger beginners.<h4>
+<h4> Coding for younger beginners <h4>
 
 <a href="http://www.funlearning.com/" target="_blank"> Fun Learning </a> <br>
 <a href="https://coderdojo.com/" target="_blank"> CoderDojo </a> <br>
@@ -25,7 +25,7 @@ Most of this links will make your learning process fun and creative.
 <a href="https://www.allcancode.com/" target="_blank"> Run Marco </a> <br>
 <a href="https://www.playcodemonkey.com/" target="_blank"> CodeMonkey </a> <br> 
 
-<h4>Coding with App's<h4>
+<h4> Coding with App's <h4>
  
 <a href="https://scratch.mit.edu/" target="_blank"> Scratch </a> <br>
 <a href="http://www.scratchjr.org/" target="_blank"> ScratchJr </a> <br>
@@ -36,7 +36,7 @@ Most of this links will make your learning process fun and creative.
 <a href="http://lightbot.com/hocflash.html" target="_blank"> LightBot </a> <br> 
 <a href="https://www.playcodemonkey.com/" target="_blank"> CodeMonkey </a> <br>  
 
-<h4>Courses for advanced learners<h4>
+<h4> Courses for advanced learners <h4>
 
 <a href="https://www.edx.org/course-list/allschools/computer-science/allcourses" target="_blank"> edX </a> <br> 
 <a href="https://www.coursera.org/courses?orderby=upcoming&cats=cs-programming" target="_blank"> Coursera </a> <br> 
@@ -44,4 +44,4 @@ Most of this links will make your learning process fun and creative.
 <a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/" target="_blank"> MIT OpenCourseWare </a> <br> 
 <a href="https://www.udemy.com/courses/" target="_blank"> Udemy </a> <br> 
 
-<h3>Happy learning :heart <h3>
+<h3> Happy learning ♥ <h3>
