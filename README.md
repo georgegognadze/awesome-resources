@@ -27,14 +27,15 @@ Most of this links will make your learning process fun and creative.
 
 <h2>App<h2>
 
-<a href="https://scratch.mit.edu/" target="_blank"> Scratch </a> <br>
-<a href="http://www.scratchjr.org/" target="_blank"> ScratchJr </a> <br>
-<a href="https://www.gethopscotch.com/" target="_blank">  Hopscotch </a> <br>  
+ 
 <a href="https://itunes.apple.com/us/app/daisy-the-dinosaur/id490514278" target="_blank">  Daisy the Dinosaur </a> <br> 
 <a href="https://share.catrob.at/pocketcode/" target="_blank">  Pocket Code </a> <br> 
 <a href="http://lightbot.com/hocflash.html" target="_blank"> LightBot </a> <br> 
 <a href="http://www.kodugamelab.com/" target="_blank"> Kodu </a> <br> 
 <a href="https://www.playcodemonkey.com/" target="_blank"> CodeMonkey </a> <br>  
+<a href="https://scratch.mit.edu/" target="_blank"> Scratch </a> <br>
+<a href="http://www.scratchjr.org/" target="_blank"> ScratchJr </a> <br>
+<a href="https://www.gethopscotch.com/" target="_blank">  Hopscotch </a> <br> 
 
 
 
