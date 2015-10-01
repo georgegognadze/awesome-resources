@@ -32,6 +32,8 @@ Most of these links will make your learning process fun and creative.
 <li> <a href="https://www.tynker.com/hour-of-code/" target="_blank"> Tynker </a> </li>
 <li> <a href="https://scratch.mit.edu/hoc2014/" target="_blank"> CoderDojo </a> </li>
 <li> <a href="https://studio.code.org/hoc/1" target="_blank"> Code.org </a> </li>
+<li> <a href="http://hello.processing.org/editor/" target="_blank"> Processing </a> </li>
+<li> <a href="https://www.makeschool.com/build-an-iphone-game-in-your-browser" target="_blank"> MakeSchool </a> </li>
 <li> <a href="http://lightbot.com/hoc2014.html" target="_blank"> Lightbot </a> </li>
 <li> <a href="https://www.khanacademy.org/computing/hour-of-code/hour-of-code-tutorial/v/welcome-hour-of-code" target="_blank"> Khanacademy </a> </li>
 <li> <a href="https://codehs.com/hourofcode/karel/1?start/" target="_blank"> CodeHS </a> </li>
@@ -40,10 +42,23 @@ Most of these links will make your learning process fun and creative.
 <li> <a href="https://www.codeavengers.com/javascript/100#1.1" target="_blank"> Code Avengers </a> </li>
 <li> <a href="https://blockly-games.appspot.com/maze/" target="_blank"> Blockly </a> </li>
 <li> <a href="https://www.kodable.com/hour-of-code/" target="_blank"> Kodable </a> </li>
+<li> <a href="http://appinventor.mit.edu/explore/hour-of-code.html" target="_blank"> AppInventor </a> </li>
 <li> <a href="http://www.thefoos.com/hourofcode/" target="_blank"> The Foos </a> </li> 
+<li> <a href="https://www.robomindacademy.com//go/navigator/storylines?course=HourOfCode" target="_blank"> RoboMind Academy </a> </li> 
+<li> <a href="https://groklearning.com/hoc-2014/" target="_blank"> Grok learning </a> </li> 
+<li> <a href="http://quorumlanguage.com/documents/hourofcode/part1.php" target="_blank"> Quorum </a> </li> 
+<li> <a href="https://www.touchdevelop.com/hourofcode2" target="_blank"> TouchDevelop </a> </li> 
 </ul>
-
-<h4> Coding with App's <h4>
+<h4> Make your own games or apps <h4>
+<ul>
+<li> <a href="https://www.makeschool.com/build-an-iphone-game-in-your-browser" target="_blank"> MakeSchool </a> </li>
+<li> <a href="https://studio.code.org/flappy/1" target="_blank"> Code.org </a> </li>
+<li> <a href="https://bitsbox.com/index.html#hoc" target="_blank"> Bitsbox </a> </li>
+<li> <a href="https://www.touchdevelop.com/hourofcode2" target="_blank"> TouchDevelop </a> </li>
+<li> <a href="http://appinventor.mit.edu/explore/hour-of-code.html" target="_blank"> AppInventor </a> </li>
+<li> <a href="https://studio.code.org/s/playlab/stage/1/puzzle/1" target="_blank"> Code.org </a> </li>
+</ul>
+<h4> Apps for phones and tablets <h4>
 <ul> 
 <li> <a href="https://scratch.mit.edu/" target="_blank"> Scratch </a> </li>
 <li> <a href="http://www.scratchjr.org/" target="_blank"> ScratchJr </a> </li>
