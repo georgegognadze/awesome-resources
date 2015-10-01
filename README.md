@@ -44,4 +44,4 @@ Most of this links will make your learning process fun and creative.
 <li> <a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/" target="_blank"> MIT OpenCourseWare </a> </li>
 <li> <a href="https://www.udemy.com/courses/" target="_blank"> Udemy </a> </li>
 </ul>
-<h5> Happy learning ♥ <h5>
+<h5> Happy learning ♥ ♥ ♥<h5>
