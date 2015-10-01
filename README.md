@@ -1,4 +1,4 @@
-# awesome-resources
+# Awesome-resources
 Awesome coding resources for kids.
-<h1>Web sites <h1>
+<h2>Web sites <h2>
 
