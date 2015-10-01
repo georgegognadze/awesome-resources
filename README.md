@@ -1,7 +1,6 @@
 # Awesome-resources
 
 Awesome coding and learning resources for everyone.
-
 Most of this links will make your learning process fun and creative.
 
 <h4>Coding resources for beginners of all ages.<h4>
@@ -25,18 +24,22 @@ Most of this links will make your learning process fun and creative.
 <a href="https://www.robomindacademy.com/" target="_blank"> RoboMind Academy </a> <br>
 <a href="https://www.allcancode.com/" target="_blank"> Run Marco </a> <br>
 <a href="https://www.playcodemonkey.com/" target="_blank"> CodeMonkey </a> <br> 
-<a href="http://lightbot.com/hocflash.html" target="_blank"> LightBot </a> <br> 
 
 <h4>Coding with App's<h4>
  
 <a href="https://scratch.mit.edu/" target="_blank"> Scratch </a> <br>
 <a href="http://www.scratchjr.org/" target="_blank"> ScratchJr </a> <br>
 <a href="https://www.gethopscotch.com/" target="_blank">  Hopscotch </a> <br> 
-<a href="https://itunes.apple.com/us/app/daisy-the-dinosaur/id490514278" target="_blank">  Daisy the Dinosaur </a> <br> 
-<a href="https://share.catrob.at/pocketcode/" target="_blank">  Pocket Code </a> <br> 
-<a href="http://lightbot.com/hocflash.html" target="_blank"> LightBot </a> <br> 
+<a href="http://www.daisythedinosaur.com/" target="_blank">  Daisy the Dinosaur </a> <br> 
+<a href="https://share.catrob.at/pocketcode/" target="_blank">  Pocket Code </a> <br>
 <a href="http://www.kodugamelab.com/" target="_blank"> Kodu </a> <br> 
+<a href="http://lightbot.com/hocflash.html" target="_blank"> LightBot </a> <br> 
 <a href="https://www.playcodemonkey.com/" target="_blank"> CodeMonkey </a> <br>  
 
+<h4>Courses for advanced learners<h4>
 
+<a href="https://www.edx.org/course-list/allschools/computer-science/allcourses" target="_blank"> edX </a> <br> 
+<a href="https://www.coursera.org/courses?orderby=upcoming&cats=cs-programming" target="_blank"> Coursera </a> <br> 
+<a href="https://www.udacity.com/courses#!/all" target="_blank"> Udacity </a> <br> 
+<a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/" target="_blank"> MIT OpenCourseWare </a> <br> 
 
