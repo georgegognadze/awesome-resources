@@ -48,15 +48,19 @@ Most of these links will make your learning process fun and creative.
 <li> <a href="https://groklearning.com/hoc-2014/" target="_blank"> Grok learning </a> </li> 
 <li> <a href="http://quorumlanguage.com/documents/hourofcode/part1.php" target="_blank"> Quorum </a> </li> 
 <li> <a href="https://www.touchdevelop.com/hourofcode2" target="_blank"> TouchDevelop </a> </li> 
+<li> <a href="http://www.kodugamelab.com/hour-of-code/" target="_blank"> Kodu </a> </li>
 </ul>
 <h4> Make your own games or apps <h4>
 <ul>
 <li> <a href="https://www.makeschool.com/build-an-iphone-game-in-your-browser" target="_blank"> MakeSchool </a> </li>
-<li> <a href="https://studio.code.org/flappy/1" target="_blank"> Code.org </a> </li>
+<li> <a href="https://studio.code.org/flappy/1" target="_blank"> Code.org Flappy Bird</a> </li>
 <li> <a href="https://bitsbox.com/index.html#hoc" target="_blank"> Bitsbox </a> </li>
 <li> <a href="https://www.touchdevelop.com/hourofcode2" target="_blank"> TouchDevelop </a> </li>
 <li> <a href="http://appinventor.mit.edu/explore/hour-of-code.html" target="_blank"> AppInventor </a> </li>
 <li> <a href="https://studio.code.org/s/playlab/stage/1/puzzle/1" target="_blank"> Code.org </a> </li>
+<li> <a href="https://www.gethopscotch.com/" target="_blank">  Hopscotch </a> </li>
+<li> <a href="http://www.kodugamelab.com/" target="_blank"> Kodu </a> </li>
+<li> <a href="http://twolivesleft.com/Codea/" target="_blank"> Codea </a> </li>
 </ul>
 <h4> Apps for phones and tablets <h4>
 <ul> 
@@ -71,6 +75,7 @@ Most of these links will make your learning process fun and creative.
 <li> <a href="https://www.playcodemonkey.com/" target="_blank"> CodeMonkey </a> </li>
 <li> <a href="https://www.kodable.com/" target="_blank"> Kodable </a> </li> 
 <li> <a href="http://thefoos.com/" target="_blank"> The Foos </a> </li>
+<li> <a href="http://twolivesleft.com/Codea/" target="_blank"> Codea </a> </li>
 </ul>
 
 <h4> Courses for advanced learners <h4>
