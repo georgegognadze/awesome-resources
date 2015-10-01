@@ -4,7 +4,7 @@ Awesome coding and learning resources for everyone.
 
 Most of this links will make your learning process fun and creative.
 
-<h3>Coding resources for beginners of all ages.<h3>
+<h4>Coding resources for beginners of all ages.<h4>
 
 <a href="https://code.org/" target="_blank"> Code.org Tutorials </a> <br>
 <a href="https://www.codecademy.com/" target="_blank"> Codecademy </a> <br>
@@ -18,8 +18,7 @@ Most of this links will make your learning process fun and creative.
 <a href="https://www.test4u.eu/" target="_blank"> Test4u </a> <br>
 
 
-<h3>Coding for younger beginners.<h3>
-
+<h4>Coding for younger beginners.<h4>
 
 <a href="http://www.funlearning.com/" target="_blank"> Fun Learning </a> <br>
 <a href="https://coderdojo.com/" target="_blank"> CoderDojo </a> <br>
@@ -28,7 +27,6 @@ Most of this links will make your learning process fun and creative.
 <a href="https://www.playcodemonkey.com/" target="_blank"> CodeMonkey </a> <br> 
 
 <h4>App<h4>
-
  
 <a href="https://scratch.mit.edu/" target="_blank"> Scratch </a> <br>
 <a href="http://www.scratchjr.org/" target="_blank"> ScratchJr </a> <br>
