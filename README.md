@@ -2,7 +2,7 @@
 
 Awesome coding and learning resources for everyone.
 
-What if learning was fun and creative? Most of this links will help you to figure it out!
+Most of this links will make your learning process fun and creative.
 
 <h3>Coding resources for beginners of all ages.<h3>
 
