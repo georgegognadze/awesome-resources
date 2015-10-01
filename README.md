@@ -15,6 +15,12 @@ Awesome coding and learning resources for everyone.
 <a href="https://www.test4u.eu/" target="_blank"> Test4u </a> <br>
 <a href="http://www.w3schools.com/" target="_blank"> W3schools </a> <br>
 
+<h3>Coding for younger beginners.<h3>
+<a href="http://www.funlearning.com/" target="_blank"> Fun Learning </a> <br>
+<a href="https://scratch.mit.edu/" target="_blank"> Scratch </a> <br>
+<a href="https://scratch.mit.edu/" target="_blank"> Scratch </a> <br>
+<a href="https://scratch.mit.edu/" target="_blank"> Scratch </a> <br>
+http://www.scratchjr.org/
 
 
 
