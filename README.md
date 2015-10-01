@@ -1,9 +1,8 @@
 # Awesome-resources
 Awesome coding resources for kids.
-<h2>Web sites <h2>
-<a href="https://code.org/learn" target="_blank">Code.org Tutorials</a>
-<a href="https://code.org/learn" target="_blank">Code.org Tutorials</a>
-<a href="https://code.org/learn" target="_blank">Code.org Tutorials</a>
-<a href="https://code.org/learn" target="_blank">Code.org Tutorials</a>
-<a href="https://code.org/learn" target="_blank">Code.org Tutorials</a>
-
+<h3>For kids all ages.<h3>
+<a href="https://code.org/learn/" target="_blank"> Code.org Tutorials </a> <br>
+<a href="https://www.codecademy.com/" target="_blank"> Codecademy </a> <br>
+<a href="https://www.codeschool.com/" target="_blank"> Code School </a> <br>
+<a href="https://www.codeavengers.com/" target="_blank"> Code Avengers </a> <br>
+<a href="http://www.funlearning.com/" target="_blank"> Fun Learning </a> <br>
