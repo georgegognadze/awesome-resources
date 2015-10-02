@@ -87,5 +87,5 @@ Most of these links will make your learning process fun and creative.
 <li> <a href="https://www.udemy.com/courses/" target="_blank"> Udemy </a> </li>
 </ul>
 
-<h4> Pull requests are welcome. <h4>
-<h5> Happy learning ♥ ♥ ♥<h5>
+<h4 align="center"> Pull requests are welcome. <h4>
+<h5 align="center"> Happy learning ♥ ♥ ♥<h5>
