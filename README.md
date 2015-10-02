@@ -85,6 +85,7 @@ Most of these links will make your learning process fun and creative.
 <li> <a href="https://www.udacity.com/courses#!/all" target="_blank"> Udacity </a> </li>
 <li> <a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/" target="_blank"> MIT OpenCourseWare </a> </li>
 <li> <a href="https://www.udemy.com/courses/" target="_blank"> Udemy </a> </li>
+<li> <a href="http://www.lynda.com/Developer-training-tutorials/50-0.html/" target="_blank"> Lynda </a> </li>
 </ul>
 
 <h4 align="center"> Pull requests are welcome. <h4>
