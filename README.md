@@ -20,7 +20,7 @@ Most of these links will make your learning process fun and creative.
 <h4> Coding for younger beginners <h4>
 <ul>
 <li> <a href="http://www.funlearning.com/" target="_blank"> Fun Learning </a> </li>
-<li> <a href="https://coderdojo.com/" target="_blank"> CoderDojo </a> </li>
+<li> <a href="http://kata.coderdojo.com/wiki/Learning_Resource" target="_blank"> CoderDojo </a> </li>
 <li> <a href="https://www.robomindacademy.com/" target="_blank"> RoboMind Academy </a> </li>
 <li> <a href="https://www.allcancode.com/" target="_blank"> Run Marco </a> </li>
 <li> <a href="https://www.playcodemonkey.com/" target="_blank"> CodeMonkey </a> </li>
