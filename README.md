@@ -6,7 +6,7 @@ Most of these links will make your learning process fun and creative.
 <h4> Coding resources for beginners of all ages <h4>
 <ul>
 <li> <a href="https://code.org/" target="_blank"> Code.org Tutorials </a> </li>
-<li> <a href="https://www.codecademy.com/" target="_blank"> Codecademy </a> </li>
+<li> <a href="https://www.codecademy.com/" target="_blank"> Codeacademy </a> </li>
 <li> <a href="https://www.codeschool.com/" target="_blank"> Code School </a> </li>
 <li> <a href="https://www.codeavengers.com/" target="_blank"> Code Avengers </a> </li>
 <li> <a href="http://www.funlearning.com/" target="_blank"> Fun Learning </a> </li>
@@ -37,7 +37,7 @@ Most of these links will make your learning process fun and creative.
 <li> <a href="http://lightbot.com/hoc2014.html" target="_blank"> Lightbot </a> </li>
 <li> <a href="https://www.khanacademy.org/computing/hour-of-code/hour-of-code-tutorial/v/welcome-hour-of-code" target="_blank"> Khanacademy </a> </li>
 <li> <a href="https://codehs.com/hourofcode/karel/1?start/" target="_blank"> CodeHS </a> </li>
-<li> <a href="https://www.codecademy.com/courses/hour-of-code/0/1/" target="_blank"> Codecademy </a> </li>
+<li> <a href="https://www.codecademy.com/courses/hour-of-code/0/1/" target="_blank"> Codeacademy </a> </li>
 <li> <a href="http://codecombat.com/?hour_of_code=true" target="_blank"> CodeCombat </a> </li>
 <li> <a href="https://www.codeavengers.com/javascript/100#1.1" target="_blank"> Code Avengers </a> </li>
 <li> <a href="https://blockly-games.appspot.com/maze/" target="_blank"> Blockly </a> </li>
