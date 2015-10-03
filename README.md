@@ -52,6 +52,7 @@ Most of these links will make your learning process fun and creative.
 <li> <a href="http://www.kodugamelab.com/hour-of-code/" target="_blank"> Kodu </a> </li>
 </ul>
 <h4> Learn to program with robots <h4>
+<ul>
 <li> <a href="https://tickleapp.com/en-us/" target="_blank"> Tickle </a> </li>
 <li> <a href="http://www.lego.com/en-us/mindstorms/ target="_blank"> Lego Mindstorms </a> </li> 
 <li> <a href="http://www.finchrobot.com/" target="_blank"> Finch </a> </li> 
@@ -59,6 +60,7 @@ Most of these links will make your learning process fun and creative.
 <li> <a href="http://www.sphero.com/education/" target="_blank"> Sphero </a> </li> 
 <li> <a href="https://www.makewonder.com/" target="_blank"> Wonder </a> </li> 
 <li> <a href="http://kinderlabrobotics.com/" target="_blank"> KinderLab </a> </li> 
+</ul>
 <h4> Make your own games or apps <h4>
 <ul>
 <li> <a href="https://www.makeschool.com/build-an-iphone-game-in-your-browser" target="_blank"> MakeSchool </a> </li>
