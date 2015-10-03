@@ -39,6 +39,7 @@ Most of these links will make your learning process fun and creative.
 <li> <a href="https://codehs.com/hourofcode/karel/1?start/" target="_blank"> CodeHS </a> </li>
 <li> <a href="https://www.codecademy.com/courses/hour-of-code/0/1/" target="_blank"> Codeacademy </a> </li>
 <li> <a href="http://codecombat.com/?hour_of_code=true" target="_blank"> CodeCombat </a> </li>
+<li> <a href="http://sparkfun.codepops.com/#0/" target="_blank"> Sparkfun </a> </li>
 <li> <a href="https://www.codeavengers.com/javascript/100#1.1" target="_blank"> Code Avengers </a> </li>
 <li> <a href="https://blockly-games.appspot.com/maze/" target="_blank"> Blockly </a> </li>
 <li> <a href="https://www.kodable.com/hour-of-code/" target="_blank"> Kodable </a> </li>
@@ -50,6 +51,14 @@ Most of these links will make your learning process fun and creative.
 <li> <a href="https://www.touchdevelop.com/hourofcode2" target="_blank"> TouchDevelop </a> </li> 
 <li> <a href="http://www.kodugamelab.com/hour-of-code/" target="_blank"> Kodu </a> </li>
 </ul>
+<h4> Learn to program with robots <h4>
+<li> <a href="https://tickleapp.com/en-us/" target="_blank"> Tickle </a> </li>
+<li> <a href="http://www.lego.com/en-us/mindstorms/ target="_blank"> Lego Mindstorms </a> </li> 
+<li> <a href="http://www.finchrobot.com/" target="_blank"> Finch </a> </li> 
+<li> <a href="http://sparkfun.codepops.com/#0/" target="_blank"> Sparkfun </a> </li> 
+<li> <a href="http://www.sphero.com/education/" target="_blank"> Sphero </a> </li> 
+<li> <a href="https://www.makewonder.com/" target="_blank"> Wonder </a> </li> 
+<li> <a href="http://kinderlabrobotics.com/" target="_blank"> KinderLab </a> </li> 
 <h4> Make your own games or apps <h4>
 <ul>
 <li> <a href="https://www.makeschool.com/build-an-iphone-game-in-your-browser" target="_blank"> MakeSchool </a> </li>
