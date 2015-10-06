@@ -98,7 +98,10 @@ Most of these links will make your learning process fun and creative.
 <li> <a href="https://www.udemy.com/courses/" target="_blank"> Udemy </a> </li>
 <li> <a href="http://www.lynda.com/Developer-training-tutorials/50-0.html/" target="_blank"> Lynda </a> </li>
 </ul>
-
+<h4> License  <h4>
+<ul>
+<li> <a href="https://github.com/dreamtocode/awesome-resources/blob/master/LICENSE/" target="_blank"> MIT </a> </li>
+</ul>
 <h4 align="center"> Pull requests are welcome. <h4>
 <h5 align="center"> Happy learning ♥ ♥ ♥<h5>
-<h5 align="center"><a href="https://github.com/dreamtocode/awesome-resources/blob/master/LICENSE/"> License </a>  <h5>
+
