@@ -100,7 +100,7 @@ Most of these links will make your learning process fun and creative.
 </ul>
 <h4> License  <h4>
 <ul>
-<li> <a href="https://github.com/dreamtocode/awesome-resources/blob/master/LICENSE/" target="_blank"> MIT </a> </li>
+<li> <a href="https://github.com/dreamtocode/awesome-resources/blob/master/LICENSE/"> MIT </a> </li>
 </ul>
 <h4 align="center"> Pull requests are welcome. <h4>
 <h5 align="center"> Happy learning ♥ ♥ ♥<h5>
