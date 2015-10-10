@@ -2,7 +2,9 @@
 
 Awesome coding and learning resources for everyone. <br>
 Most of these links will make your learning process fun and creative.
+
 <h4> Coding resources for beginners of all ages <h4>
+
 <ul>
 <li> <a href="https://code.org/" target="_blank"> Code.org Tutorials </a> </li>
 <li> <a href="https://www.codecademy.com/" target="_blank"> Codeacademy </a> </li>
@@ -19,6 +21,7 @@ Most of these links will make your learning process fun and creative.
 </ul>
 
 <h4> Coding for younger beginners <h4>
+
 <ul>
 <li> <a href="http://www.funlearning.com/" target="_blank"> Fun Learning </a> </li>
 <li> <a href="http://kata.coderdojo.com/wiki/Learning_Resource" target="_blank"> CoderDojo </a> </li>
@@ -27,7 +30,9 @@ Most of these links will make your learning process fun and creative.
 <li> <a href="https://www.playcodemonkey.com/" target="_blank"> CodeMonkey </a> </li>
 <li> <a href="https://blockly-games.appspot.com/" target="_blank"> Blockly </a> </li>
 </ul>
+
 <h4> The Hour of Code <h4>
+
 <ul>
 <li> <a href="https://www.tynker.com/hour-of-code/" target="_blank"> Tynker </a> </li>
 <li> <a href="https://scratch.mit.edu/hoc2014/" target="_blank"> CoderDojo </a> </li>
@@ -51,7 +56,9 @@ Most of these links will make your learning process fun and creative.
 <li> <a href="https://www.touchdevelop.com/hourofcode2" target="_blank"> TouchDevelop </a> </li> 
 <li> <a href="http://www.kodugamelab.com/hour-of-code/" target="_blank"> Kodu </a> </li>
 </ul>
+
 <h4> Learn to program with robots <h4>
+
 <ul>
 <li> <a href="https://tickleapp.com/en-us/" target="_blank"> Tickle </a> </li>
 <li> <a href="http://www.lego.com/en-us/mindstorms/ target="_blank"> Lego Mindstorms </a> </li> 
@@ -61,7 +68,9 @@ Most of these links will make your learning process fun and creative.
 <li> <a href="https://www.makewonder.com/" target="_blank"> Wonder </a> </li> 
 <li> <a href="http://kinderlabrobotics.com/" target="_blank"> KinderLab </a> </li> 
 </ul>
+
 <h4> Make your own games or apps <h4>
+
 <ul>
 <li> <a href="https://www.makeschool.com/build-an-iphone-game-in-your-browser" target="_blank"> MakeSchool </a> </li>
 <li> <a href="https://studio.code.org/flappy/1" target="_blank"> Code.org Flappy Bird</a> </li>
@@ -73,7 +82,9 @@ Most of these links will make your learning process fun and creative.
 <li> <a href="http://www.kodugamelab.com/" target="_blank"> Kodu </a> </li>
 <li> <a href="http://twolivesleft.com/Codea/" target="_blank"> Codea </a> </li>
 </ul>
+
 <h4> Apps for phones and tablets <h4>
+
 <ul> 
 <li> <a href="https://scratch.mit.edu/" target="_blank"> Scratch </a> </li>
 <li> <a href="http://www.scratchjr.org/" target="_blank"> ScratchJr </a> </li>
@@ -88,7 +99,9 @@ Most of these links will make your learning process fun and creative.
 <li> <a href="http://thefoos.com/" target="_blank"> The Foos </a> </li>
 <li> <a href="http://twolivesleft.com/Codea/" target="_blank"> Codea </a> </li>
 </ul>
+
 <h4> Courses for advanced learners <h4>
+
 <ul>
 <li> <a href="https://www.edx.org/course-list/allschools/computer-science/allcourses" target="_blank"> edX </a> </li>
 <li> <a href="https://www.coursera.org/courses?orderby=upcoming&cats=cs-programming" target="_blank"> Coursera </a> </li>
@@ -97,10 +110,11 @@ Most of these links will make your learning process fun and creative.
 <li> <a href="https://www.udemy.com/courses/" target="_blank"> Udemy </a> </li>
 <li> <a href="http://www.lynda.com/Developer-training-tutorials/50-0.html/" target="_blank"> Lynda </a> </li>
 </ul>
+
 <h4> License  <h4>
+
 <ul>
 <li> <a href="https://github.com/dreamtocode/awesome-resources/blob/master/LICENSE/"> MIT </a> </li>
 </ul>
 <h4 align="center"> Pull requests are welcome. <h4>
 <h5 align="center"> Happy learning ♥ ♥ ♥<h5>
-
