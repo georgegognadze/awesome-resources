@@ -3,7 +3,7 @@
 Awesome coding and learning resources for everyone. <br>
 Most of these links will make your learning process fun and creative.
 
-<h4> Coding resources for beginners of all ages <h4>
+####Coding resources for beginners of all ages 
 
 <ul>
 <li> <a href="https://code.org/" target="_blank"> Code.org Tutorials </a> </li>
