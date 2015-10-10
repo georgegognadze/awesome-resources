@@ -20,7 +20,7 @@ Most of these links will make your learning process fun and creative.
 <li> <a href="https://www.test4u.eu/" target="_blank"> Test4u </a> </li>
 </ul>
 
-<h4> Coding for younger beginners <h4>
+####Coding for younger beginners 
 
 <ul>
 <li> <a href="http://www.funlearning.com/" target="_blank"> Fun Learning </a> </li>
@@ -31,7 +31,7 @@ Most of these links will make your learning process fun and creative.
 <li> <a href="https://blockly-games.appspot.com/" target="_blank"> Blockly </a> </li>
 </ul>
 
-<h4> The Hour of Code <h4>
+####The Hour of Code
 
 <ul>
 <li> <a href="https://www.tynker.com/hour-of-code/" target="_blank"> Tynker </a> </li>
@@ -57,7 +57,7 @@ Most of these links will make your learning process fun and creative.
 <li> <a href="http://www.kodugamelab.com/hour-of-code/" target="_blank"> Kodu </a> </li>
 </ul>
 
-<h4> Learn to program with robots <h4>
+####Learn to program with robots
 
 <ul>
 <li> <a href="https://tickleapp.com/en-us/" target="_blank"> Tickle </a> </li>
@@ -69,7 +69,7 @@ Most of these links will make your learning process fun and creative.
 <li> <a href="http://kinderlabrobotics.com/" target="_blank"> KinderLab </a> </li> 
 </ul>
 
-<h4> Make your own games or apps <h4>
+####Make your own games or apps
 
 <ul>
 <li> <a href="https://www.makeschool.com/build-an-iphone-game-in-your-browser" target="_blank"> MakeSchool </a> </li>
@@ -83,7 +83,7 @@ Most of these links will make your learning process fun and creative.
 <li> <a href="http://twolivesleft.com/Codea/" target="_blank"> Codea </a> </li>
 </ul>
 
-<h4> Apps for phones and tablets <h4>
+####Apps for phones and tablets
 
 <ul> 
 <li> <a href="https://scratch.mit.edu/" target="_blank"> Scratch </a> </li>
@@ -100,7 +100,7 @@ Most of these links will make your learning process fun and creative.
 <li> <a href="http://twolivesleft.com/Codea/" target="_blank"> Codea </a> </li>
 </ul>
 
-<h4> Courses for advanced learners <h4>
+####Courses for advanced learners
 
 <ul>
 <li> <a href="https://www.edx.org/course-list/allschools/computer-science/allcourses" target="_blank"> edX </a> </li>
@@ -111,7 +111,7 @@ Most of these links will make your learning process fun and creative.
 <li> <a href="http://www.lynda.com/Developer-training-tutorials/50-0.html/" target="_blank"> Lynda </a> </li>
 </ul>
 
-<h4> License  <h4>
+####License
 
 <ul>
 <li> <a href="https://github.com/dreamtocode/awesome-resources/blob/master/LICENSE/"> MIT </a> </li>
