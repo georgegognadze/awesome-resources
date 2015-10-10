@@ -2,7 +2,6 @@
 
 Awesome coding and learning resources for everyone. <br>
 Most of these links will make your learning process fun and creative.
-
 <h4> Coding resources for beginners of all ages <h4>
 <ul>
 <li> <a href="https://code.org/" target="_blank"> Code.org Tutorials </a> </li>
@@ -28,7 +27,6 @@ Most of these links will make your learning process fun and creative.
 <li> <a href="https://www.playcodemonkey.com/" target="_blank"> CodeMonkey </a> </li>
 <li> <a href="https://blockly-games.appspot.com/" target="_blank"> Blockly </a> </li>
 </ul>
-
 <h4> The Hour of Code <h4>
 <ul>
 <li> <a href="https://www.tynker.com/hour-of-code/" target="_blank"> Tynker </a> </li>
@@ -90,7 +88,6 @@ Most of these links will make your learning process fun and creative.
 <li> <a href="http://thefoos.com/" target="_blank"> The Foos </a> </li>
 <li> <a href="http://twolivesleft.com/Codea/" target="_blank"> Codea </a> </li>
 </ul>
-
 <h4> Courses for advanced learners <h4>
 <ul>
 <li> <a href="https://www.edx.org/course-list/allschools/computer-science/allcourses" target="_blank"> edX </a> </li>
