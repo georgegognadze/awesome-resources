@@ -102,4 +102,4 @@ Most of these links will make your learning process fun and creative.
 + <a href="https://github.com/dreamtocode/awesome-resources/blob/master/LICENSE/"> MIT </a>
 
 ##### Pull requests are welcome. 
-###### Happy learning ♥ ♥ ♥
+**Happy learning ♥ ♥ ♥**
