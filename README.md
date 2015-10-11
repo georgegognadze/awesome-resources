@@ -1,6 +1,6 @@
 # Awesome-resources
 
-Awesome coding and learning resources for everyone. <br>
+Awesome coding and learning resources for everyone. 
 Most of these links will make your learning process fun and creative.
 
 ####Coding resources for beginners of all ages 
@@ -18,7 +18,6 @@ Most of these links will make your learning process fun and creative.
 + <a href="http://www.w3schools.com/" target="_blank"> W3schools </a>
 + <a href="https://www.test4u.eu/" target="_blank"> Test4u </a>
 
-
 ####Coding for younger beginners 
 
 + <a href="http://www.funlearning.com/" target="_blank"> Fun Learning </a>
@@ -27,7 +26,6 @@ Most of these links will make your learning process fun and creative.
 + <a href="https://www.allcancode.com/" target="_blank"> Run Marco </a>
 + <a href="https://www.playcodemonkey.com/" target="_blank"> CodeMonkey </a>
 + <a href="https://blockly-games.appspot.com/" target="_blank"> Blockly </a>
-
 
 ####The Hour of Code
 
@@ -53,7 +51,6 @@ Most of these links will make your learning process fun and creative.
 + <a href="https://www.touchdevelop.com/hourofcode2" target="_blank"> TouchDevelop </a> 
 + <a href="http://www.kodugamelab.com/hour-of-code/" target="_blank"> Kodu </a>
 
-
 ####Learn to program with robots
 
 + <a href="https://tickleapp.com/en-us/" target="_blank"> Tickle </a>
@@ -63,7 +60,6 @@ Most of these links will make your learning process fun and creative.
 + <a href="http://www.sphero.com/education/" target="_blank"> Sphero </a> 
 + <a href="https://www.makewonder.com/" target="_blank"> Wonder </a> 
 + <a href="http://kinderlabrobotics.com/" target="_blank"> KinderLab </a> 
-
 
 ####Make your own games or apps
 
@@ -76,7 +72,6 @@ Most of these links will make your learning process fun and creative.
 + <a href="https://www.gethopscotch.com/" target="_blank">  Hopscotch </a>
 + <a href="http://www.kodugamelab.com/" target="_blank"> Kodu </a>
 + <a href="http://twolivesleft.com/Codea/" target="_blank"> Codea </a>
-
 
 ####Apps for phones and tablets
 
@@ -93,7 +88,6 @@ Most of these links will make your learning process fun and creative.
 + <a href="http://thefoos.com/" target="_blank"> The Foos </a>
 + <a href="http://twolivesleft.com/Codea/" target="_blank"> Codea </a>
 
-
 ####Courses for advanced learners
 
 + <a href="https://www.edx.org/course-list/allschools/computer-science/allcourses" target="_blank"> edX </a>
@@ -102,7 +96,6 @@ Most of these links will make your learning process fun and creative.
 + <a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/" target="_blank"> MIT OpenCourseWare </a>
 + <a href="https://www.udemy.com/courses/" target="_blank"> Udemy </a>
 + <a href="http://www.lynda.com/Developer-training-tutorials/50-0.html/" target="_blank"> Lynda </a>
-
 
 ####License
 
