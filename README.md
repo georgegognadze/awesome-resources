@@ -51,6 +51,14 @@ Most of these links will make your learning process fun and creative.
 + <a href="https://www.touchdevelop.com/hourofcode2" target="_blank"> TouchDevelop </a> 
 + <a href="http://www.kodugamelab.com/hour-of-code/" target="_blank"> Kodu </a>
 
+####Beyond an Hour
+
++ <a href="https://www.edx.org/course/introduction-computer-science-harvardx-cs50x/" target="_blank"> Introduction to Computer Science </a>
++ <a href="https://www.coursera.org/course/cs101/" target="_blank"> Computer Science 101 </a>
++ <a href="https://vimeo.com/channels/natureofcode/" target="_blank"> The Nature of Code </a>
++ <a href="http://www.teachingtree.co/" target="_blank"> Computer Science 101 </a>
++ <a href="https://www.udacity.com/course/intro-to-computer-science--cs101/" target="_blank"> Intro to Computer Science </a>
+
 ####Learn to program with robots
 
 + <a href="https://tickleapp.com/en-us/" target="_blank"> Tickle </a>
