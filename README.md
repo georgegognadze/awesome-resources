@@ -56,8 +56,8 @@ Most of these links will make your learning process fun and creative.
 + <a href="https://www.edx.org/course/introduction-computer-science-harvardx-cs50x/" target="_blank"> Introduction to Computer Science </a>
 + <a href="https://www.coursera.org/course/cs101/" target="_blank"> Computer Science 101 </a>
 + <a href="https://vimeo.com/channels/natureofcode/" target="_blank"> The Nature of Code </a>
-+ <a href="http://www.teachingtree.co/" target="_blank"> Computer Science 101 </a>
-+ <a href="https://www.udacity.com/course/intro-to-computer-science--cs101/" target="_blank"> Intro to Computer Science </a>
++ <a href="http://www.teachingtree.co/" target="_blank"> Teaching Tree </a>
++ <a href="https://www.udacity.com/course/cs101" target="_blank"> Intro to Computer Science </a>
 
 ####Learn to program with robots
 
