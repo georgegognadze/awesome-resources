@@ -12,6 +12,7 @@ Most of these links will make your learning process fun and creative.
 + <a href="https://www.codeavengers.com/" target="_blank"> Code Avengers </a>
 + <a href="http://www.freecodecamp.com/" target="_blank"> freeCodeCamp </a>
 + <a href="http://www.funlearning.com/" target="_blank"> Fun Learning </a>
++ <a href="https://www.thenewboston.com/" target="_blank"> TheNewBoston </a>
 + <a href="https://www.codingame.com/" target="_blank"> CodinGame </a>
 + <a href="http://silentteacher.toxicode.fr/" target="_blank"> Silent Teacher </a>
 + <a href="https://codecombat.com/" target="_blank"> Code Combat </a>
