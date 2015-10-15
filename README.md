@@ -5,19 +5,19 @@ Most of these links will make your learning process fun and creative.
 
 ####Coding resources for beginners of all ages 
 
-+ <a href="https://code.org/" target="_blank"> Code.org Tutorials </a> 
-+ <a href="https://www.codecademy.com/" target="_blank"> Codeacademy </a>
-+ <a href="https://www.codeschool.com/" target="_blank"> Code School </a>
-+ <a href="http://www.tutorialspoint.com/" target="_blank"> Tutorialspoint </a>
-+ <a href="https://www.codeavengers.com/" target="_blank"> Code Avengers </a>
++ <a href="https://code.org/" target="_blank"> Code.org Tutorials </a> Simple tutorials/puzzles for beginners that can be completed in an hour or less.
++ <a href="https://www.codecademy.com/" target="_blank"> Codeacademy </a> Learn to code interactively, for free, on the web.
++ <a href="https://www.codeschool.com/" target="_blank"> Code School </a> Code School teaches web technologies in the comfort of your browser with video lessons, coding challenges, and screencasts.
++ <a href="http://www.tutorialspoint.com/" target="_blank"> Tutorialspoint </a> Tutorials for WebGL, Drupal, SQL, R, Apache Flume, Wordpress, XAML, W3CSS, SVG, Web Icons, Web Analytics, Google Maps, Joomla, Magento, Apex, Cryptography, Emberjs, BackboneJS, KnockoutJS, F#, Artificial Intelligence, RESTful, Swift, Node.js and so on.
++ <a href="https://www.codeavengers.com/" target="_blank"> Code Avengers </a> Learn to build websites, apps and games with HTML, CSS and JavaScript.
 + <a href="http://www.freecodecamp.com/" target="_blank"> freeCodeCamp </a>
 + <a href="http://www.funlearning.com/" target="_blank"> Fun Learning </a>
 + <a href="https://www.thenewboston.com/" target="_blank"> TheNewBoston </a>
-+ <a href="https://www.codingame.com/" target="_blank"> CodinGame </a>
-+ <a href="http://silentteacher.toxicode.fr/" target="_blank"> Silent Teacher </a>
-+ <a href="https://codecombat.com/" target="_blank"> Code Combat </a>
-+ <a href="http://www.w3schools.com/" target="_blank"> W3schools </a>
-+ <a href="https://www.test4u.eu/" target="_blank"> Test4u </a>
++ <a href="https://www.codingame.com/" target="_blank"> CodinGame </a> Play video games using code, learn programming in more than 20 programming languages.
++ <a href="http://silentteacher.toxicode.fr/" target="_blank"> Silent Teacher </a> a step by step and funny way to learn the basics.
++ <a href="https://codecombat.com/" target="_blank"> Code Combat </a> An online game that teaches programming. Students write code in real programming languages (Python, JavaScript, Lua, CofeeScript, Clojure)
++ <a href="http://www.w3schools.com/" target="_blank"> W3schools </a> A collection of tutorials and references for web-related languages.
++ <a href="https://www.test4u.eu/" target="_blank"> Test4u </a> A collection of interactive tutorials for HTML, CSS, JavaScript, PHP and MySQL.
 
 ####Coding for younger beginners 
 
