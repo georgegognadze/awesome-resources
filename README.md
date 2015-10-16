@@ -6,9 +6,9 @@ Most of these links will make your learning process fun and creative.
 ####Coding resources for beginners of all ages 
 
 + <a href="https://code.org/" target="_blank"> Code.org Tutorials </a> Simple tutorials/puzzles for beginners that can be completed in an hour or less.
-+ <a href="https://www.codecademy.com/" target="_blank"> Codeacademy </a> Learn to code interactively, for free, on the web.
++ <a href="https://www.codecademy.com/" target="_blank"> Codeacademy </a> Learn to code interactively, for free, on the web. Skill you will learn: HTML/CSS, JavaScript, Python, jQuery, PHP, SQL, AngularJS, Ruby on Rails and more!
 + <a href="https://www.codeschool.com/" target="_blank"> Code School </a> Code School teaches web technologies in the comfort of your browser with video lessons, coding challenges, and screencasts.
-+ <a href="http://www.tutorialspoint.com/" target="_blank"> Tutorialspoint </a> Tutorials for WebGL, Drupal, SQL, R, Apache Flume, Wordpress, XAML, W3CSS, SVG, Web Icons, Web Analytics, Google Maps, Joomla, Magento, Apex, Cryptography, Emberjs, BackboneJS, KnockoutJS, F#, Artificial Intelligence, RESTful, Swift, Node.js and so on.
++ <a href="http://www.tutorialspoint.com/" target="_blank"> Tutorialspoint </a> Tutorials for WebGL, Drupal, SQL, Wordpress, XAML, W3CSS, SVG, Web Icons, Web Analytics, Google Maps, Joomla, Magento, Apex, Emberjs, BackboneJS, KnockoutJS, Node.js and more!
 + <a href="https://www.codeavengers.com/" target="_blank"> Code Avengers </a> Learn to build websites, apps and games with HTML, CSS and JavaScript.
 + <a href="http://www.freecodecamp.com/" target="_blank"> freeCodeCamp </a> Learn to code and build projects for non-profits. Skill you will learn: HTML5, CSS3, Javascript, Databases, Git, Node.js, Angular.js, Agile.
 + <a href="http://www.funlearning.com/" target="_blank"> Fun Learning </a> An early childhood education program for three to six-year-olds that is based on the Fun Learning principles.
