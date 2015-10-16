@@ -11,7 +11,7 @@ Most of these links will make your learning process fun and creative.
 + <a href="http://www.tutorialspoint.com/" target="_blank"> Tutorialspoint </a> Tutorials for WebGL, Drupal, SQL, R, Apache Flume, Wordpress, XAML, W3CSS, SVG, Web Icons, Web Analytics, Google Maps, Joomla, Magento, Apex, Cryptography, Emberjs, BackboneJS, KnockoutJS, F#, Artificial Intelligence, RESTful, Swift, Node.js and so on.
 + <a href="https://www.codeavengers.com/" target="_blank"> Code Avengers </a> Learn to build websites, apps and games with HTML, CSS and JavaScript.
 + <a href="http://www.freecodecamp.com/" target="_blank"> freeCodeCamp </a> Learn to code and build projects for non-profits. Skill you will learn: HTML5, CSS3, Javascript, Databases, Git, Node.js, Angular.js, Agile.
-+ <a href="http://www.funlearning.com/" target="_blank"> Fun Learning </a> An early childhood education program for three to six-year-olds that is based on the Fun Learning principles. Angry Birds Playground combines the fun of Angry Birds with Finnish educational expertise to provide solutions and tools that support the engagement, creativity and innovative thinking of young learners.
++ <a href="http://www.funlearning.com/" target="_blank"> Fun Learning </a> An early childhood education program for three to six-year-olds that is based on the Fun Learning principles.
 + <a href="https://www.thenewboston.com/" target="_blank"> TheNewBoston </a> Free Educational Video Tutorials on Computer Programming, Web Design, Game Development and More!
 + <a href="https://www.codingame.com/" target="_blank"> CodinGame </a> Play video games using code, learn programming in more than 20 programming languages.
 + <a href="http://silentteacher.toxicode.fr/" target="_blank"> Silent Teacher </a> a step by step and funny way to learn the basics.
@@ -22,11 +22,11 @@ Most of these links will make your learning process fun and creative.
 ####Coding for younger beginners 
 
 + <a href="http://www.funlearning.com/" target="_blank"> Fun Learning </a> An early childhood education program for three to six-year-olds that is based on the Fun Learning principles. Angry Birds Playground combines the fun of Angry Birds with Finnish educational expertise to provide solutions and tools that support the engagement, creativity and innovative thinking of young learners.
-+ <a href="http://kata.coderdojo.com/wiki/Learning_Resource" target="_blank"> CoderDojo </a>
-+ <a href="https://www.robomindacademy.com/" target="_blank"> RoboMind Academy </a>
-+ <a href="https://www.allcancode.com/" target="_blank"> Run Marco </a>
-+ <a href="https://www.playcodemonkey.com/" target="_blank"> CodeMonkey </a>
-+ <a href="https://blockly-games.appspot.com/" target="_blank"> Blockly </a>
++ <a href="http://kata.coderdojo.com/wiki/Learning_Resource" target="_blank"> CoderDojo </a> Open source, game based learning resources for young people to learn the fundamentals of coding with fun results!
++ <a href="https://www.robomindacademy.com/" target="_blank"> RoboMind Academy </a>  By programming a virtual robot, the student is introduced to logic, automation and technology. Available as an online educator-friendly platform that can be used with students aged 8 years or older. 
++ <a href="https://www.allcancode.com/" target="_blank"> Run Marco </a> An adventure game for kids that teaches the basic of coding. Available as a browser game and an Android app, already translated in 13 European languages (more coming soon).
++ <a href="https://www.playcodemonkey.com/" target="_blank"> CodeMonkey </a> CodeMonkey is a fun online game that teaches you how to code. In this free technology and STEM game, students learn about computer coding concepts like functions and loops by programming a monkey to find bananas! Real world programming language. Write code. Catch bananas. Save the world.
++ <a href="https://blockly-games.appspot.com/" target="_blank"> Blockly </a> You can code! Build a simple computer application by programming “tag” blocks to reach your target – no typing required. 
 
 ####The Hour of Code
 
