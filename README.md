@@ -30,9 +30,8 @@ Most of these links will make your learning process fun and creative.
 
 ####The Hour of Code
 
-+ <a href="https://www.tynker.com/hour-of-code/" target="_blank"> Tynker </a>
-+ <a href="https://scratch.mit.edu/hoc2014/" target="_blank"> CoderDojo </a>
 + <a href="https://studio.code.org/hoc/1" target="_blank"> Code.org </a>
++ <a href="https://scratch.mit.edu/hoc2014/" target="_blank"> Scratch </a>
 + <a href="http://hello.processing.org/editor/" target="_blank"> Processing </a>
 + <a href="https://www.makeschool.com/build-an-iphone-game-in-your-browser" target="_blank"> MakeSchool </a>
 + <a href="http://lightbot.com/hoc2014.html" target="_blank"> Lightbot </a>
@@ -46,11 +45,12 @@ Most of these links will make your learning process fun and creative.
 + <a href="https://www.kodable.com/hour-of-code/" target="_blank"> Kodable </a>
 + <a href="http://appinventor.mit.edu/explore/hour-of-code.html" target="_blank"> AppInventor </a>
 + <a href="http://www.thefoos.com/hourofcode/" target="_blank"> The Foos </a> 
-+ <a href="https://www.robomindacademy.com//go/navigator/storylines?course=HourOfCode" target="_blank"> RoboMind Academy </a> 
++ <a href="https://www.robomindacademy.com//go/navigator/storylines?course=HourOfCode" target="_blank"> RoboMind Academy </a>
 + <a href="https://groklearning.com/hoc-2014/" target="_blank"> Grok learning </a> 
 + <a href="http://quorumlanguage.com/documents/hourofcode/part1.php" target="_blank"> Quorum </a> 
 + <a href="https://www.touchdevelop.com/hourofcode2" target="_blank"> TouchDevelop </a> 
 + <a href="http://www.kodugamelab.com/hour-of-code/" target="_blank"> Kodu </a>
++  <a href="https://www.tynker.com/hour-of-code/" target="_blank"> Tynker </a>
 
 ####Beyond an Hour
 
