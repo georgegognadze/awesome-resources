@@ -72,7 +72,7 @@ Most of these links will make your learning process fun and creative.
 
 ####Make your own games or apps
 
-+ <a href="https://www.makeschool.com/build-an-iphone-game-in-your-browser" target="_blank"> MakeSchool </a>
++ <a href="https://www.makeschool.com/build-an-iphone-game-in-your-browser" target="_blank"> MakeSchool </a> Learn the basics of programming using the Swift programming language. Build an iphone game in your browser.
 + <a href="https://studio.code.org/flappy/1" target="_blank"> Code.org Flappy Bird</a>
 + <a href="https://bitsbox.com/index.html#hoc" target="_blank"> Bitsbox </a>
 + <a href="https://www.touchdevelop.com/hourofcode2" target="_blank"> TouchDevelop </a>
