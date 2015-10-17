@@ -30,7 +30,7 @@ Most of these links will make your learning process fun and creative.
 
 ####The Hour of Code
 
-+ <a href="https://studio.code.org/hoc/1" target="_blank"> Code.org </a>
++ <a href="https://studio.code.org/hoc/1" target="_blank"> Code.org </a> This course introduces the Angry Birds. Coding basics are explained by Mark Zuckerberg and Chris Bosh.
 + <a href="https://scratch.mit.edu/hoc2014/" target="_blank"> Scratch </a>
 + <a href="http://hello.processing.org/editor/" target="_blank"> Processing </a>
 + <a href="https://www.makeschool.com/build-an-iphone-game-in-your-browser" target="_blank"> MakeSchool </a>
