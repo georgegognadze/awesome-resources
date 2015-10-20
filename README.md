@@ -78,7 +78,7 @@ Most of these links will make your learning process fun and creative.
 teaches kids to code!
 + <a href="https://www.touchdevelop.com/hourofcode2" target="_blank"> TouchDevelop </a> Write some code using language called Touch Develop. You'll fix the code and create your game.
 + <a href="http://appinventor.mit.edu/explore/hour-of-code.html" target="_blank"> AppInventor </a> With these beginner-friendly tutorials, you will learn the basics of programming apps for Android. You'll create three working apps.
-+ <a href="https://studio.code.org/s/playlab/stage/1/puzzle/1" target="_blank"> Code.org </a>
++ <a href="https://studio.code.org/s/playlab/stage/1/puzzle/1" target="_blank"> Code.org </a> Create your own game using Code blocks. When you're done, click Finish to let friends try your game on their phones.
 + <a href="https://www.gethopscotch.com/" target="_blank">  Hopscotch </a>
 + <a href="http://www.kodugamelab.com/" target="_blank"> Kodu </a>
 + <a href="http://twolivesleft.com/Codea/" target="_blank"> Codea </a>
