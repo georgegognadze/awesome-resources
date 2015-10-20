@@ -76,7 +76,7 @@ Most of these links will make your learning process fun and creative.
 + <a href="https://studio.code.org/flappy/1" target="_blank"> Code.org Flappy Bird</a> Create your custom version of flappy bird using event handlers. The code you'll write involves dragging and dropping blocks.
 + <a href="https://bitsbox.com/index.html#hoc" target="_blank"> Bitsbox </a> A subscription box that 
 teaches kids to code!
-+ <a href="https://www.touchdevelop.com/hourofcode2" target="_blank"> TouchDevelop </a>
++ <a href="https://www.touchdevelop.com/hourofcode2" target="_blank"> TouchDevelop </a> Write some code using language called Touch Develop. You'll fix the code and create your game.
 + <a href="http://appinventor.mit.edu/explore/hour-of-code.html" target="_blank"> AppInventor </a>
 + <a href="https://studio.code.org/s/playlab/stage/1/puzzle/1" target="_blank"> Code.org </a>
 + <a href="https://www.gethopscotch.com/" target="_blank">  Hopscotch </a>
