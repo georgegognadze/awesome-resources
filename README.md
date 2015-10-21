@@ -79,7 +79,7 @@ teaches kids to code!
 + <a href="https://www.touchdevelop.com/hourofcode2" target="_blank"> TouchDevelop </a> Write some code using language called Touch Develop. You'll fix the code and create your game.
 + <a href="http://appinventor.mit.edu/explore/hour-of-code.html" target="_blank"> AppInventor </a> With these beginner-friendly tutorials, you will learn the basics of programming apps for Android. You'll create three working apps.
 + <a href="https://studio.code.org/s/playlab/stage/1/puzzle/1" target="_blank"> Code.org </a> Create your own game using Code blocks. When you're done, click Finish to let friends try your game on their phones.
-+ <a href="https://www.gethopscotch.com/" target="_blank">  Hopscotch </a>
++ <a href="https://www.gethopscotch.com/" target="_blank">  Hopscotch </a> You can make your own version of popular games like Geometry Dash, create awesome art or build something brand new. Try doing fashion design, a journey into outer space, or making a piano. The sky is the limit :)
 + <a href="http://www.kodugamelab.com/" target="_blank"> Kodu </a> Kodu lets kids create games on the PC and Xbox via a simple visual programming language. Kodu can be used to teach creativity, problem solving, storytelling, as well as programming. Anyone can use Kodu to make a game, young children as well as adults with no design or programming skills.
 + <a href="http://twolivesleft.com/Codea/" target="_blank"> Codea </a> Codea for iPad lets you create games and simulations - or just about any visual idea you have. Turn your thoughts into interactive creations that make use of iPad features like Multi-Touch and the accelerometer.
 
