@@ -81,7 +81,7 @@ teaches kids to code!
 + <a href="https://studio.code.org/s/playlab/stage/1/puzzle/1" target="_blank"> Code.org </a> Create your own game using Code blocks. When you're done, click Finish to let friends try your game on their phones.
 + <a href="https://www.gethopscotch.com/" target="_blank">  Hopscotch </a>
 + <a href="http://www.kodugamelab.com/" target="_blank"> Kodu </a>
-+ <a href="http://twolivesleft.com/Codea/" target="_blank"> Codea </a>
++ <a href="http://twolivesleft.com/Codea/" target="_blank"> Codea </a> Codea for iPad lets you create games and simulations - or just about any visual idea you have. Turn your thoughts into interactive creations that make use of iPad features like Multi-Touch and the accelerometer.
 
 ####Apps for phones and tablets
 
