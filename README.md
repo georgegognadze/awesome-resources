@@ -31,7 +31,7 @@ Most of these links will make your learning process fun and creative.
 ####The Hour of Code
 
 + <a href="https://studio.code.org/hoc/1" target="_blank"> Code.org </a> This course introduces the Angry Birds. Coding basics are explained by Mark Zuckerberg and Chris Bosh.
-+ <a href="https://scratch.mit.edu/hoc2014/" target="_blank"> Scratch </a>
++ <a href="https://scratch.mit.edu/hoc2014/" target="_blank"> Scratch </a> 
 + <a href="http://hello.processing.org/editor/" target="_blank"> Processing </a>
 + <a href="https://www.makeschool.com/build-an-iphone-game-in-your-browser" target="_blank"> MakeSchool </a> Learn the basics of programming using the Swift programming language. Build an iphone game in your browser.
 + <a href="http://lightbot.com/hoc2014.html" target="_blank"> Lightbot </a>
@@ -85,7 +85,7 @@ teaches kids to code!
 
 ####Apps for phones and tablets
 
-+ <a href="https://scratch.mit.edu/" target="_blank"> Scratch </a>
++ <a href="https://scratch.mit.edu/" target="_blank"> Scratch </a> With Scratch, you can program your own stories, games, and animations — and share them online.
 + <a href="http://www.scratchjr.org/" target="_blank"> ScratchJr </a>
 + <a href="https://www.tynker.com/" target="_blank"> Tynker </a>
 + <a href="https://www.gethopscotch.com/" target="_blank">  Hopscotch </a>
