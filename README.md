@@ -92,9 +92,9 @@ teaches kids to code!
 + <a href="http://www.daisythedinosaur.com/" target="_blank">  Daisy the Dinosaur </a> This free, fun app has an easy drag and drop interface that kids of all ages can use to animate Daisy to dance across the screen. Kids will intuitively grasp the basics of objects, sequencing, loops and events by solving this app's challenges.
 + <a href="https://share.catrob.at/pocketcode/" target="_blank">  Pocket Code </a> Try out the starter programs. Look inside to make changes and add your ideas.
 + <a href="http://www.kodugamelab.com/" target="_blank"> Kodu </a> Kodu lets kids create games on the PC and Xbox via a simple visual programming language. Kodu can be used to teach creativity, problem solving, storytelling, as well as programming. Anyone can use Kodu to make a game, young children as well as adults with no design or programming skills.
-+ <a href="http://lightbot.com/hocflash.html" target="_blank"> LightBot </a>
-+ <a href="https://www.playcodemonkey.com/" target="_blank"> CodeMonkey </a>
-+ <a href="https://www.kodable.com/" target="_blank"> Kodable </a> 
++ <a href="http://lightbot.com/hocflash.html" target="_blank"> LightBot </a> Solve Puzzles using Programming Logic.
++ <a href="https://www.playcodemonkey.com/" target="_blank"> CodeMonkey </a> CodeMonkey is an engaging online game that teaches real computer programming to children as young as 9. We release new features and challenges on a monthly basis.
++ <a href="https://www.kodable.com/" target="_blank"> Kodable </a> Your child will learn to use conditions, loops, functions, and how to write and think algorithmically. Before reaching middle school, they’ll know the building blocks of every modern object oriented programming language.
 + <a href="http://thefoos.com/" target="_blank"> The Foos </a>
 + <a href="http://twolivesleft.com/Codea/" target="_blank"> Codea </a>
 
