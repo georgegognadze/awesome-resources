@@ -95,8 +95,8 @@ teaches kids to code!
 + <a href="http://lightbot.com/hocflash.html" target="_blank"> LightBot </a> Solve Puzzles using Programming Logic.
 + <a href="https://www.playcodemonkey.com/" target="_blank"> CodeMonkey </a> CodeMonkey is an engaging online game that teaches real computer programming to children as young as 9. We release new features and challenges on a monthly basis.
 + <a href="https://www.kodable.com/" target="_blank"> Kodable </a> Your child will learn to use conditions, loops, functions, and how to write and think algorithmically. Before reaching middle school, they’ll know the building blocks of every modern object oriented programming language.
-+ <a href="http://thefoos.com/" target="_blank"> The Foos </a>
-+ <a href="http://twolivesleft.com/Codea/" target="_blank"> Codea </a>
++ <a href="http://thefoos.com/" target="_blank"> The Foos </a> Welcome to The Foos, the #1 learn to code app for ages 5+. Get your kids excited about the ABC's of computer science with our award-winning game. 
++ <a href="http://twolivesleft.com/Codea/" target="_blank"> Codea </a> Codea for iPad lets you create games and simulations - or just about any visual idea you have. Turn your thoughts into interactive creations that make use of iPad features like Multi-Touch and the accelerometer.
 
 ####Courses for advanced learners
 
