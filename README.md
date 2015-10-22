@@ -88,10 +88,10 @@ teaches kids to code!
 + <a href="https://scratch.mit.edu/" target="_blank"> Scratch </a> With Scratch, you can program your own stories, games, and animations — and share them online.
 + <a href="http://www.scratchjr.org/" target="_blank"> ScratchJr </a> With ScratchJr, young children (ages 5-7) can program their own interactive stories and games. In the process, they learn to solve problems, design projects, and express themselves creatively on the computer.
 + <a href="https://www.tynker.com/" target="_blank"> Tynker </a> Tynker is a creative computing platform and it offers self-paced online courses for children to learn coding at home, as well as an engaging programming curriculum for schools.
-+ <a href="https://www.gethopscotch.com/" target="_blank">  Hopscotch </a>
-+ <a href="http://www.daisythedinosaur.com/" target="_blank">  Daisy the Dinosaur </a>
-+ <a href="https://share.catrob.at/pocketcode/" target="_blank">  Pocket Code </a>
-+ <a href="http://www.kodugamelab.com/" target="_blank"> Kodu </a>
++ <a href="https://www.gethopscotch.com/" target="_blank">  Hopscotch </a> You can make your own version of popular games like Geometry Dash, create awesome art or build something brand new. Try doing fashion design, a journey into outer space, or making a piano.
++ <a href="http://www.daisythedinosaur.com/" target="_blank">  Daisy the Dinosaur </a> This free, fun app has an easy drag and drop interface that kids of all ages can use to animate Daisy to dance across the screen. Kids will intuitively grasp the basics of objects, sequencing, loops and events by solving this app's challenges.
++ <a href="https://share.catrob.at/pocketcode/" target="_blank">  Pocket Code </a> Try out the starter programs. Look inside to make changes and add your ideas.
++ <a href="http://www.kodugamelab.com/" target="_blank"> Kodu </a> Kodu lets kids create games on the PC and Xbox via a simple visual programming language. Kodu can be used to teach creativity, problem solving, storytelling, as well as programming. Anyone can use Kodu to make a game, young children as well as adults with no design or programming skills.
 + <a href="http://lightbot.com/hocflash.html" target="_blank"> LightBot </a>
 + <a href="https://www.playcodemonkey.com/" target="_blank"> CodeMonkey </a>
 + <a href="https://www.kodable.com/" target="_blank"> Kodable </a> 
