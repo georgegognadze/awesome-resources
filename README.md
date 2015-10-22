@@ -62,9 +62,9 @@ Most of these links will make your learning process fun and creative.
 
 ####Learn to program with robots
 
-+ <a href="https://tickleapp.com/en-us/" target="_blank"> Tickle </a>
-+ <a href="http://www.lego.com/en-us/mindstorms/ target="_blank"> Lego Mindstorms </a> 
-+ <a href="http://www.finchrobot.com/" target="_blank"> Finch </a> 
++ <a href="https://tickleapp.com/en-us/" target="_blank"> Tickle </a> Learn to program Arduino, drones, robots, connected toys, and smart home devices, all wirelessly. Tickle is easy to learn, fun to use, and 1000x more powerful!
++ <a href="http://www.lego.com/en-us/mindstorms/" target="_blank"> Lego Mindstorms </a> The Lego Mindstorms series of kits contain software and hardware to create customizable, programmable robots. They include an intelligent brick computer that controls the system, a set of modular sensors and motors, and Lego parts from the Technic line to create the mechanical systems.
++ <a href="http://www.finchrobot.com/" target="_blank"> Finch </a> The Finch was designed to allow students to write richly interactive programs. On-board features include: Light, temperature, and obstacle sensors, Accelerometers, Motors, Buzzer, Full-color beak LED, Pen mount for drawing capability, Plugs into USB port - no batteries required.
 + <a href="http://sparkfun.codepops.com/#0/" target="_blank"> Sparkfun </a> 
 + <a href="http://www.sphero.com/education/" target="_blank"> Sphero </a> 
 + <a href="https://www.makewonder.com/" target="_blank"> Wonder </a> 
