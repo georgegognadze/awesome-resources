@@ -87,7 +87,7 @@ teaches kids to code!
 
 + <a href="https://scratch.mit.edu/" target="_blank"> Scratch </a> With Scratch, you can program your own stories, games, and animations — and share them online.
 + <a href="http://www.scratchjr.org/" target="_blank"> ScratchJr </a> With ScratchJr, young children (ages 5-7) can program their own interactive stories and games. In the process, they learn to solve problems, design projects, and express themselves creatively on the computer.
-+ <a href="https://www.tynker.com/" target="_blank"> Tynker </a>
++ <a href="https://www.tynker.com/" target="_blank"> Tynker </a> Tynker is a creative computing platform and it offers self-paced online courses for children to learn coding at home, as well as an engaging programming curriculum for schools.
 + <a href="https://www.gethopscotch.com/" target="_blank">  Hopscotch </a>
 + <a href="http://www.daisythedinosaur.com/" target="_blank">  Daisy the Dinosaur </a>
 + <a href="https://share.catrob.at/pocketcode/" target="_blank">  Pocket Code </a>
