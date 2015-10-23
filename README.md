@@ -35,7 +35,7 @@ Most of these links will make your learning process fun and creative.
 + <a href="http://hello.processing.org/editor/" target="_blank"> Processing </a>
 + <a href="https://www.makeschool.com/build-an-iphone-game-in-your-browser" target="_blank"> MakeSchool </a> Learn the basics of programming using the Swift programming language. Build an iphone game in your browser.
 + <a href="http://lightbot.com/hoc2014.html" target="_blank"> Lightbot </a>
-+ <a href="https://www.khanacademy.org/computing/hour-of-code/hour-of-code-tutorial/v/welcome-hour-of-code" target="_blank"> Khanacademy </a>
++ <a href="https://www.khanacademy.org/hourofcode/" target="_blank"> Khanacademy </a> They have many ways to do Hour of Code choose any of them and learn how to program drawings using JavaScript, or learn how to make webpages with HTML tags and CSS, or learn how to manipulate data in a database with SQL.
 + <a href="https://codehs.com/hourofcode/karel/1?start/" target="_blank"> CodeHS </a>
 + <a href="https://www.codecademy.com/courses/hour-of-code/0/1/" target="_blank"> Codeacademy </a>
 + <a href="http://codecombat.com/?hour_of_code=true" target="_blank"> CodeCombat </a>
