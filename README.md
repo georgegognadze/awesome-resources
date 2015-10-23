@@ -56,9 +56,9 @@ Most of these links will make your learning process fun and creative.
 
 + <a href="https://www.edx.org/course/introduction-computer-science-harvardx-cs50x/" target="_blank"> Introduction to Computer Science </a> An introduction to the intellectual enterprises of computer science and the art of programming. You will learn concepts like abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development.
 + <a href="https://www.coursera.org/course/cs101/" target="_blank"> Computer Science 101 </a> CS101 teaches the essential ideas of Computer Science for a zero-prior-experience audience. The course uses small coding experiments in the browser to play with the nature of computers, understanding their strengths and limitations.
-+ <a href="https://vimeo.com/channels/natureofcode/" target="_blank"> The Nature of Code </a>
-+ <a href="http://www.teachingtree.co/" target="_blank"> Teaching Tree </a>
-+ <a href="https://www.udacity.com/course/cs101" target="_blank"> Intro to Computer Science </a>
++ <a href="https://vimeo.com/channels/natureofcode/" target="_blank"> The Nature of Code </a> How can we capture the unpredictable evolutionary and emergent properties of nature in software? How can understanding the mathematical principles behind our physical world help us to create digital worlds?
++ <a href="https://www.udacity.com/course/cs101" target="_blank"> Intro to Computer Science </a> In this introduction to computer programming course, you’ll learn and practice key computer science concepts by building your own versions of popular web applications. You’ll learn Python, a powerful, easy-to-learn, and widely used programming language, and you’ll explore computer science basics, as you build your own search engine and social network.
++ <a href="http://www.teachingtree.co/" target="_blank"> Teaching Tree </a> TeachingTree is an open platform that lets anybody organize educational content.
 
 ####Learn to program with robots
 
