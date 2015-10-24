@@ -112,5 +112,9 @@ teaches kids to code!
 
 + <a href="https://github.com/dreamtocode/awesome-resources/blob/master/LICENSE/"> MIT </a>
 
-##### Pull requests are welcome. 
+
+####Contributing
+
+Take care to maintain the existing style of this list.
+
 **Happy learning ♥ ♥ ♥**
