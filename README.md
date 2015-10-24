@@ -100,12 +100,12 @@ teaches kids to code!
 
 ####Courses for advanced learners
 
-+ <a href="https://www.edx.org/course-list/allschools/computer-science/allcourses" target="_blank"> edX </a>
-+ <a href="https://www.coursera.org/courses?orderby=upcoming&cats=cs-programming" target="_blank"> Coursera </a>
++ <a href="https://www.edx.org/course-list/allschools/computer-science/allcourses" target="_blank"> edX </a> Open edX is the open-source platform that powers edX courses and is freely available. With Open edX, educators and technologists can build learning tools and contribute new features to the platform, creating innovative solutions to benefit students everywhere.
++ <a href="https://www.coursera.org/courses?orderby=upcoming&cats=cs-programming" target="_blank"> Coursera </a> Coursera provides universal access to the world’s best education, partnering with top universities and organizations to offer courses online.
 + <a href="https://www.udacity.com/courses#!/all" target="_blank"> Udacity </a>
 + <a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/" target="_blank"> MIT OpenCourseWare </a>
-+ <a href="https://www.udemy.com/courses/" target="_blank"> Udemy </a>
-+ <a href="http://www.lynda.com/Developer-training-tutorials/50-0.html/" target="_blank"> Lynda </a>
++ <a href="https://www.udemy.com/courses/" target="_blank"> Udemy </a> Udemy with industry giants—Google, AT&T, Facebook, Salesforce, Cloudera, etc.—we offer Nanodegree programs and credentials, designed so professionals become Web Developers, Data Analysts, Mobile Developers, etc.
++ <a href="http://www.lynda.com/Developer-training-tutorials/50-0.html/" target="_blank"> Lynda </a> lynda.com is a leading online learning company that helps anyone learn business, software, technology and creative skills to achieve personal and professional goals.
 
 ####License
 
