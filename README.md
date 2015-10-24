@@ -16,7 +16,7 @@ Most of these links will make your learning process fun and creative.
 + <a href="https://www.thenewboston.com/" target="_blank"> TheNewBoston </a> Free Educational Video Tutorials on Computer Programming, Web Design, Game Development and More!
 + <a href="https://www.codingame.com/" target="_blank"> CodinGame </a> Play video games using code, learn programming in more than 20 programming languages.
 + <a href="http://silentteacher.toxicode.fr/" target="_blank"> Silent Teacher </a> a step by step and funny way to learn the basics.
-+ <a href="https://codecombat.com/" target="_blank"> Code Combat </a> An online game that teaches programming. Students write code in real programming languages (Python, JavaScript, Lua, CofeeScript, Clojure)
++ <a href="https://codecombat.com/" target="_blank"> Code Combat </a> An online game that teaches programming. Students write code in real programming languages (Python, JavaScript, Lua, CofeeScript, Clojure).
 + <a href="http://www.w3schools.com/" target="_blank"> W3schools </a> A collection of tutorials and references for web-related languages.
 + <a href="https://www.test4u.eu/" target="_blank"> Test4u </a> A collection of interactive tutorials for HTML, CSS, JavaScript, PHP and MySQL.
 
@@ -27,7 +27,7 @@ Most of these links will make your learning process fun and creative.
 + <a href="https://www.robomindacademy.com/" target="_blank"> RoboMind Academy </a>  By programming a virtual robot, the student is introduced to logic, automation and technology. Available as an online educator-friendly platform that can be used with students aged 8 years or older. 
 + <a href="https://www.allcancode.com/" target="_blank"> Run Marco </a> An adventure game for kids that teaches the basic of coding. Available as a browser game and an Android app.
 + <a href="https://www.playcodemonkey.com/" target="_blank"> CodeMonkey </a> CodeMonkey is a fun online game that teaches you how to code. In this free technology and STEM game, students learn about computer coding concepts like functions and loops by programming a monkey to find bananas! Real world programming language. Write code. Catch bananas. Save the world.
-+ <a href="https://blockly-games.appspot.com/" target="_blank"> Blockly </a> You can code! Build a simple computer application by programming “tag” blocks to reach your target – no typing required. 
++ <a href="https://blockly-games.appspot.com/" target="_blank"> Blockly </a> Build a simple computer application by programming “tag” blocks to reach your target – no typing required. 
 
 ####The Hour of Code
 
@@ -69,7 +69,7 @@ Most of these links will make your learning process fun and creative.
 + <a href="http://sparkfun.codepops.com/#0/" target="_blank"> Sparkfun </a> Arduino Unplugged -- Hour of Code with Sparkfun's Digital Sandbox.
 + <a href="http://www.sphero.com/education/" target="_blank"> Sphero </a>  SPRK makes the skills of the future approachable and practical. And most importantly, fun. Learn: Drag and drop C-based block programming, Block programming in your Chrome browser, Programming with visual macros and more!
 + <a href="https://www.makewonder.com/" target="_blank"> Wonder </a> Home of Dash and Dot, robots that you can code.
-+ <a href="http://kinderlabrobotics.com/" target="_blank"> KinderLab </a> Children build their own robot with KIBO, program it to do what they want, and decorate it - all without a PC, tablet, or smartphone
++ <a href="http://kinderlabrobotics.com/" target="_blank"> KinderLab </a> Children build their own robot with KIBO, program it to do what they want, and decorate it - all without a PC, tablet, or smartphone.
 
 ####Make your own games or apps
 
@@ -80,7 +80,7 @@ teaches kids to code!
 + <a href="https://www.touchdevelop.com/hourofcode2" target="_blank"> TouchDevelop </a> Write some code using language called Touch Develop. You'll fix the code and create your game.
 + <a href="http://appinventor.mit.edu/explore/hour-of-code.html" target="_blank"> AppInventor </a> With these beginner-friendly tutorials, you will learn the basics of programming apps for Android. You'll create three working apps.
 + <a href="https://studio.code.org/s/playlab/stage/1/puzzle/1" target="_blank"> Code.org </a> Create your own game using Code blocks. When you're done, click Finish to let friends try your game on their phones.
-+ <a href="https://www.gethopscotch.com/" target="_blank">  Hopscotch </a> You can make your own version of popular games like Geometry Dash, create awesome art or build something brand new. Try doing fashion design, a journey into outer space, or making a piano. The sky is the limit :)
++ <a href="https://www.gethopscotch.com/" target="_blank">  Hopscotch </a> You can make your own version of popular games like Geometry Dash, create awesome art or build something brand new. Try doing fashion design, a journey into outer space, or making a piano. The sky is the limit :).
 + <a href="http://www.kodugamelab.com/" target="_blank"> Kodu </a> Kodu lets kids create games on the PC and Xbox via a simple visual programming language. Kodu can be used to teach creativity, problem solving, storytelling, as well as programming. Anyone can use Kodu to make a game, young children as well as adults with no design or programming skills.
 + <a href="http://twolivesleft.com/Codea/" target="_blank"> Codea </a> Codea for iPad lets you create games and simulations - or just about any visual idea you have. Turn your thoughts into interactive creations that make use of iPad features like Multi-Touch and the accelerometer.
 
