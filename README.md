@@ -110,7 +110,7 @@ teaches kids to code!
 
 ####License
 
-+ <a href="https://github.com/dreamtocode/awesome-resources/blob/master/LICENSE/"> MIT </a>
++ Awesome resources is released under the <a href="https://github.com/dreamtocode/awesome-resources/blob/master/LICENSE/"> MIT License</a>.
 
 
 ####Contributing
