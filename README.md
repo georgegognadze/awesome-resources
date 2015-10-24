@@ -31,26 +31,26 @@ Most of these links will make your learning process fun and creative.
 ####The Hour of Code
 
 + <a href="https://studio.code.org/hoc/1" target="_blank"> Code.org </a> This course introduces the Angry Birds. Coding basics are explained by Mark Zuckerberg and Chris Bosh.
-+ <a href="https://scratch.mit.edu/hoc2014/" target="_blank"> Scratch </a> 
-+ <a href="http://hello.processing.org/editor/" target="_blank"> Processing </a>
-+ <a href="https://www.makeschool.com/build-an-iphone-game-in-your-browser" target="_blank"> MakeSchool </a> Learn the basics of programming using the Swift programming language. Build an iphone game in your browser.
-+ <a href="http://lightbot.com/hoc2014.html" target="_blank"> Lightbot </a>
-+ <a href="https://www.khanacademy.org/hourofcode/" target="_blank"> Khanacademy </a> They have many ways to do Hour of Code choose any of them and learn how to program drawings using JavaScript, or learn how to make webpages with HTML tags and CSS, or learn how to manipulate data in a database with SQL.
-+ <a href="https://codehs.com/hourofcode/karel/1?start/" target="_blank"> CodeHS </a>
-+ <a href="https://www.codecademy.com/courses/hour-of-code/0/1/" target="_blank"> Codeacademy </a>
-+ <a href="http://codecombat.com/?hour_of_code=true" target="_blank"> CodeCombat </a>
-+ <a href="http://sparkfun.codepops.com/#0/" target="_blank"> Sparkfun </a>
-+ <a href="https://www.codeavengers.com/javascript/100#1.1" target="_blank"> Code Avengers </a>
-+ <a href="https://blockly-games.appspot.com/maze/" target="_blank"> Blockly </a>
-+ <a href="https://www.kodable.com/hour-of-code/" target="_blank"> Kodable </a>
-+ <a href="http://appinventor.mit.edu/explore/hour-of-code.html" target="_blank"> AppInventor </a>
-+ <a href="http://www.thefoos.com/hourofcode/" target="_blank"> The Foos </a> 
-+ <a href="https://www.robomindacademy.com//go/navigator/storylines?course=HourOfCode" target="_blank"> RoboMind Academy </a>
-+ <a href="https://groklearning.com/hoc-2014/" target="_blank"> Grok learning </a> 
-+ <a href="http://quorumlanguage.com/documents/hourofcode/part1.php" target="_blank"> Quorum </a> 
-+ <a href="https://www.touchdevelop.com/hourofcode2" target="_blank"> TouchDevelop </a> 
-+ <a href="http://www.kodugamelab.com/hour-of-code/" target="_blank"> Kodu </a>
-+  <a href="https://www.tynker.com/hour-of-code/" target="_blank"> Tynker </a>
++ <a href="https://scratch.mit.edu/hoc2014/" target="_blank"> Scratch </a> With Scratch, you can create your own interactive games, stories, animations — and share them with your friends. Get started by animating your name, creating a holiday card, or making a pong game.
++ <a href="http://hello.processing.org/editor/" target="_blank"> Processing </a> An introduction to programming in the context of the visual arts using the Processing programming language. Short video lessons introduce coding exercises that lead to designing an interactive drawing program.
++ <a href="https://www.makeschool.com/build-an-iphone-game-in-your-browser" target="_blank"> MakeSchool </a> Learn to code by making an iPhone game using a brand new and beginner-friendly programming language called Swift! Create a Pokémon-inspired action game and write code to teach your monster new moves. You will learn how to use variables, methods, and objects to help your monster win!
++ <a href="http://lightbot.com/hoc2014.html" target="_blank"> Lightbot </a> Guide Lightbot to light up all the blue tiles! Lightbot is a puzzle game that uses programming game mechanics to let players gain a practical understanding of basic coding. Learn to sequence instructions, write procedures, and utilize loops to solve levels. Ideal for all ages.
++ <a href="https://www.khanacademy.org/hourofcode/" target="_blank"> Khanacademy </a> Learn the basics of JavaScript programming while creating fun drawings with your code. Do it on your own or with your class!
++ <a href="https://codehs.com/hourofcode/karel/1?start/" target="_blank"> CodeHS </a> Learn how to code with Karel the Dog—a fun, accessible, and visual introduction to programming that teaches fundamental concepts like commands and functions to absolute beginners. Tutorial is student-directed but teachers can sign up to access teacher tools and track student success!
++ <a href="https://www.codecademy.com/courses/hour-of-code/0/1/" target="_blank"> Codeacademy </a> You'll write a program that animates your name. When you move your mouse over your name, bubbles will scatter away and then reassemble.
++ <a href="http://codecombat.com/?hour_of_code=true" target="_blank"> CodeCombat </a> Defeat ogres to learn Python or JavaScript in this epic programming game!
++ <a href="http://sparkfun.codepops.com/#0/" target="_blank"> Sparkfun </a> Arduino Unplugged - Hour of Code with Sparkfun's Digital Sandbox.
++ <a href="https://www.codeavengers.com/javascript/100#1.1" target="_blank"> Code Avengers </a> In this 30 minute introduction, you'll use JavaScript to build a game that you can share with your friends. In this game, the 2 players race to collect coins while avoiding bombs and enemies.
++ <a href="https://blockly-games.appspot.com/maze?lang=en/" target="_blank"> Blockly </a> Maze is an introduction to loops and conditionals. It starts simply, but every level is more challenging than the last.
++ <a href="https://www.kodable.com/hour-of-code" target="_blank"> Kodable </a> Kodable is a self-guided iPad game that introduces kids 5+ to programming basics. Having a teacher or parent nearby is optimal, but not necessary.
++ <a href="http://appinventor.mit.edu/explore/hour-of-code.html" target="_blank"> AppInventor </a> Entertaining, quick video tutorials walk you through building three simple apps for your Android phone or tablet. Designed for novices and experts alike, this hour of code will get you ready to start building your own apps before you know it. Imagine sharing your own app creations with your friends! These activities are suitable for individuals and for teachers leading classes.
++ <a href="http://www.thefoos.com/hourofcode/" target="_blank"> The Foos </a> "The Foos" is a fun and kid-friendly way to learn about computer programming. Program cute characters to solve puzzles and bring a virtual world to life. The game is "word free" so all can play!
++ <a href="https://www.robomindacademy.com//go/navigator/storylines?course=HourOfCode" target="_blank"> RoboMind Academy </a> Students learn the basics of programming by controlling their own virtual robot. The online course is fully self-contained with short presentations, movies, quizzes and automatic guidance/hints to help with the programming exercises.
++ <a href="https://groklearning.com/hoc-2014/" target="_blank"> Grok learning </a> Use the programming language Python to build a chatbot called "Eliza" to act as a robot psychotherapist. You'll teach Eliza how to talk and the right thing to say. Can she fool your friends into thinking she's a human not a computer?
++ <a href="http://quorumlanguage.com/documents/hourofcode/part1.php" target="_blank"> Quorum </a> This tutorial is accessible for the visually-impaired, and works with screenreaders. Join Mary on a tour as she joins a biology lab as a programmer and learns the Quorum programming language. This tutorial is student-guided with online example activities.
++ <a href="https://www.touchdevelop.com/hourofcode2" target="_blank"> TouchDevelop </a> The touch-friendly editor will guide you in creating pixel art, solving the bear puzzle, or making your own jumping bird game.
++ <a href="http://www.kodugamelab.com/hour-of-code/" target="_blank"> Kodu </a> Kodu lets kids create games on the PC and Xbox via a simple visual programming language. Kodu can be used to teach creativity, problem solving, storytelling, as well as programming. Anyone can use Kodu to make a game, young children as well as adults with no design or programming skills.
++  <a href="https://www.tynker.com/hour-of-code/" target="_blank"> Tynker </a> Learn to program by solving fun coding puzzles. Easily build games and stories using with themed graphics, 10+ game-kits and customizable characters. No Internet connectivity required. You can also access your creations on the web.
 
 ####Beyond an Hour
 
