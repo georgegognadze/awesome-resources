@@ -109,9 +109,9 @@ teaches kids to code!
 + <a href="http://www.lynda.com/Developer-training-tutorials/50-0.html/" target="_blank"> Lynda </a> lynda.com is a leading online learning company that helps anyone learn business, software, technology and creative skills to achieve personal and professional goals.
 
 ####License
+[![CC0](http://i.creativecommons.org/p/mark/1.0/88x31.png)](http://creativecommons.org/publicdomain/mark/1.0/)
 
-+ Awesome resources is released under the <a href="https://github.com/dreamtocode/awesome-resources/blob/master/LICENSE/"> MIT License</a>.
-
+To the extent possible under law, [George Gognadze](https://github.com/dreamtocode) has waived all copyright and related or neighboring rights to this work.
 
 ####Contributing
 
