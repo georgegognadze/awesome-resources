@@ -21,11 +21,11 @@ Most of these links will make your learning process fun and creative. The best t
 
 ####Coding for younger beginners 
 
-+ <a href="http://kata.coderdojo.com/wiki/Learning_Resource" target="_blank"> CoderDojo </a> Open source, game based learning resources for young people to learn the fundamentals of coding with fun results!
-+ <a href="https://www.robomindacademy.com/" target="_blank"> RoboMind Academy </a>  By programming a virtual robot, the student is introduced to logic, automation and technology. Available as an online educator-friendly platform that can be used with students aged 8 years or older. 
-+ <a href="https://www.allcancode.com/" target="_blank"> Run Marco </a> An adventure game for kids that teaches the basic of coding. Available as a browser game and an Android app.
-+ <a href="https://www.playcodemonkey.com/" target="_blank"> CodeMonkey </a> CodeMonkey is a fun online game that teaches you how to code. In this free technology and STEM game, students learn about computer coding concepts like functions and loops by programming a monkey to find bananas! Real world programming language. Write code. Catch bananas. Save the world.
-+ <a href="https://blockly-games.appspot.com/" target="_blank"> Blockly </a> Build a simple computer application by programming “tag” blocks to reach your target – no typing required. 
++ <a href="http://kata.coderdojo.com/wiki/Learning_Resource" target="_blank"> CoderDojo </a> Open source, game based learning resources for young people to learn the fundamentals of coding with fun results! (Free)
++ <a href="https://www.robomindacademy.com/" target="_blank"> RoboMind Academy </a>  By programming a virtual robot, the student is introduced to logic, automation and technology. Available as an online educator-friendly platform that can be used with students aged 8 years or older. (Free)
++ <a href="https://www.allcancode.com/" target="_blank"> Run Marco </a> An adventure game for kids that teaches the basic of coding. Available as a browser game and an Android app. (Free)
++ <a href="https://www.playcodemonkey.com/" target="_blank"> CodeMonkey </a> In this free technology and STEM game, students learn about computer coding concepts like functions and loops by programming a monkey to find bananas! Real world programming language. Write code. Catch bananas. Save the world. (Free)
++ <a href="https://blockly-games.appspot.com/" target="_blank"> Blockly </a> Build a simple computer application by programming “tag” blocks to reach your target – no typing required.  (Free)
 
 ####The Hour of Code
 
