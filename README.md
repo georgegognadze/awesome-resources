@@ -99,6 +99,7 @@ teaches kids to code!
 
 ####Courses for advanced learners
 
++ <a href="https://www.thenewboston.com/" target="_blank"> theNewBoston </a> Tons of sweet computer related tutorials and some other awesome videos too! It has tutorial from begginer html/css to android development, c++, php, python and lots of other stuff.
 + <a href="https://www.edx.org/course-list/allschools/computer-science/allcourses" target="_blank"> edX </a> Open edX is the open-source platform that powers edX courses and is freely available. With Open edX, educators and technologists can build learning tools and contribute new features to the platform, creating innovative solutions to benefit students everywhere.
 + <a href="https://www.coursera.org/courses?orderby=upcoming&cats=cs-programming" target="_blank"> Coursera </a> Coursera provides universal access to the world’s best education, partnering with top universities and organizations to offer courses online.
 + <a href="https://www.udacity.com/courses#!/all" target="_blank"> Udacity </a> Udacity with industry giants—Google, AT&T, Facebook, Salesforce, Cloudera, etc.—we offer Nanodegree programs and credentials, designed so professionals become Web Developers, Data Analysts, Mobile Developers, etc.
