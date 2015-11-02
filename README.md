@@ -112,8 +112,11 @@ teaches kids to code!
 To the extent possible under law, [George Gognadze](https://github.com/dreamtocode) has waived all copyright and related or neighboring rights to this work.
 
 ####Contributing
+All contributions are welcome.
 
-Take care to maintain the existing style of this list.
++ Fork the repository. 
++ Make changes to your fork also make sure that your changes are adequate to our repository and you don't provide the same thing that is already included.
++ Say why you proposing the changes, and then click on "Propose file change". Also make sure that you add changes at the bottom of the corresponding list and not at the top or in the middle.
 
 ####References
 
