@@ -96,6 +96,8 @@ teaches kids to code!
 + <a href="https://www.kodable.com/" target="_blank"> Kodable </a> Your child will learn to use conditions, loops, functions, and how to write and think algorithmically. Before reaching middle school, they’ll know the building blocks of every modern object oriented programming language.
 + <a href="http://thefoos.com/" target="_blank"> The Foos </a> Welcome to The Foos, the #1 learn to code app for ages 5+. Get your kids excited about the ABC's of computer science with our award-winning game. 
 + <a href="http://twolivesleft.com/Codea/" target="_blank"> Codea </a> Codea for iPad lets you create games and simulations - or just about any visual idea you have. Turn your thoughts into interactive creations that make use of iPad features like Multi-Touch and the accelerometer.
++ <a href="http://www.mblock.cc/" target="_blank"> mBlock </a> mBlock is a graphical programming envirnment based on Scratch 2.0 Open Source Code that makes it easy to program Arduino projects and create interactive applications.
++ <a href="http://softumeya.com/pyonkee/en/" target="_blank"> Pyonkee </a> Pyonkee is a real visual-programming environment for iPad. It is based on Scratch from the MIT Media Lab. Projects made for Scratch are compatible with Pyonkee.
 
 ####Courses for advanced learners
 
