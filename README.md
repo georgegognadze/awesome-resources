@@ -49,7 +49,9 @@ Most of these links will make your learning process fun and creative. The best t
 + <a href="http://quorumlanguage.com/documents/hourofcode/part1.php" target="_blank"> Quorum </a> This tutorial is accessible for the visually-impaired, and works with screenreaders. Join Mary on a tour as she joins a biology lab as a programmer and learns the Quorum programming language. This tutorial is student-guided with online example activities.  (Free)
 + <a href="https://www.touchdevelop.com/hourofcode2" target="_blank"> TouchDevelop </a> The touch-friendly editor will guide you in creating pixel art, solving the bear puzzle, or making your own jumping bird game.  (Free)
 + <a href="http://www.kodugamelab.com/hour-of-code/" target="_blank"> Kodu </a> Kodu lets kids create games on the PC and Xbox via a simple visual programming language. Kodu can be used to teach creativity, problem solving, storytelling, as well as programming. Anyone can use Kodu to make a game, young children as well as adults with no design or programming skills.  (Free)
-+  <a href="https://www.tynker.com/hour-of-code/" target="_blank"> Tynker </a> Learn to program by solving fun coding puzzles. Easily build games and stories using with themed graphics, 10+ game-kits and customizable characters. No Internet connectivity required. You can also access your creations on the web.  (Free)
++ <a href="https://www.tynker.com/hour-of-code/" target="_blank"> Tynker </a> Learn to program by solving fun coding puzzles. Easily build games and stories using with themed graphics, 10+ game-kits and customizable characters. No Internet connectivity required. You can also access your creations on the web.  (Free)
++ <a href="https://tickleapp.com/en-us/hour-of-code/orca/" target="_blank"> Tickle </a> Program the Orca whale to swim around and follow your fingers. Interact with the Orca by tilting your iPhone and iPad!  (Free)
++ <a href="https://tickleapp.com/en-us/hour-of-code/parrot_drone/" target="_blank"> Tickle </a> Program a Parrot drone to fly in geometric shapes. Tilt and shake your iPhone and iPad to pilot it and perform aerial acrobatics!  (Free)
 
 ####Beyond an Hour
 
