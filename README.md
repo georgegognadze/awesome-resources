@@ -73,11 +73,11 @@ Most of these links will make your learning process fun and creative. The best t
 
 ####Make your own games or apps
 
-+ <a href="https://www.makeschool.com/build-an-iphone-game-in-your-browser" target="_blank"> MakeSchool </a> Learn the basics of programming using the Swift programming language. Build an iphone game in your browser.
-+ <a href="https://studio.code.org/flappy/1" target="_blank"> Code.org Flappy Bird</a> Create your custom version of flappy bird using event handlers. The code you'll write involves dragging and dropping blocks.
++ <a href="https://www.makeschool.com/build-an-iphone-game-in-your-browser" target="_blank"> MakeSchool </a> Learn the basics of programming using the Swift programming language. Build an iphone game in your browser.  (Free)
++ <a href="https://studio.code.org/flappy/1" target="_blank"> Code.org Flappy Bird</a> Create your custom version of flappy bird using event handlers. The code you'll write involves dragging and dropping blocks.  (Free)
 + <a href="https://bitsbox.com/index.html#hoc" target="_blank"> Bitsbox </a> A subscription box that 
-teaches kids to code!
-+ <a href="https://www.touchdevelop.com/hourofcode2" target="_blank"> TouchDevelop </a> Write some code using language called Touch Develop. You'll fix the code and create your game.
+teaches kids to code! (Paid)
++ <a href="https://www.touchdevelop.com/hourofcode2" target="_blank"> TouchDevelop </a> Write some code using language called Touch Develop. You'll fix the code and create your game.  (Free)
 + <a href="http://appinventor.mit.edu/explore/hour-of-code.html" target="_blank"> AppInventor </a> With these beginner-friendly tutorials, you will learn the basics of programming apps for Android. You'll create three working apps.
 + <a href="https://studio.code.org/s/playlab/stage/1/puzzle/1" target="_blank"> Code.org </a> Create your own game using Code blocks. When you're done, click Finish to let friends try your game on their phones.
 + <a href="https://www.gethopscotch.com/" target="_blank">  Hopscotch </a> You can make your own version of popular games like Geometry Dash, create awesome art or build something brand new. Try doing fashion design, a journey into outer space, or making a piano. The sky is the limit :).
