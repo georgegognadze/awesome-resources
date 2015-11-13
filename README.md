@@ -103,7 +103,7 @@ teaches kids to code! **(Paid)**
 
 ####Courses for advanced learners
 
-+ <a href="https://www.edx.org/course-list/allschools/computer-science/allcourses" target="_blank"> edX </a> Open edX is the open-source platform that powers edX courses and is freely available. With Open edX, educators and technologists can build learning tools and contribute new features to the platform, creating innovative solutions to benefit students everywhere.
++ <a href="https://www.edx.org/course-list/allschools/computer-science/allcourses" target="_blank"> edX </a> Open edX is the open-source platform that powers edX courses and is freely available. With Open edX, educators and technologists can build learning tools and contribute new features to the platform, creating innovative solutions to benefit students everywhere. **(Free)**
 + <a href="https://www.coursera.org/courses?orderby=upcoming&cats=cs-programming" target="_blank"> Coursera </a> Coursera provides universal access to the world’s best education, partnering with top universities and organizations to offer courses online. **(Mixed)**
 + <a href="https://www.udacity.com/courses#!/all" target="_blank"> Udacity </a> Udacity with industry giants—Google, AT&T, Facebook, Salesforce, Cloudera, etc.—we offer Nanodegree programs and credentials, designed so professionals become Web Developers, Data Analysts, Mobile Developers, etc. **(Mixed)**
 + <a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/" target="_blank"> MIT OpenCourseWare </a> MIT OpenCourseWare makes the materials used in the teaching of almost all of MIT's subjects available on the Web, free of charge. With more than 2,200 courses available, OCW is delivering on the promise of open sharing of knowledge. **(Free)**
