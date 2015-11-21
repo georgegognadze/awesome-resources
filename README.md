@@ -58,7 +58,7 @@ Most of these links will make your learning process fun and creative. The best t
 + <a href="https://www.edx.org/course/introduction-computer-science-harvardx-cs50x/" target="_blank"> Introduction to Computer Science </a> An introduction to the intellectual enterprises of computer science and the art of programming. You will learn concepts like abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development.  :free:
 + <a href="https://www.coursera.org/course/cs101/" target="_blank"> Computer Science 101 </a> CS101 teaches the essential ideas of Computer Science for a zero-prior-experience audience. The course uses small coding experiments in the browser to play with the nature of computers, understanding their strengths and limitations.  :free:
 + <a href="https://vimeo.com/channels/natureofcode/" target="_blank"> The Nature of Code </a> How can we capture the unpredictable evolutionary and emergent properties of nature in software? How can understanding the mathematical principles behind our physical world help us to create digital worlds?  :free:
-+ <a href="https://www.udacity.com/course/cs101" target="_blank"> Intro to Computer Science </a> You’ll learn and practice key computer science concepts by building your own versions of popular web applications. You’ll learn Python, a powerful, easy-to-learn, and widely used programming language, and you’ll explore computer science basics, as you build your own search engine and social network. **(Paid)**
++ <a href="https://www.udacity.com/course/cs101" target="_blank"> Intro to Computer Science </a> You’ll learn and practice key computer science concepts by building your own versions of popular web applications. You’ll learn Python, a powerful, easy-to-learn, and widely used programming language, and you’ll explore computer science basics, as you build your own search engine and social network. :moneybag:
 + <a href="http://www.teachingtree.co/" target="_blank"> Teaching Tree </a> TeachingTree is an open platform that lets anybody organize educational content.  :free:
 
 ####Learn to program with robots
@@ -67,9 +67,9 @@ Most of these links will make your learning process fun and creative. The best t
 + <a href="https://tickleapp.com/en-us/" target="_blank"> Tickle </a> Learn to program Arduino, drones, robots, connected toys, and smart home devices, all wirelessly. Tickle is easy to learn, fun to use, and 1000x more powerful!  **(Mixed)**
 + <a href="http://www.lego.com/en-us/mindstorms/" target="_blank"> Lego Mindstorms </a> The Lego Mindstorms series of kits contain software and hardware to create customizable, programmable robots. They include an intelligent brick computer that controls the system, a set of modular sensors and motors, and Lego parts from the Technic line to create the mechanical systems. **(Mixed)**
 + <a href="http://kinderlabrobotics.com/" target="_blank"> KinderLab </a> Children build their own robot with KIBO, program it to do what they want, and decorate it - all without a PC, tablet, or smartphone.  **(Mixed)**
-+ <a href="http://www.finchrobot.com/" target="_blank"> Finch </a> The Finch was designed to allow students to write richly interactive programs. On-board features include: Light, temperature, and obstacle sensors, Accelerometers, Motors, Buzzer, Full-color beak LED, Pen mount for drawing capability, Plugs into USB port - no batteries required. **(Paid)**
-+ <a href="http://www.sphero.com/education/" target="_blank"> Sphero </a>  SPRK makes the skills of the future approachable and practical. And most importantly, fun. Learn: Drag and drop C-based block programming, Block programming in your Chrome browser, Programming with visual macros and more! **(Paid)**
-+ <a href="https://www.makewonder.com/" target="_blank"> Wonder </a> Home of Dash and Dot, robots that you can code. **(Paid)**
++ <a href="http://www.finchrobot.com/" target="_blank"> Finch </a> The Finch was designed to allow students to write richly interactive programs. On-board features include: Light, temperature, and obstacle sensors, Accelerometers, Motors, Buzzer, Full-color beak LED, Pen mount for drawing capability, Plugs into USB port - no batteries required. :moneybag:
++ <a href="http://www.sphero.com/education/" target="_blank"> Sphero </a>  SPRK makes the skills of the future approachable and practical. And most importantly, fun. Learn: Drag and drop C-based block programming, Block programming in your Chrome browser, Programming with visual macros and more! :moneybag:
++ <a href="https://www.makewonder.com/" target="_blank"> Wonder </a> Home of Dash and Dot, robots that you can code. :moneybag:
 
 ####Make your own games or apps
 
@@ -81,8 +81,8 @@ Most of these links will make your learning process fun and creative. The best t
 + <a href="https://www.gethopscotch.com/" target="_blank">  Hopscotch </a> You can make your own version of popular games like Geometry Dash, create awesome art or build something brand new. Try doing fashion design, a journey into outer space, or making a piano. :free:
 + <a href="http://www.kodugamelab.com/" target="_blank"> Kodu </a> Kodu lets kids create games on the PC and Xbox via a simple visual programming language. Kodu can be used to teach creativity, problem solving, storytelling, as well as programming. Anyone can use Kodu to make a game, young children as well as adults with no design or programming skills.  :free:
 + <a href="https://bitsbox.com/index.html#hoc" target="_blank"> Bitsbox </a> A subscription box that 
-teaches kids to code! **(Paid)**
-+ <a href="http://twolivesleft.com/Codea/" target="_blank"> Codea </a> Codea for iPad lets you create games and simulations - or just about any visual idea you have. Turn your thoughts into interactive creations that make use of iPad features like Multi-Touch and the accelerometer. **(Paid)**
+teaches kids to code! :moneybag:
++ <a href="http://twolivesleft.com/Codea/" target="_blank"> Codea </a> Codea for iPad lets you create games and simulations - or just about any visual idea you have. Turn your thoughts into interactive creations that make use of iPad features like Multi-Touch and the accelerometer. :moneybag:
 
 ####Apps for phones and tablets
 
@@ -99,7 +99,7 @@ teaches kids to code! **(Paid)**
 + <a href="https://www.kodable.com/" target="_blank"> Kodable </a> Your child will learn to use conditions, loops, functions, and how to write and think algorithmically. Before reaching middle school, they’ll know the building blocks of every modern object oriented programming language. **(Mixed)**
 + <a href="https://www.tynker.com/" target="_blank"> Tynker </a> Tynker is a creative computing platform and it offers self-paced online courses for children to learn coding at home, as well as an engaging programming curriculum for schools. **(Mixed)**
 + <a href="http://lightbot.com/hocflash.html" target="_blank"> LightBot </a> Solve Puzzles using Programming Logic. **(Mixed)**
-+ <a href="http://twolivesleft.com/Codea/" target="_blank"> Codea </a> Codea for iPad lets you create games and simulations - or just about any visual idea you have. Turn your thoughts into interactive creations that make use of iPad features like Multi-Touch and the accelerometer. **(Paid)**
++ <a href="http://twolivesleft.com/Codea/" target="_blank"> Codea </a> Codea for iPad lets you create games and simulations - or just about any visual idea you have. Turn your thoughts into interactive creations that make use of iPad features like Multi-Touch and the accelerometer. :moneybag:
 
 ####Courses for advanced learners
 
