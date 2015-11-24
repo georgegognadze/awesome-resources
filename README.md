@@ -124,6 +124,6 @@ All contributions are welcome.
 
 ####References
 
-+ <a href="https://www.google.com/about/careers/students/guide-to-technical-development.html" target="_blank"> Google - Guide for Technical Development </a> This guide provides tips and resources to help you develop your technical skills (academically and non-academically) through self-paced, hands-on learning. This guide is intended to target Computer Science students seeking an internship or university grad role at Google.
++ <a href="https://www.google.com/about/careers/students/guide-to-technical-development.html" target="_blank"> Google - Guide for Technical Development </a> This guide provides tips and resources to help you develop your technical skills (academically and non-academically) through self-paced, hands-on learning. This guide is intended to target Computer Science students seeking an internship or university grad role at Google. :free:
 
 **Happy learning ♥ ♥ ♥**
