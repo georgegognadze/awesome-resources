@@ -17,6 +17,7 @@ Most of these links will make your learning process fun and creative. The best t
 + <a href="http://silentteacher.toxicode.fr/" target="_blank"> Silent Teacher </a> a step by step and funny way to learn the basics. :free:
 + <a href="https://codecombat.com/" target="_blank"> CodeCombat </a> An online game that teaches programming. Students write code in real programming languages (Python, JavaScript, Lua, CofeeScript, Clojure). :arrows_counterclockwise:
 + <a href="http://www.w3schools.com/" target="_blank"> W3schools </a> A collection of tutorials and references for web-related languages. :free:
++ <a href="http://www.htmldog.com/" target="_blank"> Htmldog </a> A HTML Dog, the web designer’s resource for everything HTML, CSS, and JavaScript, the most common technologies used in making web pages. :free:
 + <a href="https://www.test4u.eu/online/category.php" target="_blank"> Test4u </a> A collection of interactive tutorials for HTML, CSS, JavaScript, PHP and MySQL. :free:
 
 ####Coding for younger beginners 
