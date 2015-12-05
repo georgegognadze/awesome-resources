@@ -7,19 +7,19 @@ Most of these links will make your learning process fun and creative. The best t
 
 + <a href="https://code.org/" target="_blank"> Code.org Tutorials </a> Simple tutorials/puzzles for beginners that can be completed in an hour or less. :free:
 + <a href="https://www.codecademy.com/" target="_blank"> Codeacademy </a> Learn to code interactively, for free, on the web. Skill you will learn: HTML/CSS, JavaScript, Python, jQuery, PHP, SQL, AngularJS, Ruby on Rails and more! :free:
-+ <a href="https://www.codeschool.com/" target="_blank"> Code School </a> Code School teaches web technologies in the comfort of your browser with video lessons, coding challenges, and screencasts. :arrows_counterclockwise:
 + <a href="http://www.tutorialspoint.com/" target="_blank"> Tutorialspoint </a> Tutorials for WebGL, Drupal, SQL, Wordpress, XAML, W3CSS, SVG, Web Icons, Web Analytics, Google Maps, Joomla, Magento, Apex, Emberjs, BackboneJS, KnockoutJS, Node.js and more! :free:
-+ <a href="https://www.codeavengers.com/" target="_blank"> Code Avengers </a> Learn to build websites, apps and games with HTML, CSS and JavaScript. :arrows_counterclockwise:
 + <a href="http://www.freecodecamp.com/" target="_blank"> freeCodeCamp </a> Learn to code and build projects for non-profits. Skill you will learn: HTML5, CSS3, Javascript, Databases, Git, Node.js, Angular.js, Agile. :free:
 + <a href="https://www.thenewboston.com/" target="_blank"> TheNewBoston </a> Free Educational Video Tutorials on Computer Programming, Web Design, Game Development and More! :free:
 + <a href="https://dash.generalassemb.ly/" target="_blank"> Dash </a> Dash teaches HTML, CSS, and Javascript through fun projects you can do in your browser. :free:
 + <a href="https://www.codingame.com/" target="_blank"> CodinGame </a> Play video games using code, learn programming in more than 20 programming languages. :free:
 + <a href="http://silentteacher.toxicode.fr/" target="_blank"> Silent Teacher </a> a step by step and funny way to learn the basics. :free:
-+ <a href="https://codecombat.com/" target="_blank"> CodeCombat </a> An online game that teaches programming. Students write code in real programming languages (Python, JavaScript, Lua, CofeeScript, Clojure). :arrows_counterclockwise:
 + <a href="http://www.w3schools.com/" target="_blank"> W3schools </a> A collection of tutorials and references for web-related languages. :free:
 + <a href="http://www.htmldog.com/" target="_blank"> Htmldog </a> A HTML Dog, the web designer’s resource for everything HTML, CSS, and JavaScript, the most common technologies used in making web pages. :free:
 + <a href="http://swiftlang.ng.bluemix.net/" target="_blank"> IBM Swift sandbox </a>  Web-based Swift sandbox where you can write code and execute it in a Linux server environment. :free:
 + <a href="https://www.test4u.eu/online/category.php" target="_blank"> Test4u </a> A collection of interactive tutorials for HTML, CSS, JavaScript, PHP and MySQL. :free:
++ <a href="https://www.codeschool.com/" target="_blank"> Code School </a> Code School teaches web technologies in the comfort of your browser with video lessons, coding challenges, and screencasts. :arrows_counterclockwise:
++ <a href="https://www.codeavengers.com/" target="_blank"> Code Avengers </a> Learn to build websites, apps and games with HTML, CSS and JavaScript. :arrows_counterclockwise:
++ <a href="https://codecombat.com/" target="_blank"> CodeCombat </a> An online game that teaches programming. Students write code in real programming languages (Python, JavaScript, Lua, CofeeScript, Clojure). :arrows_counterclockwise:
 
 ####Coding for younger beginners 
 
