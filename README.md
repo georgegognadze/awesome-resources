@@ -98,12 +98,11 @@ teaches kids to code! :moneybag:
 + <a href="http://thefoos.com/" target="_blank"> The Foos </a> Welcome to The Foos, the #1 learn to code app for ages 5+. Get your kids excited about the ABC's of computer science with our award-winning game. :free: 
 + <a href="http://www.mblock.cc/" target="_blank"> mBlock </a> mBlock is a graphical programming envirnment based on Scratch 2.0 Open Source Code that makes it easy to program Arduino projects and create interactive applications. :free:
 + <a href="http://softumeya.com/pyonkee/en/" target="_blank"> Pyonkee </a> Pyonkee is a real visual-programming environment for iPad. It is based on Scratch from the MIT Media Lab. Projects made for Scratch are compatible with Pyonkee. :free:
-+ <a href="https://itunes.apple.com/us/app/catos-hike-programming-logic/id574335479?mt=8" target="_blank"> Cato's Hike </a>Cato's Hike: A Programming and Logic Odyssey :moneybag: 
 + <a href="https://www.kodable.com/" target="_blank"> Kodable </a> Your child will learn to use conditions, loops, functions, and how to write and think algorithmically. Before reaching middle school, they’ll know the building blocks of every modern object oriented programming language. :arrows_counterclockwise:
 + <a href="https://www.tynker.com/" target="_blank"> Tynker </a> Tynker is a creative computing platform and it offers self-paced online courses for children to learn coding at home, as well as an engaging programming curriculum for schools. :arrows_counterclockwise:
-+ <a href="http://lightbot.com/hocflash.html" target="_blank"> LightBot </a> Solve Puzzles using Programming Logic. :arrows_counterclockwise:
++ <a href="http://lightbot.com/hocflash.html" target="_blank"> LightBot </a> Solve Puzzles using Programming Logic. :arrows_counterclockwise: 
 + <a href="http://twolivesleft.com/Codea/" target="_blank"> Codea </a> Codea for iPad lets you create games and simulations - or just about any visual idea you have. Turn your thoughts into interactive creations that make use of iPad features like Multi-Touch and the accelerometer. :moneybag:
-+ 
++ <a href="https://itunes.apple.com/us/app/catos-hike-programming-logic/id574335479?mt=8" target="_blank"> Cato's Hike </a>Cato's Hike: A Programming and Logic Odyssey :moneybag: 
 
 ####Courses for advanced learners
 
