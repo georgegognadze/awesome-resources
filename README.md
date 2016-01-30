@@ -6,10 +6,12 @@ Most of these links will make your learning process fun and creative. The best t
 ## Table of Contents
 + <a href="#coding-resources-for-beginners-of-all-ages">Coding resources for beginners of all ages </a> 
 + <a href="#coding-for-younger-beginners">Coding for younger beginners </a> 
-+ <a href="#coding-for-younger-beginners">The Hour of Code </a>
++ <a href="#the-hour-of-code">The Hour of Code </a>
 + <a href="#beyond-an-hour">Beyond an Hour </a>
 + <a href="#learn-to-program-with-robots">Learn to program with robots </a>
-+ 
++ <a href="#make-your-own-games-or-apps">Make your own games or apps </a>
++ <a href="#apps-for-phones-and-tablets">Apps for phones and tablets </a> 
++ <a href="#courses-for-advanced-learners">Courses for advanced learners </a>
 
 
 ####Coding resources for beginners of all ages 
