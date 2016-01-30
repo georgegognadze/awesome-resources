@@ -4,7 +4,7 @@ Awesome coding and learning resources for everyone.
 Most of these links will make your learning process fun and creative. The best thing about these resources is that most of it are free. There is tag for every link it is either Free - :free:,  Paid - :moneybag: or Mixed - :arrows_counterclockwise:.
 
 ## Table of Contents
-
++ <a href="#coding-resources-for-beginners-of-all-ages">Coding resources for beginners of all ages </a> 
 
 ####Coding resources for beginners of all ages 
 
