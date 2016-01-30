@@ -3,6 +3,9 @@
 Awesome coding and learning resources for everyone. 
 Most of these links will make your learning process fun and creative. The best thing about these resources is that most of it are free. There is tag for every link it is either Free - :free:,  Paid - :moneybag: or Mixed - :arrows_counterclockwise:.
 
+## Table of Contents
+
+
 ####Coding resources for beginners of all ages 
 
 + <a href="https://code.org/" target="_blank"> Code.org Tutorials </a> Simple tutorials/puzzles for beginners that can be completed in an hour or less. :free:
