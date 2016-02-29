@@ -1,7 +1,7 @@
 # Awesome-resources 
 
 Awesome coding and learning resources for everyone. 
-Most of these links will make your learning process fun and creative. The best thing about these resources is that most of it are free. There is tag for every link it is either Free - :free:,  Paid - :moneybag: or Mixed - :arrows_counterclockwise:.
+Most of these links will make your learning process fun and creative. The best thing about these resources is that most of it are free. 
 
 ## Table of Contents
 + <a href="#coding-resources-for-beginners-of-all-ages">Coding resources for beginners of all ages </a> 
@@ -13,6 +13,11 @@ Most of these links will make your learning process fun and creative. The best t
 + <a href="#apps-for-phones-and-tablets">Apps for phones and tablets </a> 
 + <a href="#courses-for-advanced-learners">Courses for advanced learners </a>
 
+## Legend
+There is tag for every link it is either Free, Paid or Mixed. <br>
+ :free: - Free <br>
+ :moneybag: - Paid   <br>
+ :arrows_counterclockwise: - Mixed 
 
 ####Coding resources for beginners of all ages 
 
