@@ -38,6 +38,7 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="https://www.codeschool.com/" target="_blank"> Code School </a> Code School teaches web technologies in the comfort of your browser with video lessons, coding challenges, and screencasts. :arrows_counterclockwise:
 + <a href="https://www.codeavengers.com/" target="_blank"> Code Avengers </a> Learn to build websites, apps and games with HTML, CSS and JavaScript. :arrows_counterclockwise:
 + <a href="https://codecombat.com/" target="_blank"> CodeCombat </a> An online game that teaches programming. Students write code in real programming languages (Python, JavaScript, Lua, CofeeScript, Clojure). :arrows_counterclockwise:
++ <a href="https://www.hackerearth.com/practice/codemonk/" target="_blank"> Codemonk on Hackerearth </a> An online platform which teaches coding from very basics to higher level where Questions are divided into topics with each topic having tutorial followed by a competition each week and level of difficulty is good for beginners(All languages). :free:
 
 ####Coding for younger beginners 
 
