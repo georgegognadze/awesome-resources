@@ -81,6 +81,7 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="https://vimeo.com/channels/natureofcode/" target="_blank"> The Nature of Code </a> How can we capture the unpredictable evolutionary and emergent properties of nature in software? How can understanding the mathematical principles behind our physical world help us to create digital worlds?  :free:
 + <a href="http://www.teachingtree.co/" target="_blank"> Teaching Tree </a> TeachingTree is an open platform that lets anybody organize educational content.  :free:
 + <a href="https://www.udacity.com/course/cs101" target="_blank"> Intro to Computer Science </a> You’ll learn and practice key computer science concepts by building your own versions of popular web applications. You’ll learn Python, a powerful, easy-to-learn, and widely used programming language, and you’ll explore computer science basics, as you build your own search engine and social network. :moneybag:
++ <a href="http://rypress.com/tutorials/git/index" target="_blank">Ry's Git Tutorial</a>Ry’s Git Tutorial is a complete introduction to distributed version control with a focus on practical command line usage. We explain Git’s robust branching, merging, and collaboration capabilities from the ground up, so prior experience with centralized systems like SVN or CVS is not required. :free:
 
 #### Learn to program with robots
 
