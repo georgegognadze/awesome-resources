@@ -15,7 +15,7 @@ Most of these links will make your learning process fun and creative. The best t
 + <a href="#references">References </a>
 
 ## Legend
-There is tag for every link it is either Free, Paid or Mixed. <br>
+There is tag for every link. It is either Free, Paid or Mixed. <br>
  :free: - Free <br>
  :moneybag: - Paid   <br>
  :arrows_counterclockwise: - Mixed 
@@ -47,6 +47,8 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="https://www.allcancode.com/" target="_blank"> Run Marco </a> An adventure game for kids that teaches the basic of coding. Available as a browser game and an Android app. :free:
 + <a href="https://www.playcodemonkey.com/" target="_blank"> CodeMonkey </a> In this free technology and STEM game, students learn about computer coding concepts like functions and loops by programming a monkey to find bananas! Real world programming language. Write code. Catch bananas. Save the world. :free:
 + <a href="https://blockly-games.appspot.com/" target="_blank"> Blockly </a> Build a simple computer application by programming “tag” blocks to reach your target – no typing required.  :free:
++ <a href="http://flexboxfroggy.com/" target="_blank"> Flexbox Froggy </a> A game where you help Froggy and friends by writing CSS code! Guide the frogs through the lilypads using css commands. :free: 
++ <a href="http://flukeout.github.io/" target="_blank"> CSS Diner</a> Learn about CSS selectors by choosing different items in a diner table. :free:
 
 #### The Hour of Code
 
@@ -74,6 +76,12 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="https://www.kodable.com/hour-of-code" target="_blank"> Kodable </a> Kodable is a self-guided iPad game that introduces kids 5+ to programming basics. Having a teacher or parent nearby is optimal, but not necessary. :arrows_counterclockwise:
 + <a href="https://groklearning.com/hoc-2014/" target="_blank"> Grok learning </a> Use the programming language Python to build a chatbot called "Eliza" to act as a robot psychotherapist. You'll teach Eliza how to talk and the right thing to say. Can she fool your friends into thinking she's a human not a computer? :arrows_counterclockwise:
 
++ <a href="http://learnlayout.com/" target="_blank"> Learn CSS Layout </a> This site teaches the CSS fundamentals that are used in any website's layout. :free:
+
++ <a href="http://www.csstutorial.net/" target="_blank"> Csstutorial.net </a> Step by step tutorial to learn the basics of CSS. :arrows_counterclockwise:
+
++ <a href="http://cssguidelin.es/"> CSS Guidelines </a> High-level advice and guidelines for writing sane, manageable, scalable CSS. :free:
+ 
 #### Beyond an Hour
 
 + <a href="https://www.edx.org/course/introduction-computer-science-harvardx-cs50x/" target="_blank"> Introduction to Computer Science </a> An introduction to the intellectual enterprises of computer science and the art of programming. You will learn concepts like abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development.  :free:
