@@ -24,7 +24,6 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 
 + <a href="https://code.org/" target="_blank"> Code.org Tutorials </a> Simple tutorials/puzzles for beginners that can be completed in an hour or less. :free:
 + <a href="https://developer.mozilla.org/en-US/"> Mozila Developer Network </a> Shared knowledge for the Open Web. HTML/HTML5, CSS/CSS3, Web APIs & DOM, Javascript, SVG, WEBGL, MathML. :free:
-+ <a href="https://www.codecademy.com/" target="_blank"> Codeacademy </a> Learn to code interactively, for free, on the web. Skill you will learn: HTML/CSS, JavaScript, Python, jQuery, PHP, SQL, AngularJS, Ruby on Rails and more! :free:
 + <a href="http://www.tutorialspoint.com/" target="_blank"> Tutorialspoint </a> Tutorials for WebGL, Drupal, SQL, Wordpress, XAML, W3CSS, SVG, Web Icons, Web Analytics, Google Maps, Joomla, Magento, Apex, Emberjs, BackboneJS, KnockoutJS, Node.js and more! :free:
 + <a href="http://www.freecodecamp.com/" target="_blank"> freeCodeCamp </a> Learn to code and build projects for non-profits. Skill you will learn: HTML5, CSS3, Javascript, Databases, Git, Node.js, Angular.js, Agile. :free:
 + <a href="https://www.thenewboston.com/" target="_blank"> TheNewBoston </a> Free Educational Video Tutorials on Computer Programming, Web Design, Game Development and More! :free:
@@ -38,7 +37,9 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="https://www.codeschool.com/" target="_blank"> Code School </a> Code School teaches web technologies in the comfort of your browser with video lessons, coding challenges, and screencasts. :arrows_counterclockwise:
 + <a href="https://www.codeavengers.com/" target="_blank"> Code Avengers </a> Learn to build websites, apps and games with HTML, CSS and JavaScript. :arrows_counterclockwise:
 + <a href="https://codecombat.com/" target="_blank"> CodeCombat </a> An online game that teaches programming. Students write code in real programming languages (Python, JavaScript, Lua, CofeeScript, Clojure). :arrows_counterclockwise:
++ <a href="https://www.codecademy.com/" target="_blank"> Codeacademy </a> Learn to code interactively, for free, on the web. Skill you will learn: HTML/CSS, JavaScript, Python, jQuery, PHP, SQL, AngularJS, Ruby on Rails and more! :arrows_counterclockwise:
 + <a href="https://www.hackerearth.com/practice/codemonk/" target="_blank"> Codemonk on Hackerearth </a> An online platform which teaches coding from very basics to higher level where Questions are divided into topics with each topic having tutorial followed by a competition each week and level of difficulty is good for beginners(All languages). :free:
++ <a href="https://www.sololearn.com/" target="_blank"> SoloLearn </a> Join the largest community of mobile code learners today. Learn C++, Java, Python, PHP, C#, JavaScript and more. :free:
 
 #### Coding for younger beginners 
 
