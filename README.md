@@ -133,7 +133,9 @@ teaches kids to code! :moneybag:
 + <a href="https://www.udacity.com/courses#!/all" target="_blank"> Udacity </a> Udacity with industry giants—Google, AT&T, Facebook, Salesforce, Cloudera, etc.—we offer Nanodegree programs and credentials, designed so professionals become Web Developers, Data Analysts, Mobile Developers, etc. :arrows_counterclockwise:
 + <a href="https://www.udemy.com/courses/" target="_blank"> Udemy </a> We’re the world’s online learning marketplace, where 8 million+ students are taking courses in everything from programming to yoga to photography–and much, much more. Each of our 32,000+ courses is taught by an expert instructor, and every course is available on-demand, so students can learn at their own pace, on their own time, and on any device. :arrows_counterclockwise:
 + <a href="http://www.lynda.com/Developer-training-tutorials/50-0.html/" target="_blank"> Lynda </a> lynda.com is a leading online learning company that helps anyone learn business, software, technology and creative skills to achieve personal and professional goals. :arrows_counterclockwise:
++ <a href="https://courses.platzi.com/" target="_blank"> Platzi </a> Develop your skills by learning from top industry leaders at your own pace. Learn Marketing, Design, Programming and more to help grow your career!  :arrows_counterclockwise:
 + <a href="https://laracasts.com/" target="_blank"> Laracasts </a> The best PHP and Laravel screencasts on the web.  :moneybag:
+
 
 #### License
 [![CC0](http://i.creativecommons.org/p/mark/1.0/88x31.png)](http://creativecommons.org/publicdomain/mark/1.0/)
@@ -151,4 +153,4 @@ All contributions are welcome but please do not create a pull request without re
 
 + <a href="https://www.google.com/about/careers/students/guide-to-technical-development.html" target="_blank"> Google - Guide for Technical Development </a> This guide provides tips and resources to help you develop your technical skills (academically and non-academically) through self-paced, hands-on learning. This guide is intended to target Computer Science students seeking an internship or university grad role at Google. :free:
 
-**Happy learning ♥**
+**Happy learning :sparkling_heart:**
