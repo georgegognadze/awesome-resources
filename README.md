@@ -137,9 +137,9 @@ teaches kids to code! :moneybag:
 + <a href="https://laracasts.com/" target="_blank"> Laracasts </a> The best PHP and Laravel screencasts on the web.  :moneybag:
 
 #### Uncategorized 
-+ [Code interview from many uni](https://github.com/jwasham/coding-interview-university)
-+ [Codewars] - sharpen your "karatedo" spirit in code.
-+ [HackerRank] - take a challenge and get a better job.
++ [Code interview from many uni](https://github.com/jwasham/coding-interview-university) - top-notch resourceful interview from many universities.
++ [Codewars](https://www.codewars.com/) - sharpen your "karatedo" spirit in code.
++ [HackerRank](https://www.hackerrank.com/) - take a challenge and get a better job.
 + [CodeChef](https://www.codechef.com/) - a non-commercial competitive programming community.
 + [CodeFights](https://codefights.com/interview-practice) - practice for technical reviews. 
 
