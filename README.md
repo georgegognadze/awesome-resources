@@ -136,6 +136,12 @@ teaches kids to code! :moneybag:
 + <a href="https://courses.platzi.com/" target="_blank"> Platzi </a> Develop your skills by learning from top industry leaders at your own pace. Learn Marketing, Design, Programming and more to help grow your career!  :arrows_counterclockwise:
 + <a href="https://laracasts.com/" target="_blank"> Laracasts </a> The best PHP and Laravel screencasts on the web.  :moneybag:
 
+#### Uncategorized 
++ [Code interview from many uni](https://github.com/jwasham/coding-interview-university)
++ [Codewars] - sharpen your "karatedo" spirit in code.
++ [HackerRank] - take a challenge and get a better job.
++ [CodeChef](https://www.codechef.com/) - a non-commercial competitive programming community.
++ [CodeFights](https://codefights.com/interview-practice) - practice for technical reviews. 
 
 #### License
 [![CC0](http://i.creativecommons.org/p/mark/1.0/88x31.png)](http://creativecommons.org/publicdomain/mark/1.0/)
