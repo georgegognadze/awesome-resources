@@ -83,6 +83,7 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="https://vimeo.com/channels/natureofcode/" target="_blank"> The Nature of Code </a> How can we capture the unpredictable evolutionary and emergent properties of nature in software? How can understanding the mathematical principles behind our physical world help us to create digital worlds?  :free:
 + <a href="http://www.teachingtree.co/" target="_blank"> Teaching Tree </a> TeachingTree is an open platform that lets anybody organize educational content.  :free:
 + <a href="https://www.udacity.com/course/cs101" target="_blank"> Intro to Computer Science </a> You’ll learn and practice key computer science concepts by building your own versions of popular web applications. You’ll learn Python, a powerful, easy-to-learn, and widely used programming language, and you’ll explore computer science basics, as you build your own search engine and social network. :moneybag:
++ <a href="https://eloquentjavascript.net/" target="_blank"> Eloquent JavaScript </a> This is a book about JavaScript, programming, and the wonders of the digital. You can read it online here, or get your own paperback copy of the second edition.
 
 #### Learn to program with robots
 
@@ -106,6 +107,7 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="https://bitsbox.com/index.html#hoc" target="_blank"> Bitsbox </a> A subscription box that 
 teaches kids to code! :moneybag:
 + <a href="http://twolivesleft.com/Codea/" target="_blank"> Codea </a> Codea for iPad lets you create games and simulations - or just about any visual idea you have. Turn your thoughts into interactive creations that make use of iPad features like Multi-Touch and the accelerometer. :moneybag:
++ <a href="http://itch.io/" target="_blank"> itch.io </a> itch.io is a simple way to find, download and distribute indie games online. :free:
 
 #### Apps for phones and tablets
 
