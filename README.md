@@ -43,7 +43,6 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="https://www.sololearn.com/" target="_blank"> SoloLearn </a> Join the largest community of mobile code learners today. Learn C++, Java, Python, PHP, C#, JavaScript and more. :free:
 
 #### Coding for younger beginners 
-+ <a href="https://www.madewithcode.com/">Made With Code</a> Made with Code is an initiative launched by Google on 19 July 2014. Google aimed to empower young women in middle and high schools with computer programming skills.:free:
 + <a href="http://kata.coderdojo.com/wiki/Learning_Resource" target="_blank"> CoderDojo </a> Open source, game based learning resources for young people to learn the fundamentals of coding with fun results! :free:
 + <a href="https://www.robomindacademy.com/" target="_blank"> RoboMind Academy </a>  By programming a virtual robot, the student is introduced to logic, automation and technology. Available as an online educator-friendly platform that can be used with students aged 8 years or older. :free:
 + <a href="https://www.allcancode.com/" target="_blank"> Run Marco </a> An adventure game for kids that teaches the basic of coding. Available as a browser game and an Android app. :free:
@@ -51,9 +50,9 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="https://blockly-games.appspot.com/" target="_blank"> Blockly </a> Build a simple computer application by programming “tag” blocks to reach your target – no typing required.  :free: 
 + <a href="https://code.org/starwars" target="_blank"> Star Wars </a> Learn to code with Star Wars - Learn to program droids, and create your own Star Wars game in a galaxy far, far away.  :free: 
 + <a href="http://csunplugged.org/" target="_blank"> CS Unplugged </a> CS Unplugged - A computer science curriculum made of many different activities that do not require a computer.  :free: 
++ <a href="https://www.madewithcode.com/">Made With Code</a> Made with Code is an initiative launched by Google on 19 July 2014. Google aimed to empower young women in middle and high schools with computer programming skills.:free:
 
 #### The Hour of Code
-
 + <a href="https://studio.code.org/hoc/1" target="_blank"> Code.org </a> This course introduces the Angry Birds. Coding basics are explained by Mark Zuckerberg and Chris Bosh.  :free:
 + <a href="https://scratch.mit.edu/hoc2014/" target="_blank"> Scratch </a> With Scratch, you can create your own interactive games, stories, animations — and share them with your friends. Get started by animating your name, creating a holiday card, or making a pong game.  :free:
 + <a href="http://hello.processing.org/editor/" target="_blank"> Processing </a> An introduction to programming in the context of the visual arts using the Processing programming language. Short video lessons introduce coding exercises that lead to designing an interactive drawing program.  :free:
