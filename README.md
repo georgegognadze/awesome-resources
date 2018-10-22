@@ -135,6 +135,7 @@ teaches kids to code! :moneybag:
 + <a href="http://www.lynda.com/Developer-training-tutorials/50-0.html/" target="_blank"> Lynda </a> lynda.com is a leading online learning company that helps anyone learn business, software, technology and creative skills to achieve personal and professional goals. :arrows_counterclockwise:
 + <a href="https://courses.platzi.com/" target="_blank"> Platzi </a> Develop your skills by learning from top industry leaders at your own pace. Learn Marketing, Design, Programming and more to help grow your career!  :arrows_counterclockwise:
 + <a href="https://laracasts.com/" target="_blank"> Laracasts </a> The best PHP and Laravel screencasts on the web.  :moneybag:
++ <a href="https://watchandcode.com/" target="_blank"> Watch and Code </a> An amazing online course to learn the fundamentals of JavaScript. This site is great for beginners and advanced! :free: :moneybag:
 
 
 #### License
