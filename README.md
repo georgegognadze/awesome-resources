@@ -12,6 +12,7 @@ Most of these links will make your learning process fun and creative. The best t
 + <a href="#make-your-own-games-or-apps">Make your own games or apps </a>
 + <a href="#apps-for-phones-and-tablets">Apps for phones and tablets </a> 
 + <a href="#courses-for-advanced-learners">Courses for advanced learners </a>
+<a href="#coding-challenge-websites">Coding challenge websites</a>
 + <a href="#references">References </a>
 
 ## Legend
@@ -135,6 +136,13 @@ teaches kids to code! :moneybag:
 + <a href="http://www.lynda.com/Developer-training-tutorials/50-0.html/" target="_blank"> Lynda </a> lynda.com is a leading online learning company that helps anyone learn business, software, technology and creative skills to achieve personal and professional goals. :arrows_counterclockwise:
 + <a href="https://courses.platzi.com/" target="_blank"> Platzi </a> Develop your skills by learning from top industry leaders at your own pace. Learn Marketing, Design, Programming and more to help grow your career!  :arrows_counterclockwise:
 + <a href="https://laracasts.com/" target="_blank"> Laracasts </a> The best PHP and Laravel screencasts on the web.  :moneybag:
+
+#### Coding challenge websites
+<a href="https://www.topcoder.com/challenges/?pageIndex=1" target="_blank">TopCoder</a> one of the original platforms for competitive programming online. It provides a list of algorithmic challenges from the past that you can complete on your own directly online using their code editor.
+<a href="https://www.coderbyte.com/" target="_blank">Coderbyte</a> provides 200+ coding challenges you can solve directly online in one of 10 programming languages. The challenges range from easy (finding the largest word in a string) to hard (print the maximum cardinality matching of a graph). They also provide a collection of algorithm tutorials, introductory videos, and interview preparation courses.
+<a href="https://projecteuler.net/" target="_blank">Project Euler</a> provides a large collection of challenges in the domain of computer science and mathematics. The challenges typically involve writing a small program to figure out the solution to a clever mathematical formula or equation, such as finding the sum of digits of all numbers preceding each number in a series.
+<a href="https://www.hackerrank.com/dashboard" target="_blank">HackerRank</a> provides challenges for several different domains such as Algorithms, Mathematics, SQL, Functional Programming, AI, and more. You can solve all the challenge directly online. They provide a discussion and leaderboard for every challenge, and most challenges come with an editorial that explains more about the challenge and how to approach it to come up with a solution. HackerRank also provides the ability for users to submit applications and apply to jobs by solving company-sponsored coding challenges.
+<a href="https://leetcode.com/" target="_blank">LeetCode</a> provides a list of 190+ challenges that can help you prepare for technical job interviews. You can solve the challenges directly online in one of 9 programming languages. They also have a Mock Interview section that is specifically for job interview preparation, they host their own coding contests, and they have a section for articles to help you better understand certain problems.
 
 
 #### License
