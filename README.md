@@ -110,6 +110,7 @@ teaches kids to code! :moneybag:
 
 #### Make Things
 + <a href="https://www.tinkercad.com/">Tinkercad </a>Tinkercad is an easy-to-use 3D CAD design tool. Quickly turn your idea into a CAD model for a 3D printer with Tinkercad.
++ <a href="http://www.openscad.org/">OpenSCAD</a> OpenSCAD is software for creating solid 3D CAD objects. It is free software and available for Linux/UNIX, MS Windows and Mac OS X.
 
 #### Apps for phones and tablets
 
