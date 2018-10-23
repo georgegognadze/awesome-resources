@@ -12,6 +12,7 @@ Most of these links will make your learning process fun and creative. The best t
 + <a href="#make-your-own-games-or-apps">Make your own games or apps </a>
 + <a href="#apps-for-phones-and-tablets">Apps for phones and tablets </a> 
 + <a href="#courses-for-advanced-learners">Courses for advanced learners </a>
++ <a href="#getting-ready-for-coding-interview-questions">Getting ready for coding interview questions </a>
 + <a href="#references">References </a>
 
 ## Legend
@@ -40,7 +41,6 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="https://www.codecademy.com/" target="_blank"> Codeacademy </a> Learn to code interactively, for free, on the web. Skill you will learn: HTML/CSS, JavaScript, Python, jQuery, PHP, SQL, AngularJS, Ruby on Rails and more! :arrows_counterclockwise:
 + <a href="https://www.hackerearth.com/practice/codemonk/" target="_blank"> Codemonk on Hackerearth </a> An online platform which teaches coding from very basics to higher level where Questions are divided into topics with each topic having tutorial followed by a competition each week and level of difficulty is good for beginners(All languages). :free:
 + <a href="https://www.sololearn.com/" target="_blank"> SoloLearn </a> Join the largest community of mobile code learners today. Learn C++, Java, Python, PHP, C#, JavaScript and more. :free:
-+ <a href="https://leetcode.com/" target="_blank"> LeetCode </a> LeetCode provides real technical interview programming questions with a variety of difficulties. The Online Judge gives you immediate feedback on the correctness and efficiency of your algorithm which facilitates a great learning experience. :arrows_counterclockwise:
 
 #### Coding for younger beginners 
 
@@ -136,6 +136,10 @@ teaches kids to code! :moneybag:
 + <a href="http://www.lynda.com/Developer-training-tutorials/50-0.html/" target="_blank"> Lynda </a> lynda.com is a leading online learning company that helps anyone learn business, software, technology and creative skills to achieve personal and professional goals. :arrows_counterclockwise:
 + <a href="https://courses.platzi.com/" target="_blank"> Platzi </a> Develop your skills by learning from top industry leaders at your own pace. Learn Marketing, Design, Programming and more to help grow your career!  :arrows_counterclockwise:
 + <a href="https://laracasts.com/" target="_blank"> Laracasts </a> The best PHP and Laravel screencasts on the web.  :moneybag:
+
+#### Getting ready for coding interview questions
++ <a href="https://leetcode.com/" target="_blank"> LeetCode </a> LeetCode provides real technical interview programming questions with a variety of difficulties. The Online Judge gives you immediate feedback on the correctness and efficiency of your algorithm which facilitates a great learning experience. :arrows_counterclockwise:
++ <a href="https://hackerrank.com/" target="_blank"> HackerRank </a> HackerRank is a recruiting platform that provides competitive programming challenges, in which programmers' submission is scored on the accuracy of their output. :arrows_counterclockwise:
 
 
 #### License
