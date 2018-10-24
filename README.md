@@ -50,6 +50,7 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="https://blockly-games.appspot.com/" target="_blank"> Blockly </a> Build a simple computer application by programming “tag” blocks to reach your target – no typing required.  :free: 
 + <a href="https://code.org/starwars" target="_blank"> Star Wars </a> Learn to code with Star Wars - Learn to program droids, and create your own Star Wars game in a galaxy far, far away.  :free: 
 + <a href="http://csunplugged.org/" target="_blank"> CS Unplugged </a> CS Unplugged - A computer science curriculum made of many different activities that do not require a computer.  :free: 
++ <a href="https://girlswhocode.com/"> Girls Who Code </a> Girls Who Code was founded with a single mission: to close the gender gap in technology. We’re building the largest pipeline of future female engineers in the United States. :free:
 
 #### The Hour of Code
 
