@@ -50,7 +50,7 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="https://blockly-games.appspot.com/" target="_blank"> Blockly </a> Build a simple computer application by programming “tag” blocks to reach your target – no typing required.  :free: 
 + <a href="https://code.org/starwars" target="_blank"> Star Wars </a> Learn to code with Star Wars - Learn to program droids, and create your own Star Wars game in a galaxy far, far away.  :free: 
 + <a href="http://csunplugged.org/" target="_blank"> CS Unplugged </a> CS Unplugged - A computer science curriculum made of many different activities that do not require a computer.  :free: 
-+ <a href="https://www.madewithcode.com/">Made With Code</a> Made with Code is an initiative launched by Google on 19 July 2014. Google aimed to empower young women in middle and high schools with computer programming skills.:free:
++ <a href="https://www.madewithcode.com/"> Made With Code </a> Made with Code is an initiative launched by Google on 19 July 2014. Google aimed to empower young women in middle and high schools with computer programming skills.:free:
 
 #### The Hour of Code
 + <a href="https://studio.code.org/hoc/1" target="_blank"> Code.org </a> This course introduces the Angry Birds. Coding basics are explained by Mark Zuckerberg and Chris Bosh.  :free:
@@ -108,8 +108,8 @@ teaches kids to code! :moneybag:
 + <a href="http://twolivesleft.com/Codea/" target="_blank"> Codea </a> Codea for iPad lets you create games and simulations - or just about any visual idea you have. Turn your thoughts into interactive creations that make use of iPad features like Multi-Touch and the accelerometer. :moneybag:
 
 #### Make Things
-+ <a href="https://www.tinkercad.com/">Tinkercad </a>Tinkercad is an easy-to-use 3D CAD design tool. Quickly turn your idea into a CAD model for a 3D printer with Tinkercad. :free:
-+ <a href="http://www.openscad.org/">OpenSCAD</a> OpenSCAD is software for creating solid 3D CAD objects. It is free software and available for Linux/UNIX, MS Windows and Mac OS X. :free:
++ <a href="https://www.tinkercad.com/"> Tinkercad </a>Tinkercad is an easy-to-use 3D CAD design tool. Quickly turn your idea into a CAD model for a 3D printer with Tinkercad. :free:
++ <a href="http://www.openscad.org/"> OpenSCAD </a> OpenSCAD is software for creating solid 3D CAD objects. It is free software and available for Linux/UNIX, MS Windows and Mac OS X. :free:
 
 #### Apps for phones and tablets
 
