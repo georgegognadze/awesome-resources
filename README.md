@@ -1,4 +1,4 @@
-# Awesome-resources 
+			# Awesome-resources 
 
 Awesome coding and learning resources for everyone. 
 Most of these links will make your learning process fun and creative. The best thing about these resources is that most of it are free. 
@@ -143,9 +143,6 @@ teaches kids to code! :moneybag:
 + <a href="https://channel9.msdn.com/Series/" target="_blank"> Channel 9 </a> Channel 9 is A great place to find video series on all sorts of technologies including improving your code it skills :free:
 + <a href="https://mva.microsoft.com/" target="_blank"> Microsoft Virtual Academy</a> MVA is an online course repository for Microsoft technologies including but not limited to .Net language courses :free:
 + <a href="https://www.safaribooksonline.com/" target="_blank"> Safari Books Online </a> Safari by O'Reilly is the premier popular online book collection containing thousands of best-selling, top-rated IT, computing, technology and business books by leading authors.  Safari characterizes itself as a "world’s most comprehensive technology and business learning platform".  :moneybag:
-
-
->>>>>>> upstream/master
 
 #### License
 [![CC0](http://i.creativecommons.org/p/mark/1.0/88x31.png)](http://creativecommons.org/publicdomain/mark/1.0/)
