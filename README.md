@@ -1,4 +1,4 @@
-			# Awesome-resources 
+# Awesome-resources 
 
 Awesome coding and learning resources for everyone. 
 Most of these links will make your learning process fun and creative. The best thing about these resources is that most of it are free. 
