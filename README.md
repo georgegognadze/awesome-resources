@@ -43,6 +43,7 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="http://cssgridgarden.com/" target="_blank"> Grid Garden </a> A game for learning CSS grid layout. :free:
 + <a href="https://scrimba.com/" target="_blank"> Scrimba </a> Scrimba is a powerful new way of learning code. Play around with the instructors code any time, right in the player. Learn AngularJS, VueJS, TypeScript, HTML, CSS, and more! :free:
 +  <a href="https://devhints.io/" target="_blank"> Devhints </a> A place where you can find cheat sheets related to programming languages, frameworks and other command lines and technologies. :free: 
++ <a href="https://exercism.io" target="_blank"> Exercism </a> Exercism is an online platform designed to help you improve your coding skills through practice and mentorship.  :free: 
 
 
 #### Coding for younger beginners 
@@ -54,6 +55,8 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="https://blockly-games.appspot.com/" target="_blank"> Blockly </a> Build a simple computer application by programming “tag” blocks to reach your target – no typing required.  :free: 
 + <a href="https://code.org/starwars" target="_blank"> Star Wars </a> Learn to code with Star Wars - Learn to program droids, and create your own Star Wars game in a galaxy far, far away.  :free: 
 + <a href="http://csunplugged.org/" target="_blank"> CS Unplugged </a> CS Unplugged - A computer science curriculum made of many different activities that do not require a computer.  :free: 
++ <a href="https://www.apple.com/au/swift/playgrounds/" target="_blank"> Swift Playgrounds </a> Learn serious code on your iPad. In a seriously fun way.  :free: 
+
 
 #### The Hour of Code
 
