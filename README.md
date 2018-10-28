@@ -12,6 +12,7 @@ Most of these links will make your learning process fun and creative. The best t
 + <a href="#make-your-own-games-or-apps">Make your own games or apps </a>
 + <a href="#apps-for-phones-and-tablets">Apps for phones and tablets </a> 
 + <a href="#courses-for-advanced-learners">Courses for advanced learners </a>
++ <a href="#free-data-to-work-with">Free data to work with </a> 
 + <a href="#references">References </a>
 
 ## Legend
@@ -143,6 +144,9 @@ teaches kids to code! :moneybag:
 + <a href="https://channel9.msdn.com/Series/" target="_blank"> Channel 9 </a> Channel 9 is A great place to find video series on all sorts of technologies including improving your code it skills :free:
 + <a href="https://mva.microsoft.com/" target="_blank"> Microsoft Virtual Academy</a> MVA is an online course repository for Microsoft technologies including but not limited to .Net language courses :free:
 
+#### Free data to work with
+
++ <a href="https://openweathermap.org/current" target="_blank"> Open Weather Map </a> Some free weather data that you can get an work with :free:
 
 
 #### License
