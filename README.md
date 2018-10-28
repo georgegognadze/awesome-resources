@@ -92,7 +92,7 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="https://www.edx.org/course/introduction-computer-science-harvardx-cs50x/" target="_blank"> Introduction to Computer Science </a> An introduction to the intellectual enterprises of computer science and the art of programming. You will learn concepts like abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development.  :free:
 + <a href="https://vimeo.com/channels/natureofcode/" target="_blank"> The Nature of Code </a> How can we capture the unpredictable evolutionary and emergent properties of nature in software? How can understanding the mathematical principles behind our physical world help us to create digital worlds?  :free:
 + <a href="http://www.teachingtree.co/" target="_blank"> Teaching Tree </a> TeachingTree is an open platform that lets anybody organize educational content.  :free:
-+ <a href="https://www.youtube.com/watch?v=O5nskjZ_GoI" target="_blank"> Crash Couse Computer Science </a> A 40 episode video course on Computer Science. From relay switches, tubes and transistors to artificial intelligence. A comprehensive, well thought out and fast paced course. On YouTube. :free:
++ <a href="https://www.youtube.com/watch?v=O5nskjZ_GoI" target="_blank"> Crash Couse Computer Science </a> A 40 episode video course on Computer Science. From relay switches, tubes and transistors to artificial intelligence. A comprehensive, well thought out and fast paced course. :free:
 + <a href="https://www.udacity.com/course/cs101" target="_blank"> Intro to Computer Science </a> You’ll learn and practice key computer science concepts by building your own versions of popular web applications. You’ll learn Python, a powerful, easy-to-learn, and widely used programming language, and you’ll explore computer science basics, as you build your own search engine and social network. :moneybag:
 
 
@@ -137,7 +137,7 @@ teaches kids to code! :moneybag:
 + <a href="http://lightbot.com/hocflash.html" target="_blank"> LightBot </a> Solve Puzzles using Programming Logic. :arrows_counterclockwise: 
 + <a href="http://twolivesleft.com/Codea/" target="_blank"> Codea </a> Codea for iPad lets you create games and simulations - or just about any visual idea you have. Turn your thoughts into interactive creations that make use of iPad features like Multi-Touch and the accelerometer. :moneybag:
 + <a href="https://itunes.apple.com/us/app/catos-hike-programming-logic/id574335479?mt=8" target="_blank"> Cato's Hike </a>Cato's Hike: A Programming and Logic Odyssey :moneybag: 
-+ <a href="https://grasshopper.codes" target="_blank"> Grasshopper </a> Learn-to-code mobile app for beginners called Grasshopper. The app teaches coders how to write JavaScript. :free: 
++ <a href="https://grasshopper.codes" target="_blank"> Grasshopper </a> Learn-to-code mobile app for beginners. Grasshopper app teaches coders how to write JavaScript. :free: 
 
 #### Courses for advanced learners
 
