@@ -20,6 +20,7 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
  :moneybag: - Paid   <br>
  :arrows_counterclockwise: - Mixed 
 
+
 #### Coding resources for beginners of all ages 
 
 + <a href="https://code.org/" target="_blank"> Code.org Tutorials </a> Simple tutorials/puzzles for beginners that can be completed in an hour or less. :free:
@@ -86,6 +87,7 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="https://www.kodable.com/hour-of-code" target="_blank"> Kodable </a> Kodable is a self-guided iPad game that introduces kids 5+ to programming basics. Having a teacher or parent nearby is optimal, but not necessary. :arrows_counterclockwise:
 + <a href="https://groklearning.com/hoc-2014/" target="_blank"> Grok learning </a> Use the programming language Python to build a chatbot called "Eliza" to act as a robot psychotherapist. You'll teach Eliza how to talk and the right thing to say. Can she fool your friends into thinking she's a human not a computer? :arrows_counterclockwise:
 
+
 #### Beyond an Hour
 
 + <a href="https://www.edx.org/course/introduction-computer-science-harvardx-cs50x/" target="_blank"> Introduction to Computer Science </a> An introduction to the intellectual enterprises of computer science and the art of programming. You will learn concepts like abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development.  :free:
@@ -106,6 +108,7 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="http://www.sphero.com/education/" target="_blank"> Sphero </a>  SPRK makes the skills of the future approachable and practical. And most importantly, fun. Learn: Drag and drop C-based block programming, Block programming in your Chrome browser, Programming with visual macros and more! :moneybag:
 + <a href="https://www.makewonder.com/" target="_blank"> Wonder </a> Home of Dash and Dot, robots that you can code. :moneybag:
 
+
 #### Make your own games or apps
 
 + <a href="https://www.makeschool.com/build-an-iphone-game-in-your-browser" target="_blank"> MakeSchool </a> Learn the basics of programming using the Swift programming language. Build an iphone game in your browser.  :free:
@@ -118,6 +121,7 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="https://bitsbox.com/index.html#hoc" target="_blank"> Bitsbox </a> A subscription box that 
 teaches kids to code! :moneybag:
 + <a href="http://twolivesleft.com/Codea/" target="_blank"> Codea </a> Codea for iPad lets you create games and simulations - or just about any visual idea you have. Turn your thoughts into interactive creations that make use of iPad features like Multi-Touch and the accelerometer. :moneybag:
+
 
 #### Apps for phones and tablets
 
@@ -137,6 +141,7 @@ teaches kids to code! :moneybag:
 + <a href="http://lightbot.com/hocflash.html" target="_blank"> LightBot </a> Solve Puzzles using Programming Logic. :arrows_counterclockwise: 
 + <a href="http://twolivesleft.com/Codea/" target="_blank"> Codea </a> Codea for iPad lets you create games and simulations - or just about any visual idea you have. Turn your thoughts into interactive creations that make use of iPad features like Multi-Touch and the accelerometer. :moneybag:
 + <a href="https://itunes.apple.com/us/app/catos-hike-programming-logic/id574335479?mt=8" target="_blank"> Cato's Hike </a>Cato's Hike: A Programming and Logic Odyssey. :moneybag: 
+
 
 #### Courses for advanced learners
 
@@ -162,12 +167,17 @@ To the extent possible under law, [George Gognadze](https://github.com/dreamtoco
 All contributions are welcome but please do not create a pull request without reading this guide first. Failure to do so may result in the rejection of the pull request. 
 
 + Fork the repository 
-+ Make changes to your fork also make sure that your changes are adequate to our repository and you don't provide the same thing that is already included
++ Make changes to your fork also make sure that your changes are adequate to our repository and you don't provide the same resource that is already included
 + Free resources first, mixed resources second and paid resources third.
 + Say why you proposing the changes, and make sure that you add changes at the bottom of the corresponding list and not at the top or in the middle. If resource is free find category and add it after last free resource in that list. Click on "Propose file change" with a smile :smile:
 
 #### References
 
 + <a href="https://www.google.com/about/careers/students/guide-to-technical-development.html" target="_blank"> Google - Guide for Technical Development </a> This guide provides tips and resources to help you develop your technical skills (academically and non-academically) through self-paced, hands-on learning. This guide is intended to target Computer Science students seeking an internship or university grad role at Google. :free:
+
+
+### Give this project a star ⭐️ 
+
+If you liked resources in this project, please share this project as much as you can and star this project to help as many people to start learn coding and become a programmer.
 
 **Happy learning :sparkling_heart:**
