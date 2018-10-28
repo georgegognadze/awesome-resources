@@ -34,13 +34,20 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="http://www.htmldog.com/" target="_blank"> Htmldog </a> A HTML Dog, the web designer’s resource for everything HTML, CSS, and JavaScript, the most common technologies used in making web pages. :free:
 + <a href="http://swiftlang.ng.bluemix.net/" target="_blank"> IBM Swift sandbox </a>  Web-based Swift sandbox where you can write code and execute it in a Linux server environment. :free:
 + <a href="https://www.test4u.eu/online/category.php" target="_blank"> Test4u </a> A collection of interactive tutorials for HTML, CSS, JavaScript, PHP and MySQL. :free:
++ <a href="https://www.hackerearth.com/practice/codemonk/" target="_blank"> Codemonk on Hackerearth </a> An online platform which teaches coding from very basics to higher level where Questions are divided into topics with each topic having tutorial followed by a competition each week and level of difficulty is good for beginners(All languages). :free:
++ <a href="https://www.sololearn.com/" target="_blank"> SoloLearn </a> Join the largest community of mobile code learners today. Learn C++, Java, Python, PHP, C#, JavaScript and more. :free:
++ <a href="http://cssgridgarden.com/" target="_blank"> Grid Garden </a> A game for learning CSS grid layout. :free:
++ <a href="https://scrimba.com/" target="_blank"> Scrimba </a> Scrimba is a powerful new way of learning code. Play around with the instructors code any time, right in the player. Learn AngularJS, VueJS, TypeScript, HTML, CSS, and more! :free:
++ <a href="https://devhints.io/" target="_blank"> Devhints </a> A place where you can find cheat sheets related to programming languages, frameworks and other command lines and technologies. :free: 
++ <a href="https://exercism.io" target="_blank"> Exercism </a> Exercism is an online platform designed to help you improve your coding skills through practice and mentorship.  :free: 
 + <a href="https://www.codeschool.com/" target="_blank"> Code School </a> Code School teaches web technologies in the comfort of your browser with video lessons, coding challenges, and screencasts. :arrows_counterclockwise:
 + <a href="https://www.codeavengers.com/" target="_blank"> Code Avengers </a> Learn to build websites, apps and games with HTML, CSS and JavaScript. :arrows_counterclockwise:
 + <a href="https://codecombat.com/" target="_blank"> CodeCombat </a> An online game that teaches programming. Students write code in real programming languages (Python, JavaScript, Lua, CofeeScript, Clojure). :arrows_counterclockwise:
 + <a href="https://www.codecademy.com/" target="_blank"> Codeacademy </a> Learn to code interactively, for free, on the web. Skill you will learn: HTML/CSS, JavaScript, Python, jQuery, PHP, SQL, AngularJS, Ruby on Rails and more! :arrows_counterclockwise:
 + <a href="https://www.hackerearth.com/practice/codemonk/" target="_blank"> Codemonk on Hackerearth </a> An online platform which teaches coding from very basics to higher level where Questions are divided into topics with each topic having tutorial followed by a competition each week and level of difficulty is good for beginners(All languages). :free:
 + <a href="https://www.sololearn.com/" target="_blank"> SoloLearn </a> Join the largest community of mobile code learners today. Learn C++, Java, Python, PHP, C#, JavaScript and more. :free:
-+ <a href="https://teamtreehouse.com/" target="_blank"> Treehouse </a> Treehouse brings affordable technology education to people everywhere in order to help them achieve their dreams and change the world! :paid:
++ <a href="https://teamtreehouse.com/" target="_blank"> Treehouse </a> Treehouse brings affordable technology education to people everywhere in order to help them achieve their dreams and change the world! :arrows_counterclockwise:
+
 
 #### Coding for younger beginners 
 
@@ -51,6 +58,8 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="https://blockly-games.appspot.com/" target="_blank"> Blockly </a> Build a simple computer application by programming “tag” blocks to reach your target – no typing required.  :free: 
 + <a href="https://code.org/starwars" target="_blank"> Star Wars </a> Learn to code with Star Wars - Learn to program droids, and create your own Star Wars game in a galaxy far, far away.  :free: 
 + <a href="http://csunplugged.org/" target="_blank"> CS Unplugged </a> CS Unplugged - A computer science curriculum made of many different activities that do not require a computer.  :free: 
++ <a href="https://www.apple.com/au/swift/playgrounds/" target="_blank"> Swift Playgrounds </a> Learn serious code on your iPad. In a seriously fun way.  :free: 
+
 
 #### The Hour of Code
 
@@ -84,6 +93,8 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="https://vimeo.com/channels/natureofcode/" target="_blank"> The Nature of Code </a> How can we capture the unpredictable evolutionary and emergent properties of nature in software? How can understanding the mathematical principles behind our physical world help us to create digital worlds?  :free:
 + <a href="http://www.teachingtree.co/" target="_blank"> Teaching Tree </a> TeachingTree is an open platform that lets anybody organize educational content.  :free:
 + <a href="https://www.udacity.com/course/cs101" target="_blank"> Intro to Computer Science </a> You’ll learn and practice key computer science concepts by building your own versions of popular web applications. You’ll learn Python, a powerful, easy-to-learn, and widely used programming language, and you’ll explore computer science basics, as you build your own search engine and social network. :moneybag:
++ <a href="https://www.youtube.com/watch?v=O5nskjZ_GoI" target="_blank"> Crash Couse Computer Science </a> A 40 episode video course on Computer Science. From relay switches, tubes and transistors to artificial intelligence. A comprehensive, well thought out and fast paced course. On YouTube. :free:
+
 
 #### Learn to program with robots
 
@@ -94,6 +105,7 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="http://www.finchrobot.com/" target="_blank"> Finch </a> The Finch was designed to allow students to write richly interactive programs. On-board features include: Light, temperature, and obstacle sensors, Accelerometers, Motors, Buzzer, Full-color beak LED, Pen mount for drawing capability, Plugs into USB port - no batteries required. :moneybag:
 + <a href="http://www.sphero.com/education/" target="_blank"> Sphero </a>  SPRK makes the skills of the future approachable and practical. And most importantly, fun. Learn: Drag and drop C-based block programming, Block programming in your Chrome browser, Programming with visual macros and more! :moneybag:
 + <a href="https://www.makewonder.com/" target="_blank"> Wonder </a> Home of Dash and Dot, robots that you can code. :moneybag:
++ <a href="http://johnny-five.io">Johnny Five</a> Johnny-Five is the JavaScript Robotics & IoT Platform. :arrows_counterclockwise:
 
 #### Make your own games or apps
 
@@ -125,6 +137,7 @@ teaches kids to code! :moneybag:
 + <a href="http://lightbot.com/hocflash.html" target="_blank"> LightBot </a> Solve Puzzles using Programming Logic. :arrows_counterclockwise: 
 + <a href="http://twolivesleft.com/Codea/" target="_blank"> Codea </a> Codea for iPad lets you create games and simulations - or just about any visual idea you have. Turn your thoughts into interactive creations that make use of iPad features like Multi-Touch and the accelerometer. :moneybag:
 + <a href="https://itunes.apple.com/us/app/catos-hike-programming-logic/id574335479?mt=8" target="_blank"> Cato's Hike </a>Cato's Hike: A Programming and Logic Odyssey :moneybag: 
++ <a href="https://grasshopper.codes" target="_blank"> Grasshopper </a> Learn-to-code mobile app for beginners called Grasshopper. The app teaches coders how to write JavaScript. :free: 
 
 #### Courses for advanced learners
 
@@ -136,7 +149,10 @@ teaches kids to code! :moneybag:
 + <a href="http://www.lynda.com/Developer-training-tutorials/50-0.html/" target="_blank"> Lynda </a> lynda.com is a leading online learning company that helps anyone learn business, software, technology and creative skills to achieve personal and professional goals. :arrows_counterclockwise:
 + <a href="https://courses.platzi.com/" target="_blank"> Platzi </a> Develop your skills by learning from top industry leaders at your own pace. Learn Marketing, Design, Programming and more to help grow your career!  :arrows_counterclockwise:
 + <a href="https://laracasts.com/" target="_blank"> Laracasts </a> The best PHP and Laravel screencasts on the web.  :moneybag:
-
++ <a href="https://channel9.msdn.com/Series/" target="_blank"> Channel 9 </a> Channel 9 is A great place to find video series on all sorts of technologies including improving your code it skills :free:
++ <a href="https://mva.microsoft.com/" target="_blank"> Microsoft Virtual Academy</a> MVA is an online course repository for Microsoft technologies including but not limited to .Net language courses :free:
++ <a href="https://www.safaribooksonline.com/" target="_blank"> Safari Books Online </a> Safari by O'Reilly is the premier popular online book collection containing thousands of best-selling, top-rated IT, computing, technology and business books by leading authors.  Safari characterizes itself as a "world’s most comprehensive technology and business learning platform".  :moneybag:
++ <a href="https://www.pluralsight.com/" target="_blank"> Pluralsight </a> Pluralsight is an online education company that offers a variety of video courses for software developers, IT Administrators, and creative professionals :moneybag:
 
 #### License
 [![CC0](http://i.creativecommons.org/p/mark/1.0/88x31.png)](http://creativecommons.org/publicdomain/mark/1.0/)
@@ -144,11 +160,12 @@ teaches kids to code! :moneybag:
 To the extent possible under law, [George Gognadze](https://github.com/dreamtocode) has waived all copyright and related or neighboring rights to this work.
 
 #### Contributing
-All contributions are welcome but please do not create a pull request without reading this guide first. Failure to do so may result in the rejection of the pull request.
+All contributions are welcome but please do not create a pull request without reading this guide first. Failure to do so may result in the rejection of the pull request. 
 
 + Fork the repository 
 + Make changes to your fork also make sure that your changes are adequate to our repository and you don't provide the same thing that is already included
-+ Say why you proposing the changes, and make sure that you add changes at the bottom of the corresponding list and not at the top or in the middle. Click on "Propose file change" with a smile :smile:
++ Free resources first, mixed resources second and paid resources third.
++ Say why you proposing the changes, and make sure that you add changes at the bottom of the corresponding list and not at the top or in the middle. If resource is free find category and add it after last free resource in that list. Click on "Propose file change" with a smile :smile:
 
 #### References
 
