@@ -157,11 +157,12 @@ teaches kids to code! :moneybag:
 To the extent possible under law, [George Gognadze](https://github.com/dreamtocode) has waived all copyright and related or neighboring rights to this work.
 
 #### Contributing
-All contributions are welcome but please do not create a pull request without reading this guide first. Failure to do so may result in the rejection of the pull request.
+All contributions are welcome but please do not create a pull request without reading this guide first. Failure to do so may result in the rejection of the pull request. 
 
 + Fork the repository 
 + Make changes to your fork also make sure that your changes are adequate to our repository and you don't provide the same thing that is already included
-+ Say why you proposing the changes, and make sure that you add changes at the bottom of the corresponding list and not at the top or in the middle. Click on "Propose file change" with a smile :smile:
++ Free resources first, mixed resources second and paid resources third.
++ Say why you proposing the changes, and make sure that you add changes at the bottom of the corresponding list and not at the top or in the middle. If resource is free find category and add it after last free resource in that list. Click on "Propose file change" with a smile :smile:
 
 #### References
 
