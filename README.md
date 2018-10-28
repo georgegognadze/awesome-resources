@@ -98,7 +98,7 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 
 #### Learn to program with robots
 
-+ <a href="http://sparkfun.codepops.com/#0/" target="_blank"> Sparkfun </a> Arduino Unplugged -- Hour of Code with Sparkfun's Digital Sandbox.  :free:
++ <a href="http://sparkfun.codepops.com/#0/" target="_blank"> Sparkfun </a> Arduino Unplugged. Hour of Code with Sparkfun's Digital Sandbox.  :free:
 + <a href="https://tickleapp.com/en-us/" target="_blank"> Tickle </a> Learn to program Arduino, drones, robots, connected toys, and smart home devices, all wirelessly. Tickle is easy to learn, fun to use, and 1000x more powerful!  :arrows_counterclockwise:
 + <a href="http://www.lego.com/en-us/mindstorms/" target="_blank"> Lego Mindstorms </a> The Lego Mindstorms series of kits contain software and hardware to create customizable, programmable robots. They include an intelligent brick computer that controls the system, a set of modular sensors and motors, and Lego parts from the Technic line to create the mechanical systems. :arrows_counterclockwise:
 + <a href="http://kinderlabrobotics.com/" target="_blank"> KinderLab </a> Children build their own robot with KIBO, program it to do what they want, and decorate it - all without a PC, tablet, or smartphone.  :arrows_counterclockwise:
@@ -122,7 +122,7 @@ teaches kids to code! :moneybag:
 
 #### Apps for phones and tablets
 
-+ <a href="https://scratch.mit.edu/" target="_blank"> Scratch </a> With Scratch, you can program your own stories, games, and animations — and share them online. :free:
++ <a href="https://scratch.mit.edu/" target="_blank"> Scratch </a> With Scratch, you can program your own stories, games, and animations  and share them online. :free:
 + <a href="http://www.scratchjr.org/" target="_blank"> ScratchJr </a> With ScratchJr, young children (ages 5-7) can program their own interactive stories and games. In the process, they learn to solve problems, design projects, and express themselves creatively on the computer. :free:
 + <a href="https://www.gethopscotch.com/" target="_blank">  Hopscotch </a> You can make your own version of popular games like Geometry Dash, create awesome art or build something brand new. Try doing fashion design, a journey into outer space, or making a piano. :free:
 + <a href="http://www.daisythedinosaur.com/" target="_blank">  Daisy the Dinosaur </a> This free, fun app has an easy drag and drop interface that kids of all ages can use to animate Daisy to dance across the screen. Kids will intuitively grasp the basics of objects, sequencing, loops and events by solving this app's challenges. :free:
@@ -137,7 +137,7 @@ teaches kids to code! :moneybag:
 + <a href="https://www.tynker.com/" target="_blank"> Tynker </a> Tynker is a creative computing platform and it offers self-paced online courses for children to learn coding at home, as well as an engaging programming curriculum for schools. :arrows_counterclockwise:
 + <a href="http://lightbot.com/hocflash.html" target="_blank"> LightBot </a> Solve Puzzles using Programming Logic. :arrows_counterclockwise: 
 + <a href="http://twolivesleft.com/Codea/" target="_blank"> Codea </a> Codea for iPad lets you create games and simulations - or just about any visual idea you have. Turn your thoughts into interactive creations that make use of iPad features like Multi-Touch and the accelerometer. :moneybag:
-+ <a href="https://itunes.apple.com/us/app/catos-hike-programming-logic/id574335479?mt=8" target="_blank"> Cato's Hike </a>Cato's Hike: A Programming and Logic Odyssey :moneybag: 
++ <a href="https://itunes.apple.com/us/app/catos-hike-programming-logic/id574335479?mt=8" target="_blank"> Cato's Hike </a>Cato's Hike: A Programming and Logic Odyssey. :moneybag: 
 
 #### Courses for advanced learners
 
@@ -149,10 +149,10 @@ teaches kids to code! :moneybag:
 + <a href="http://www.lynda.com/Developer-training-tutorials/50-0.html/" target="_blank"> Lynda </a> lynda.com is a leading online learning company that helps anyone learn business, software, technology and creative skills to achieve personal and professional goals. :arrows_counterclockwise:
 + <a href="https://courses.platzi.com/" target="_blank"> Platzi </a> Develop your skills by learning from top industry leaders at your own pace. Learn Marketing, Design, Programming and more to help grow your career!  :arrows_counterclockwise:
 + <a href="https://laracasts.com/" target="_blank"> Laracasts </a> The best PHP and Laravel screencasts on the web.  :moneybag:
-+ <a href="https://channel9.msdn.com/Series/" target="_blank"> Channel 9 </a> Channel 9 is A great place to find video series on all sorts of technologies including improving your code it skills :free:
-+ <a href="https://mva.microsoft.com/" target="_blank"> Microsoft Virtual Academy</a> MVA is an online course repository for Microsoft technologies including but not limited to .Net language courses :free:
++ <a href="https://channel9.msdn.com/Series/" target="_blank"> Channel 9 </a> Channel 9 is A great place to find video series on all sorts of technologies including improving your code it skills. :free:
++ <a href="https://mva.microsoft.com/" target="_blank"> Microsoft Virtual Academy</a> MVA is an online course repository for Microsoft technologies including but not limited to .Net language courses. :free:
 + <a href="https://www.safaribooksonline.com/" target="_blank"> Safari Books Online </a> Safari by O'Reilly is the premier popular online book collection containing thousands of best-selling, top-rated IT, computing, technology and business books by leading authors.  Safari characterizes itself as a "world’s most comprehensive technology and business learning platform".  :moneybag:
-+ <a href="https://www.pluralsight.com/" target="_blank"> Pluralsight </a> Pluralsight is an online education company that offers a variety of video courses for software developers, IT Administrators, and creative professionals :moneybag:
++ <a href="https://www.pluralsight.com/" target="_blank"> Pluralsight </a> Pluralsight is an online education company that offers a variety of video courses for software developers, IT Administrators, and creative professionals. :moneybag:
 
 #### License
 [![CC0](http://i.creativecommons.org/p/mark/1.0/88x31.png)](http://creativecommons.org/publicdomain/mark/1.0/)
