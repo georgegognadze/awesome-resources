@@ -42,7 +42,7 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="https://www.sololearn.com/" target="_blank"> SoloLearn </a> Join the largest community of mobile code learners today. Learn C++, Java, Python, PHP, C#, JavaScript and more. :free:
 + <a href="http://cssgridgarden.com/" target="_blank"> Grid Garden </a> A game for learning CSS grid layout. :free:
 + <a href="https://scrimba.com/" target="_blank"> Scrimba </a> Scrimba is a powerful new way of learning code. Play around with the instructors code any time, right in the player. Learn AngularJS, VueJS, TypeScript, HTML, CSS, and more! :free:
-+  <a href="https://devhints.io/" target="_blank"> Devhints </a> A place where you can find cheat sheets related to programming languages, frameworks and other command lines and technologies. :free: 
++ <a href="https://devhints.io/" target="_blank"> Devhints </a> A place where you can find cheat sheets related to programming languages, frameworks and other command lines and technologies. :free: 
 + <a href="https://exercism.io" target="_blank"> Exercism </a> Exercism is an online platform designed to help you improve your coding skills through practice and mentorship.  :free: 
 
 
