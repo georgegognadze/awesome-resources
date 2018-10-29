@@ -32,7 +32,6 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="http://silentteacher.toxicode.fr/" target="_blank"> Silent Teacher </a> a step by step and funny way to learn the basics. :free:
 + <a href="http://www.w3schools.com/" target="_blank"> W3schools </a> A collection of tutorials and references for web-related languages. :free:
 + <a href="http://www.htmldog.com/" target="_blank"> Htmldog </a> A HTML Dog, the web designer’s resource for everything HTML, CSS, and JavaScript, the most common technologies used in making web pages. :free:
-+ <a href="https://watchandcode.com/" target="_blank"> Watch and Code </a> A tutorial that teaches Practical Javascript through videos that go over basic to intermediate level concepts. The instructor also provides live office hours every week for additional support to those in need. :arrows_counterclockwise:
 + <a href="http://swiftlang.ng.bluemix.net/" target="_blank"> IBM Swift sandbox </a>  Web-based Swift sandbox where you can write code and execute it in a Linux server environment. :free:
 + <a href="https://www.test4u.eu/online/category.php" target="_blank"> Test4u </a> A collection of interactive tutorials for HTML, CSS, JavaScript, PHP and MySQL. :free:
 + <a href="https://www.codeschool.com/" target="_blank"> Code School </a> Code School teaches web technologies in the comfort of your browser with video lessons, coding challenges, and screencasts. :arrows_counterclockwise:
@@ -41,6 +40,7 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="https://www.codecademy.com/" target="_blank"> Codeacademy </a> Learn to code interactively, for free, on the web. Skill you will learn: HTML/CSS, JavaScript, Python, jQuery, PHP, SQL, AngularJS, Ruby on Rails and more! :arrows_counterclockwise:
 + <a href="https://www.hackerearth.com/practice/codemonk/" target="_blank"> Codemonk on Hackerearth </a> An online platform which teaches coding from very basics to higher level where Questions are divided into topics with each topic having tutorial followed by a competition each week and level of difficulty is good for beginners(All languages). :free:
 + <a href="https://www.sololearn.com/" target="_blank"> SoloLearn </a> Join the largest community of mobile code learners today. Learn C++, Java, Python, PHP, C#, JavaScript and more. :free:
++ <a href="https://watchandcode.com/" target="_blank"> Watch and Code </a> A tutorial that teaches Practical Javascript through videos that go over basic to intermediate level concepts. The instructor also provides live office hours every week for additional support to those in need. :arrows_counterclockwise:
 
 #### Coding for younger beginners 
 
