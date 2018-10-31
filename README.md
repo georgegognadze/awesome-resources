@@ -1,16 +1,16 @@
-# Awesome-resources 
+# Awesome-resources
 
-Awesome coding and learning resources for everyone. 
-Most of these links will make your learning process fun and creative. The best thing about these resources is that most of it are free. 
+Awesome coding and learning resources for everyone.
+Most of these links will make your learning process fun and creative. The best thing about these resources is that most of it are free.
 
 ## Table of Contents
-+ <a href="#coding-resources-for-beginners-of-all-ages">Coding resources for beginners of all ages </a> 
-+ <a href="#coding-for-younger-beginners">Coding for younger beginners </a> 
++ <a href="#coding-resources-for-beginners-of-all-ages">Coding resources for beginners of all ages </a>
++ <a href="#coding-for-younger-beginners">Coding for younger beginners </a>
 + <a href="#the-hour-of-code">The Hour of Code </a>
 + <a href="#beyond-an-hour">Beyond an Hour </a>
 + <a href="#learn-to-program-with-robots">Learn to program with robots </a>
 + <a href="#make-your-own-games-or-apps">Make your own games or apps </a>
-+ <a href="#apps-for-phones-and-tablets">Apps for phones and tablets </a> 
++ <a href="#apps-for-phones-and-tablets">Apps for phones and tablets </a>
 + <a href="#courses-for-advanced-learners">Courses for advanced learners </a>
 + <a href="#references">References </a>
 
@@ -18,10 +18,10 @@ Most of these links will make your learning process fun and creative. The best t
 There is tag for every link it is either Free, Paid or Mixed. <br>
  :free: - Free <br>
  :moneybag: - Paid   <br>
- :arrows_counterclockwise: - Mixed 
+ :arrows_counterclockwise: - Mixed
 
 
-#### Coding resources for beginners of all ages 
+#### Coding resources for beginners of all ages
 
 + <a href="https://code.org/" target="_blank"> Code.org Tutorials </a> Simple tutorials/puzzles for beginners that can be completed in an hour or less. :free:
 + <a href="https://developer.mozilla.org/en-US/"> Mozila Developer Network </a> Shared knowledge for the Open Web. HTML/HTML5, CSS/CSS3, Web APIs & DOM, Javascript, SVG, WEBGL, MathML. :free:
@@ -38,7 +38,7 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="https://www.sololearn.com/" target="_blank"> SoloLearn </a> Join the largest community of mobile code learners today. Learn C++, Java, Python, PHP, C#, JavaScript and more. :free:
 + <a href="http://cssgridgarden.com/" target="_blank"> Grid Garden </a> A game for learning CSS grid layout. :free:
 + <a href="https://scrimba.com/" target="_blank"> Scrimba </a> Scrimba is a powerful new way of learning code. Play around with the instructors code any time, right in the player. Learn AngularJS, VueJS, TypeScript, HTML, CSS, and more! :free:
-+ <a href="https://devhints.io/" target="_blank"> Devhints </a> A place where you can find cheat sheets related to programming languages, frameworks and other command lines and technologies. :free: 
++ <a href="https://devhints.io/" target="_blank"> Devhints </a> A place where you can find cheat sheets related to programming languages, frameworks and other command lines and technologies. :free:
 + <a href="https://exercism.io" target="_blank"> Exercism </a> Exercism is an online platform designed to help you improve your coding skills through practice and mentorship.  :free:
 + <a href="https://www.hackerearth.com/practice/" target="_blank"> Hackerearth </a> An online platform which teaches coding from very basics to higher level where Questions are divided into topics with each topic having tutorial followed by a competition each week and level of difficulty is good for beginners whith any language. Lots of programming tutorials and practice problems. :free:
 + <a href="https://www.sololearn.com/" target="_blank"> SoloLearn </a> Join the largest community of mobile code learners today. Learn C++, Java, Python, PHP, C#, JavaScript and more. :free:
@@ -47,18 +47,19 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="https://codecombat.com/" target="_blank"> CodeCombat </a> An online game that teaches programming. Students write code in real programming languages (Python, JavaScript, Lua, CofeeScript, Clojure). :arrows_counterclockwise:
 + <a href="https://www.codecademy.com/" target="_blank"> Codeacademy </a> Learn to code interactively, for free, on the web. Skill you will learn: HTML/CSS, JavaScript, Python, jQuery, PHP, SQL, AngularJS, Ruby on Rails and more! :arrows_counterclockwise:
 + <a href="https://teamtreehouse.com/" target="_blank"> Treehouse </a> Treehouse brings affordable technology education to people everywhere in order to help them achieve their dreams and change the world! :arrows_counterclockwise:
++ <a href="https://javascript30.com/" target="_blank"> JavaScript 30</a> 30 Day Vanilla JS Coding Challenge, free and hosted by one of the best educators on the web. Learn all the basics and have fun, for beginners to intermediate developers.
++ <a href="https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q" target="_blank"> Fun Fun Function</a> A brilliant video series hosted on YouTube by Mattias Petter Johansson. He takes difficult concepts and makes them really fun to learn. Topics include the chaining operator, higher order functions, map and reduce and unit testing. Great resource for any level.
 
-
-#### Coding for younger beginners 
+#### Coding for younger beginners
 
 + <a href="http://kata.coderdojo.com/wiki/Learning_Resource" target="_blank"> CoderDojo </a> Open source, game based learning resources for young people to learn the fundamentals of coding with fun results! :free:
 + <a href="https://www.robomindacademy.com/" target="_blank"> RoboMind Academy </a>  By programming a virtual robot, the student is introduced to logic, automation and technology. Available as an online educator-friendly platform that can be used with students aged 8 years or older. :free:
 + <a href="https://www.allcancode.com/" target="_blank"> Run Marco </a> An adventure game for kids that teaches the basic of coding. Available as a browser game and an Android app. :free:
 + <a href="https://www.playcodemonkey.com/" target="_blank"> CodeMonkey </a> In this free technology and STEM game, students learn about computer coding concepts like functions and loops by programming a monkey to find bananas! Real world programming language. Write code. Catch bananas. Save the world. :free:
-+ <a href="https://blockly-games.appspot.com/" target="_blank"> Blockly </a> Build a simple computer application by programming “tag” blocks to reach your target – no typing required.  :free: 
-+ <a href="https://code.org/starwars" target="_blank"> Star Wars </a> Learn to code with Star Wars - Learn to program droids, and create your own Star Wars game in a galaxy far, far away.  :free: 
-+ <a href="http://csunplugged.org/" target="_blank"> CS Unplugged </a> CS Unplugged - A computer science curriculum made of many different activities that do not require a computer.  :free: 
-+ <a href="https://www.apple.com/au/swift/playgrounds/" target="_blank"> Swift Playgrounds </a> Learn serious code on your iPad. In a seriously fun way.  :free: 
++ <a href="https://blockly-games.appspot.com/" target="_blank"> Blockly </a> Build a simple computer application by programming “tag” blocks to reach your target – no typing required.  :free:
++ <a href="https://code.org/starwars" target="_blank"> Star Wars </a> Learn to code with Star Wars - Learn to program droids, and create your own Star Wars game in a galaxy far, far away.  :free:
++ <a href="http://csunplugged.org/" target="_blank"> CS Unplugged </a> CS Unplugged - A computer science curriculum made of many different activities that do not require a computer.  :free:
++ <a href="https://www.apple.com/au/swift/playgrounds/" target="_blank"> Swift Playgrounds </a> Learn serious code on your iPad. In a seriously fun way.  :free:
 
 
 #### The Hour of Code
@@ -118,7 +119,7 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="https://studio.code.org/s/playlab/stage/1/puzzle/1" target="_blank"> Code.org </a> Create your own game using Code blocks. When you're done, click Finish to let friends try your game on their phones.  :free:
 + <a href="https://www.gethopscotch.com/" target="_blank">  Hopscotch </a> You can make your own version of popular games like Geometry Dash, create awesome art or build something brand new. Try doing fashion design, a journey into outer space, or making a piano. :free:
 + <a href="http://www.kodugamelab.com/" target="_blank"> Kodu </a> Kodu lets kids create games on the PC and Xbox via a simple visual programming language. Kodu can be used to teach creativity, problem solving, storytelling, as well as programming. Anyone can use Kodu to make a game, young children as well as adults with no design or programming skills.  :free:
-+ <a href="https://bitsbox.com/index.html#hoc" target="_blank"> Bitsbox </a> A subscription box that 
++ <a href="https://bitsbox.com/index.html#hoc" target="_blank"> Bitsbox </a> A subscription box that
 teaches kids to code! :moneybag:
 + <a href="http://twolivesleft.com/Codea/" target="_blank"> Codea </a> Codea for iPad lets you create games and simulations - or just about any visual idea you have. Turn your thoughts into interactive creations that make use of iPad features like Multi-Touch and the accelerometer. :moneybag:
 
@@ -132,15 +133,15 @@ teaches kids to code! :moneybag:
 + <a href="http://www.catrobat.org/" target="_blank">  Pocket Code </a> Try out the starter programs. Look inside to make changes and add your ideas. :free:
 + <a href="http://www.kodugamelab.com/" target="_blank"> Kodu </a> Kodu lets kids create games on the PC and Xbox via a simple visual programming language. Kodu can be used to teach creativity, problem solving, storytelling, as well as programming. Anyone can use Kodu to make a game, young children as well as adults with no design or programming skills. :free:
 + <a href="https://www.playcodemonkey.com/" target="_blank"> CodeMonkey </a> CodeMonkey is an engaging online game that teaches real computer programming to children as young as 9. We release new features and challenges on a monthly basis. :free:
-+ <a href="http://thefoos.com/" target="_blank"> The Foos </a> Welcome to The Foos, the #1 learn to code app for ages 5+. Get your kids excited about the ABC's of computer science with our award-winning game. :free: 
++ <a href="http://thefoos.com/" target="_blank"> The Foos </a> Welcome to The Foos, the #1 learn to code app for ages 5+. Get your kids excited about the ABC's of computer science with our award-winning game. :free:
 + <a href="http://www.mblock.cc/" target="_blank"> mBlock </a> mBlock is a graphical programming envirnment based on Scratch 2.0 Open Source Code that makes it easy to program Arduino projects and create interactive applications. :free:
 + <a href="http://softumeya.com/pyonkee/en/" target="_blank"> Pyonkee </a> Pyonkee is a real visual-programming environment for iPad. It is based on Scratch from the MIT Media Lab. Projects made for Scratch are compatible with Pyonkee. :free:
-+ <a href="https://grasshopper.codes" target="_blank"> Grasshopper </a> Learn-to-code mobile app for beginners. Grasshopper app teaches coders how to write JavaScript. :free: 
++ <a href="https://grasshopper.codes" target="_blank"> Grasshopper </a> Learn-to-code mobile app for beginners. Grasshopper app teaches coders how to write JavaScript. :free:
 + <a href="https://www.kodable.com/" target="_blank"> Kodable </a> Your child will learn to use conditions, loops, functions, and how to write and think algorithmically. Before reaching middle school, they’ll know the building blocks of every modern object oriented programming language. :arrows_counterclockwise:
 + <a href="https://www.tynker.com/" target="_blank"> Tynker </a> Tynker is a creative computing platform and it offers self-paced online courses for children to learn coding at home, as well as an engaging programming curriculum for schools. :arrows_counterclockwise:
-+ <a href="http://lightbot.com/hocflash.html" target="_blank"> LightBot </a> Solve Puzzles using Programming Logic. :arrows_counterclockwise: 
++ <a href="http://lightbot.com/hocflash.html" target="_blank"> LightBot </a> Solve Puzzles using Programming Logic. :arrows_counterclockwise:
 + <a href="http://twolivesleft.com/Codea/" target="_blank"> Codea </a> Codea for iPad lets you create games and simulations - or just about any visual idea you have. Turn your thoughts into interactive creations that make use of iPad features like Multi-Touch and the accelerometer. :moneybag:
-+ <a href="https://itunes.apple.com/us/app/catos-hike-programming-logic/id574335479?mt=8" target="_blank"> Cato's Hike </a>Cato's Hike: A Programming and Logic Odyssey. :moneybag: 
++ <a href="https://itunes.apple.com/us/app/catos-hike-programming-logic/id574335479?mt=8" target="_blank"> Cato's Hike </a>Cato's Hike: A Programming and Logic Odyssey. :moneybag:
 
 
 #### Courses for advanced learners
@@ -164,9 +165,9 @@ teaches kids to code! :moneybag:
 To the extent possible under law, [George Gognadze](https://github.com/dreamtocode) has waived all copyright and related or neighboring rights to this work.
 
 #### Contributing
-All contributions are welcome but please do not create a pull request without reading this guide first. Failure to do so may result in the rejection of the pull request. 
+All contributions are welcome but please do not create a pull request without reading this guide first. Failure to do so may result in the rejection of the pull request.
 
-+ Fork the repository 
++ Fork the repository
 + Make changes to your fork also make sure that your changes are adequate to our repository and you don't provide the same resource that is already included
 + Free resources first, mixed resources second and paid resources third.
 + Say why you proposing the changes, and make sure that you add changes at the bottom of the corresponding list and not at the top or in the middle. If resource is free find category and add it after last free resource in that list. Click on "Propose file change" with a smile :smile:
@@ -176,7 +177,7 @@ All contributions are welcome but please do not create a pull request without re
 + <a href="https://www.google.com/about/careers/students/guide-to-technical-development.html" target="_blank"> Google - Guide for Technical Development </a> This guide provides tips and resources to help you develop your technical skills (academically and non-academically) through self-paced, hands-on learning. This guide is intended to target Computer Science students seeking an internship or university grad role at Google. :free:
 
 
-### Give this project a star ⭐️ 
+### Give this project a star ⭐️
 
 If you liked resources in this project, please share this project as much as you can and star this project to help as many people to start learn coding and become a programmer.
 
