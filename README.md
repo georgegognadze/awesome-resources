@@ -47,6 +47,7 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="https://codecombat.com/" target="_blank"> CodeCombat </a> An online game that teaches programming. Students write code in real programming languages (Python, JavaScript, Lua, CofeeScript, Clojure). :arrows_counterclockwise:
 + <a href="https://www.codecademy.com/" target="_blank"> Codeacademy </a> Learn to code interactively, for free, on the web. Skill you will learn: HTML/CSS, JavaScript, Python, jQuery, PHP, SQL, AngularJS, Ruby on Rails and more! :arrows_counterclockwise:
 + <a href="https://teamtreehouse.com/" target="_blank"> Treehouse </a> Treehouse brings affordable technology education to people everywhere in order to help them achieve their dreams and change the world! :arrows_counterclockwise:
++ <a href="https://watchandcode.com/" target="_blank"> Watch and Code </a> A tutorial that teaches Practical Javascript through videos that go over basic to intermediate level concepts. The instructor also provides live office hours every week for additional support to those in need. :arrows_counterclockwise:
 
 
 #### Coding for younger beginners 
