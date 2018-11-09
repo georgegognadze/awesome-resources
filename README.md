@@ -44,7 +44,7 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="https://www.sololearn.com/" target="_blank"> SoloLearn </a> Join the largest community of mobile code learners today. Learn C++, Java, Python, PHP, C#, JavaScript and more. :free:
 + <a href="https://www.codeschool.com/" target="_blank"> Code School </a> Code School teaches web technologies in the comfort of your browser with video lessons, coding challenges, and screencasts. :arrows_counterclockwise:
 + <a href="https://www.codeavengers.com/" target="_blank"> Code Avengers </a> Learn to build websites, apps and games with HTML, CSS and JavaScript. :arrows_counterclockwise:
-+ <a href="https://codecombat.com/" target="_blank"> CodeCombat </a> An online game that teaches programming. Students write code in real programming languages (Python, JavaScript, Lua, CofeeScript, Clojure). :arrows_counterclockwise:
++ <a href="https://codecombat.com/" target="_blank"> CodeCombat </a> An online game that teaches programming. Students write code in real programming languages like: Python, JavaScript, Lua, CofeeScript, Clojure. :arrows_counterclockwise:
 + <a href="https://www.codecademy.com/" target="_blank"> Codeacademy </a> Learn to code interactively, for free, on the web. Skill you will learn: HTML/CSS, JavaScript, Python, jQuery, PHP, SQL, AngularJS, Ruby on Rails and more! :arrows_counterclockwise:
 + <a href="https://teamtreehouse.com/" target="_blank"> Treehouse </a> Treehouse brings affordable technology education to people everywhere in order to help them achieve their dreams and change the world! :arrows_counterclockwise:
 + <a href="https://watchandcode.com/" target="_blank"> Watch and Code </a> A tutorial that teaches Practical Javascript through videos that go over basic to intermediate level concepts. The instructor also provides live office hours every week for additional support to those in need. :arrows_counterclockwise:
@@ -180,6 +180,6 @@ All contributions are welcome but please do not create a pull request without re
 
 ### Give this project a star ⭐️ 
 
-If you liked resources in this project, please share this project as much as you can and star this project to help as many people to start learn coding and become a programmer.
+If you liked resources in this project, please share this project as much as you can and star this project to help as many people as possible to start learn coding and become a programmer.
 
 **Happy learning :sparkling_heart:**
