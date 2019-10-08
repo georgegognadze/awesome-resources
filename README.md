@@ -30,7 +30,7 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="https://www.thenewboston.com/" target="_blank"> TheNewBoston </a> Free Educational Video Tutorials on Computer Programming, Web Design, Game Development and More! :free:
 + <a href="https://dash.generalassemb.ly/" target="_blank"> Dash </a> Dash teaches HTML, CSS, and Javascript through fun projects you can do in your browser. :free:
 + <a href="https://www.codingame.com/" target="_blank"> CodinGame </a> Play video games using code, learn programming in more than 20 programming languages. :free:
-+ <a href="http://silentteacher.toxicode.fr/" target="_blank"> Silent Teacher </a> a step by step and funny way to learn the basics. :free:
++ <a href="http://silentteacher.toxicode.fr/" target="_blank"> Silent Teacher </a> A step by step and funny way to learn the basics. :free:
 + <a href="http://www.w3schools.com/" target="_blank"> W3schools </a> A collection of tutorials and references for web-related languages. :free:
 + <a href="http://www.htmldog.com/" target="_blank"> Htmldog </a> A HTML Dog, the web designer’s resource for everything HTML, CSS, and JavaScript, the most common technologies used in making web pages. :free:
 + <a href="http://swiftlang.ng.bluemix.net/" target="_blank"> IBM Swift sandbox </a>  Web-based Swift sandbox where you can write code and execute it in a Linux server environment. :free:
@@ -40,7 +40,7 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="https://scrimba.com/" target="_blank"> Scrimba </a> Scrimba is a powerful new way of learning code. Play around with the instructors code any time, right in the player. Learn AngularJS, VueJS, TypeScript, HTML, CSS, and more! :free:
 + <a href="https://devhints.io/" target="_blank"> Devhints </a> A place where you can find cheat sheets related to programming languages, frameworks and other command lines and technologies. :free: 
 + <a href="https://exercism.io" target="_blank"> Exercism </a> Exercism is an online platform designed to help you improve your coding skills through practice and mentorship.  :free:
-+ <a href="https://www.hackerearth.com/practice/" target="_blank"> Hackerearth </a> An online platform which teaches coding from very basics to higher level where Questions are divided into topics with each topic having tutorial followed by a competition each week and level of difficulty is good for beginners whith any language. Lots of programming tutorials and practice problems. :free:
++ <a href="https://www.hackerearth.com/practice/" target="_blank"> Hackerearth </a> An online platform which teaches coding from very basics to higher level where Questions are divided into topics with each topic having tutorial followed by a competition each week and level of difficulty is good for beginners with any language. Lots of programming tutorials and practice problems. :free:
 + <a href="https://www.sololearn.com/" target="_blank"> SoloLearn </a> Join the largest community of mobile code learners today. Learn C++, Java, Python, PHP, C#, JavaScript and more. :free:
 + <a href="https://www.codeschool.com/" target="_blank"> Code School </a> Code School teaches web technologies in the comfort of your browser with video lessons, coding challenges, and screencasts. :arrows_counterclockwise:
 + <a href="https://www.codeavengers.com/" target="_blank"> Code Avengers </a> Learn to build websites, apps and games with HTML, CSS and JavaScript. :arrows_counterclockwise:
@@ -112,7 +112,7 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 
 #### Make your own games or apps
 
-+ <a href="https://www.makeschool.com/build-an-iphone-game-in-your-browser" target="_blank"> MakeSchool </a> Learn the basics of programming using the Swift programming language. Build an iphone game in your browser.  :free:
++ <a href="https://www.makeschool.com/build-an-iphone-game-in-your-browser" target="_blank"> MakeSchool </a> Learn the basics of programming using the Swift programming language. Build an iPhone game in your browser.  :free:
 + <a href="https://studio.code.org/flappy/1" target="_blank"> Code.org Flappy Bird</a> Create your custom version of flappy bird using event handlers. The code you'll write involves dragging and dropping blocks.  :free:
 + <a href="https://www.touchdevelop.com/hourofcode2" target="_blank"> TouchDevelop </a> Write some code using language called Touch Develop. You'll fix the code and create your game.  :free:
 + <a href="http://appinventor.mit.edu/explore/hour-of-code.html" target="_blank"> AppInventor </a> With these beginner-friendly tutorials, you will learn the basics of programming apps for Android. You'll create three working apps.  :free:
@@ -169,7 +169,7 @@ To the extent possible under law, [George Gognadze](https://github.com/dreamtoco
 All contributions are welcome but please do not create a pull request without reading this guide first. Failure to do so may result in the rejection of the pull request. 
 
 + Fork the repository 
-+ Make changes to your fork also make sure that your changes are adequate to our repository and you don't provide the same resource that is already included
++ Make changes to your fork also make sure that your changes are adequate to our repository and you don't provide the same resource that is already included.
 + Free resources first, mixed resources second and paid resources third.
 + Say why you proposing the changes, and make sure that you add changes at the bottom of the corresponding list and not at the top or in the middle. If resource is free find category and add it after last free resource in that list. Click on "Propose file change" with a smile :smile:
 
