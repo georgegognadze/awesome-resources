@@ -159,7 +159,7 @@ teaches kids to code! :moneybag:
 + <a href="https://laracasts.com/" target="_blank"> Laracasts </a> The best PHP and Laravel screencasts on the web.  :moneybag:
 + <a href="https://www.safaribooksonline.com/" target="_blank"> Safari Books Online </a> Safari by O'Reilly is the premier popular online book collection containing thousands of best-selling, top-rated IT, computing, technology and business books by leading authors. :moneybag:
 + <a href="https://www.pluralsight.com/" target="_blank"> Pluralsight </a> Pluralsight is an online education company that offers a variety of video courses for software developers, IT Administrators, and creative professionals. :moneybag:
-+ <a href="https://linuxacademy.com/" target="_blank"> LinuxAcademy </a> Linux Academy provides online in-depth training and certification courses for Linux, AWS, Azure, Google, OpenStack, DevOps, Big Data, and Containers. :moneybag:
++ <a href="https://linuxacademy.com/library/skill-level/Beginner/" target="_blank"> LinuxAcademy </a> Linux Academy provides online in-depth training and certification courses for Linux, AWS, Azure, Google, OpenStack, DevOps, Big Data, and Containers. :moneybag:
 
 #### License
 [![CC0](http://i.creativecommons.org/p/mark/1.0/88x31.png)](http://creativecommons.org/publicdomain/mark/1.0/)
