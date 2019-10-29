@@ -162,6 +162,7 @@ teaches kids to code! :moneybag:
 + <a href="https://www.pluralsight.com/" target="_blank"> Pluralsight </a> Pluralsight is an online education company that offers a variety of video courses for software developers, IT Administrators, and creative professionals. :moneybag:
 + <a href="https://linuxacademy.com/library/skill-level/Beginner/" target="_blank"> LinuxAcademy </a> Linux Academy provides online in-depth training and certification courses for Linux, AWS, Azure, Google, OpenStack, DevOps, Big Data, and Containers. :moneybag:
 + <a href="https://www.sitepoint.com/premium/library/" target="_blank"> Sitepoint </a> Learn web design and development, HTML, CSS, JavaScript, PHP, Node, React, WordPress and much more. :moneybag:
++ <a href="https://onemonth.com/" target="_blank"> One Month </a> Learn Python, HTML, JavaScript, and more. Invest in yourself, and upgrade your career. :moneybag:
 
 #### License
 [![CC0](http://i.creativecommons.org/p/mark/1.0/88x31.png)](http://creativecommons.org/publicdomain/mark/1.0/)
