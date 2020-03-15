@@ -10,6 +10,7 @@ Most of these links will make your learning process fun and creative. These reso
 + <a href="#beyond-an-hour">Beyond an Hour </a>
 + <a href="#learn-to-program-with-robots">Learn to program with robots </a>
 + <a href="#make-your-own-games-or-apps">Make your own games or apps </a>
++ <a href="#make-your-own-things-using-3d-printer">Make your own things using 3d printer </a>
 + <a href="#apps-for-phones-and-tablets">Apps for phones and tablets </a>
 + <a href="#courses-for-advanced-learners">Courses for advanced learners </a>
 + <a href="#competetive-programming">Competetive programming </a>
@@ -129,6 +130,12 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="https://bitsbox.com/index.html#hoc" target="_blank"> Bitsbox </a> A subscription box that
 teaches kids to code! :moneybag:
 + <a href="http://twolivesleft.com/Codea/" target="_blank"> Codea </a> Codea for iPad lets you create games and simulations - or just about any visual idea you have. Turn your thoughts into interactive creations that make use of iPad features like Multi-Touch and the accelerometer. :moneybag:
+
+
+#### Make your own things using 3d printer
+
++ <a href="https://www.tinkercad.com/"> Tinkercad </a>Tinkercad is an easy-to-use 3D CAD design tool. Quickly turn your idea into a CAD model for a 3D printer with Tinkercad. :free:
++ <a href="http://www.openscad.org/"> OpenSCAD </a> OpenSCAD is software for creating solid 3D CAD objects. It is free software and available for Linux/UNIX, MS Windows and Mac OS X. :free:
 
 
 #### Apps for phones and tablets
