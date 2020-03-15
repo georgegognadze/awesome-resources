@@ -165,6 +165,7 @@ teaches kids to code! :moneybag:
 + <a href="https://courses.platzi.com/" target="_blank"> Platzi </a> Develop your skills by learning from top industry leaders at your own pace. Learn Marketing, Design, Programming and more to help grow your career! :arrows_counterclockwise:
 + <a href="https://www.datacamp.com/" target="_blank"> DataCamp </a> Learn R, Python and Data Science online. :arrows_counterclockwise:
 + <a href="https://tutsplus.com/courses" target="_blank"> Tutsplus </a> 1,260+ video-based courses and short courses to help you develop creative and technical skills. What would you like to learn? :arrows_counterclockwise:
++ <a href="https://online.stanford.edu/courses" target="_blank"> Stanford Online </a> Stanford Online offers learners a single point of access to Stanford’s extended education and lifelong learning opportunities both on campus and around the world. :arrows_counterclockwise:
 + <a href="https://laracasts.com/" target="_blank"> Laracasts </a> The best PHP and Laravel screencasts on the web. :moneybag:
 + <a href="https://www.safaribooksonline.com/" target="_blank"> Safari Books Online </a> Safari by O'Reilly is the premier popular online book collection containing thousands of best-selling, top-rated IT, computing, technology and business books by leading authors. :moneybag:
 + <a href="https://www.pluralsight.com/" target="_blank"> Pluralsight </a> Pluralsight is an online education company that offers a variety of video courses for software developers, IT Administrators, and creative professionals. :moneybag:
