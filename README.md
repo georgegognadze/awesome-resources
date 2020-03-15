@@ -13,6 +13,7 @@ Most of these links will make your learning process fun and creative. These reso
 + <a href="#apps-for-phones-and-tablets">Apps for phones and tablets </a>
 + <a href="#courses-for-advanced-learners">Courses for advanced learners </a>
 + <a href="#competetive-programming">Competetive programming </a>
++ <a href="#free-data-to-work-with">Free data to work with </a>
 + <a href="#references">References </a>
 
 ## Legend
@@ -181,6 +182,12 @@ teaches kids to code! :moneybag:
 + <a href="https://leetcode.com/problemset/all/" target="_blank"> Leetcode </a> LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews. :arrows_counterclockwise:
 + <a href="https://www.topcoder.com/challenges/" target="_blank"> TopCoder </a> TopCoder provides a list of algorithmic challenges to help you build your coding skills. :arrows_counterclockwise:
 + <a href="https://www.coderbyte.com/challenges" target="_blank"> Coderbyte </a> Coderbyte provides 200+ coding challenges you can solve directly online in one of 10 programming languages. :arrows_counterclockwise:
+
+
+#### Free data to work with
+
++ <a href="https://openweathermap.org/current" target="_blank"> Open Weather Map </a> Access current weather data for any location on Earth including over 200,000 cities!
+Current weather is frequently updated based on global models and data from more than 40,000 weather stations. Data is available in JSON, XML, or HTML format. :free:
 
 
 #### License
