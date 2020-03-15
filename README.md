@@ -42,6 +42,7 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="https://devhints.io/" target="_blank"> Devhints </a> A place where you can find cheat sheets related to programming languages, frameworks and other command lines and technologies. :free: 
 + <a href="https://exercism.io" target="_blank"> Exercism </a> Exercism is an online platform designed to help you improve your coding skills through practice and mentorship.  :free:
 + <a href="https://www.hackerearth.com/practice/" target="_blank"> Hackerearth </a> An online platform which teaches coding from very basics to higher level where Questions are divided into topics with each topic having tutorial followed by a competition each week and level of difficulty is good for beginners with any language. Lots of programming tutorials and practice problems. :free:
++ <a href="https://rubykoans.com"> Ruby Koans </a> Learn Ruby With the Edgecase Ruby Koans. The Koans walk you along the path to enlightenment in order to learn Ruby. The goal is to learn the Ruby language. :free:
 + <a href="https://www.codeschool.com/" target="_blank"> Code School </a> Code School teaches web technologies in the comfort of your browser with video lessons, coding challenges, and screencasts. :arrows_counterclockwise:
 + <a href="https://www.codeavengers.com/" target="_blank"> Code Avengers </a> Learn to build websites, apps and games with HTML, CSS and JavaScript. :arrows_counterclockwise:
 + <a href="https://codecombat.com/" target="_blank"> CodeCombat </a> An online game that teaches programming. Students write code in real programming languages like: Python, JavaScript, Lua, CofeeScript, Clojure. :arrows_counterclockwise:
@@ -153,12 +154,14 @@ teaches kids to code! :moneybag:
 + <a href="https://ocw.mit.edu/courses/" target="_blank"> MIT OpenCourseWare </a> MIT OpenCourseWare makes the materials used in the teaching of almost all of MIT's subjects available on the Web, free of charge. With more than 2,200 courses available, OCW is delivering on the promise of open sharing of knowledge. :free:
 + <a href="https://channel9.msdn.com/Series/" target="_blank"> Channel 9 </a> Channel 9 is A great place to find video series on all sorts of technologies including improving your code it skills. :free:
 + <a href="https://mva.microsoft.com/" target="_blank"> Microsoft Virtual Academy</a> MVA is an online course repository for Microsoft technologies including but not limited to .Net language courses. :free:
++ <a href="https://channel9.msdn.com/Series/" target="_blank"> Channel 9 </a> Channel 9 is A great place to find video series on all sorts of technologies including improving your code it skills :free:
++ <a href="https://mva.microsoft.com/" target="_blank"> Microsoft Virtual Academy</a> MVA is an online course repository for Microsoft technologies including but not limited to .Net language courses :free:
 + <a href="https://www.coursera.org/courses?orderby=upcoming&cats=cs-programming" target="_blank"> Coursera </a> Coursera provides universal access to the world’s best education, partnering with top universities and organizations to offer courses online. :arrows_counterclockwise:
 + <a href="https://www.udacity.com/courses#!/all" target="_blank"> Udacity </a> Udacity with industry giants—Google, AT&T, Facebook, Salesforce, Cloudera, etc.—we offer Nanodegree programs and credentials, designed so professionals become Web Developers, Data Analysts, Mobile Developers, etc. :arrows_counterclockwise:
 + <a href="https://www.udemy.com/courses/" target="_blank"> Udemy </a> World’s online learning marketplace, where 8 million+ students are taking courses in everything from programming to yoga to photography and much, much more. Each of our 32,000+ courses is taught by an expert instructor, and every course is available on-demand, so students can learn at their own pace, on their own time, and on any device. :arrows_counterclockwise:
 + <a href="http://www.lynda.com/Developer-training-tutorials/50-0.html/" target="_blank"> Lynda </a> Lynda.com is a leading online learning company that helps anyone learn business, software, technology and creative skills to achieve personal and professional goals. :arrows_counterclockwise:
-+ <a href="https://courses.platzi.com/" target="_blank"> Platzi </a> Develop your skills by learning from top industry leaders at your own pace. Learn Marketing, Design, Programming and more to help grow your career!  :arrows_counterclockwise:
-+ <a href="https://www.datacamp.com/" target="_blank"> Datacamp </a> Learn R, Python and Data Science online. :arrows_counterclockwise:
++ <a href="https://courses.platzi.com/" target="_blank"> Platzi </a> Develop your skills by learning from top industry leaders at your own pace. Learn Marketing, Design, Programming and more to help grow your career! :arrows_counterclockwise:
++ <a href="https://www.datacamp.com/" target="_blank"> DataCamp </a> Learn R, Python and Data Science online. :arrows_counterclockwise:
 + <a href="https://tutsplus.com/courses" target="_blank"> Tutsplus </a> 1,260+ video-based courses and short courses to help you develop creative and technical skills. What would you like to learn? :arrows_counterclockwise:
 + <a href="https://laracasts.com/" target="_blank"> Laracasts </a> The best PHP and Laravel screencasts on the web. :moneybag:
 + <a href="https://www.safaribooksonline.com/" target="_blank"> Safari Books Online </a> Safari by O'Reilly is the premier popular online book collection containing thousands of best-selling, top-rated IT, computing, technology and business books by leading authors. :moneybag:
@@ -169,11 +172,13 @@ teaches kids to code! :moneybag:
 
 
 #### Competetive programming
+
 + <a href="https://www.hackerrank.com/" target="_blank"> HackerRank </a> Practice coding, prepare for interviews, and get hired. :free:
 + <a href="https://projecteuler.net/archives" target="_blank">Project Euler</a> Project Euler provides a large collection of challenges in the domain of computer science and mathematics. :free:
 + <a href="https://leetcode.com/problemset/all/" target="_blank"> Leetcode </a> LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews. :arrows_counterclockwise:
 + <a href="https://www.topcoder.com/challenges/" target="_blank">TopCoder</a> TopCoder provides a list of algorithmic challenges to help you build your coding skills. :arrows_counterclockwise:
 + <a href="https://www.coderbyte.com/challenges" target="_blank">Coderbyte</a> Coderbyte provides 200+ coding challenges you can solve directly online in one of 10 programming languages. :arrows_counterclockwise:
+
 
 
 #### License
