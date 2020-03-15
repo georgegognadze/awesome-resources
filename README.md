@@ -160,7 +160,7 @@ teaches kids to code! :moneybag:
 + <a href="https://courses.platzi.com/" target="_blank"> Platzi </a> Develop your skills by learning from top industry leaders at your own pace. Learn Marketing, Design, Programming and more to help grow your career!  :arrows_counterclockwise:
 + <a href="https://www.datacamp.com/" target="_blank"> Datacamp </a> Learn R, Python and Data Science online. :arrows_counterclockwise:
 + <a href="https://tutsplus.com/courses" target="_blank"> Tutsplus </a> 1,260+ video-based courses and short courses to help you develop creative and technical skills. What would you like to learn? :arrows_counterclockwise:
-+ <a href="https://laracasts.com/" target="_blank"> Laracasts </a> The best PHP and Laravel screencasts on the web.  :moneybag:
++ <a href="https://laracasts.com/" target="_blank"> Laracasts </a> The best PHP and Laravel screencasts on the web. :moneybag:
 + <a href="https://www.safaribooksonline.com/" target="_blank"> Safari Books Online </a> Safari by O'Reilly is the premier popular online book collection containing thousands of best-selling, top-rated IT, computing, technology and business books by leading authors. :moneybag:
 + <a href="https://www.pluralsight.com/" target="_blank"> Pluralsight </a> Pluralsight is an online education company that offers a variety of video courses for software developers, IT Administrators, and creative professionals. :moneybag:
 + <a href="https://linuxacademy.com/library/skill-level/Beginner/" target="_blank"> LinuxAcademy </a> Linux Academy provides online in-depth training and certification courses for Linux, AWS, Azure, Google, OpenStack, DevOps, Big Data, and Containers. :moneybag:
@@ -170,7 +170,10 @@ teaches kids to code! :moneybag:
 
 #### Competetive programming
 + <a href="https://www.hackerrank.com/" target="_blank"> HackerRank </a> Practice coding, prepare for interviews, and get hired. :free:
-+ <a href="https://www.leetcode.com/" target="_blank"> Leetcode </a> LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews. :arrows_counterclockwise:
++ <a href="https://projecteuler.net/archives" target="_blank">Project Euler</a> Project Euler provides a large collection of challenges in the domain of computer science and mathematics. :free:
++ <a href="https://leetcode.com/problemset/all/" target="_blank"> Leetcode </a> LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews. :arrows_counterclockwise:
++ <a href="https://www.topcoder.com/challenges/" target="_blank">TopCoder</a> TopCoder provides a list of algorithmic challenges to help you build your coding skills. :arrows_counterclockwise:
++ <a href="https://www.coderbyte.com/challenges" target="_blank">Coderbyte</a> Coderbyte provides 200+ coding challenges you can solve directly online in one of 10 programming languages. :arrows_counterclockwise:
 
 
 #### License
