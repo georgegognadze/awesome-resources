@@ -169,6 +169,7 @@ teaches kids to code! :moneybag:
 
 #### Competetive programming
 + <a href="https://www.hackerrank.com/" target="_blank"> HackerRank </a> Practice coding, prepare for interviews, and get hired. :free:
++ <a href="https://www.leetcode.com/" target="_blank"> Leetcode </a> LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews. :arrows_counterclockwise:
 
 
 #### License
