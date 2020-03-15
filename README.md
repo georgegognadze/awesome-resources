@@ -1,27 +1,28 @@
-# Awesome-resources 
+# Awesome-resources
 
-Awesome coding and learning resources for everyone. 
+Awesome coding and learning resources for everyone.
 Most of these links will make your learning process fun and creative. The best thing about these resources is that most of it are free. 
 
 ## Table of Contents
-+ <a href="#coding-resources-for-beginners-of-all-ages">Coding resources for beginners of all ages </a> 
-+ <a href="#coding-for-younger-beginners">Coding for younger beginners </a> 
++ <a href="#coding-resources-for-beginners-of-all-ages">Coding resources for beginners of all ages </a>
++ <a href="#coding-for-younger-beginners">Coding for younger beginners </a>
 + <a href="#the-hour-of-code">The Hour of Code </a>
 + <a href="#beyond-an-hour">Beyond an Hour </a>
 + <a href="#learn-to-program-with-robots">Learn to program with robots </a>
 + <a href="#make-your-own-games-or-apps">Make your own games or apps </a>
-+ <a href="#apps-for-phones-and-tablets">Apps for phones and tablets </a> 
++ <a href="#apps-for-phones-and-tablets">Apps for phones and tablets </a>
 + <a href="#courses-for-advanced-learners">Courses for advanced learners </a>
++ <a href="#competetive-programming">Competetive programming </a>
 + <a href="#references">References </a>
 
 ## Legend
 There is tag for every link it is either Free, Paid or Mixed. <br>
  :free: - Free <br>
  :moneybag: - Paid   <br>
- :arrows_counterclockwise: - Mixed 
+ :arrows_counterclockwise: - Mixed
 
 
-#### Coding resources for beginners of all ages 
+#### Coding resources for beginners of all ages
 
 + <a href="https://code.org/" target="_blank"> Code.org Tutorials </a> Simple tutorials/puzzles for beginners that can be completed in an hour or less. :free:
 + <a href="https://developer.mozilla.org/en-US/"> Mozila Developer Network </a> Shared knowledge for the Open Web. HTML/HTML5, CSS/CSS3, Web APIs & DOM, Javascript, SVG, WEBGL, MathML. :free:
@@ -50,7 +51,7 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="https://www.learnenough.com/courses" target="_blank"> Learnenough </a> Learn Command line, Text editor, Git, HTML, CSS, Javascript, Ruby and much more. :arrows_counterclockwise:
 
 
-#### Coding for younger beginners 
+#### Coding for younger beginners
 
 + <a href="http://kata.coderdojo.com/wiki/Learning_Resource" target="_blank"> CoderDojo </a> Open source, game based learning resources for young people to learn the fundamentals of coding with fun results! :free:
 + <a href="https://www.robomindacademy.com/" target="_blank"> RoboMind Academy </a>  By programming a virtual robot, the student is introduced to logic, automation and technology. Available as an online educator-friendly platform that can be used with students aged 8 years or older. :free:
@@ -61,6 +62,7 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="http://csunplugged.org/" target="_blank"> CS Unplugged </a> CS Unplugged - A computer science curriculum made of many different activities that do not require a computer.  :free: 
 + <a href="https://www.apple.com/au/swift/playgrounds/" target="_blank"> Swift Playgrounds </a> Learn serious code on your iPad. In a seriously fun way.  :free: 
 + <a href="http://www.crunchzilla.com/" target="_blank"> Crunchzilla </a> Learn code by playing Crunchzilla's educational games like Code Monster, Code Maven, Game Maven, Data maven.  :free: 
+
 
 #### The Hour of Code
 
@@ -163,6 +165,11 @@ teaches kids to code! :moneybag:
 + <a href="https://linuxacademy.com/library/skill-level/Beginner/" target="_blank"> LinuxAcademy </a> Linux Academy provides online in-depth training and certification courses for Linux, AWS, Azure, Google, OpenStack, DevOps, Big Data, and Containers. :moneybag:
 + <a href="https://www.sitepoint.com/premium/library/" target="_blank"> Sitepoint </a> Learn web design and development, HTML, CSS, JavaScript, PHP, Node, React, WordPress and much more. :moneybag:
 + <a href="https://onemonth.com/" target="_blank"> One Month </a> Learn Python, HTML, JavaScript, and more. Invest in yourself, and upgrade your career. :moneybag:
+
+
+#### Competetive programming
++ <a href="https://www.hackerrank.com/" target="_blank"> HackerRank </a> Practice coding, prepare for interviews, and get hired. :free:
+
 
 #### License
 [![CC0](http://i.creativecommons.org/p/mark/1.0/88x31.png)](http://creativecommons.org/publicdomain/mark/1.0/)
