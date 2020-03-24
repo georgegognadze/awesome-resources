@@ -142,6 +142,7 @@ teaches kids to code! :moneybag:
 
 + <a href="https://scratch.mit.edu/" target="_blank"> Scratch </a> With Scratch, you can program your own stories, games, and animations  and share them online. :free:
 + <a href="http://www.scratchjr.org/" target="_blank"> ScratchJr </a> With ScratchJr, young children (ages 5-7) can program their own interactive stories and games. In the process, they learn to solve problems, design projects, and express themselves creatively on the computer. :free:
++ <a href="https://scratchx.org/" target="_blank"> ScratchX </a> Play with Experimental Extensions to Scratch! With Experimental Extensions, you can create Scratch projects that connect with external hardware (such as electronic devices and robotics) and online resources (including web data and web services). :free:
 + <a href="https://www.gethopscotch.com/" target="_blank">  Hopscotch </a> You can make your own version of popular games like Geometry Dash, create awesome art or build something brand new. Try doing fashion design, a journey into outer space, or making a piano. :free:
 + <a href="http://www.daisythedinosaur.com/" target="_blank">  Daisy the Dinosaur </a> This free, fun app has an easy drag and drop interface that kids of all ages can use to animate Daisy to dance across the screen. Kids will intuitively grasp the basics of objects, sequencing, loops and events by solving this app's challenges. :free:
 + <a href="http://www.catrobat.org/" target="_blank">  Pocket Code </a> Try out the starter programs. Look inside to make changes and add your ideas. :free:
