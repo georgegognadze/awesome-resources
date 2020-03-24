@@ -30,7 +30,7 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="https://developer.mozilla.org/en-US/"> Mozila Developer Network </a> Shared knowledge for the Open Web. HTML/HTML5, CSS/CSS3, Web APIs & DOM, Javascript, SVG, WEBGL, MathML. :free:
 + <a href="http://www.tutorialspoint.com/" target="_blank"> Tutorialspoint </a> Tutorials for WebGL, Drupal, SQL, Wordpress, XAML, W3CSS, SVG, Web Icons, Web Analytics, Google Maps, Joomla, Magento, Apex, Emberjs, BackboneJS, KnockoutJS, Node.js and more! :free:
 + <a href="http://www.freecodecamp.com/" target="_blank"> freeCodeCamp </a> Learn to code and build projects for non-profits. Skill you will learn: HTML5, CSS3, Javascript, Databases, Git, Node.js, Angular.js, Agile. :free:
-+ <a href="https://csfirst.withgoogle.com/s/en/home">CS First </a> A free computer science curriculum that makes coding easy to teach and fun to learn. :free:
++ <a href="https://csfirst.withgoogle.com/s/en/home" target="_blank"> CS First </a> A free computer science curriculum that makes coding easy to teach and fun to learn. :free:
 + <a href="https://www.thenewboston.com/" target="_blank"> TheNewBoston </a> Free Educational Video Tutorials on Computer Programming, Web Design, Game Development and More! :free:
 + <a href="https://dash.generalassemb.ly/" target="_blank"> Dash </a> Dash teaches HTML, CSS, and Javascript through fun projects you can do in your browser. :free:
 + <a href="https://www.codingame.com/" target="_blank"> CodinGame </a> Play video games using code, learn programming in more than 20 programming languages. :free:
