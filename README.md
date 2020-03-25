@@ -103,8 +103,9 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="https://vimeo.com/channels/natureofcode/" target="_blank"> The Nature of Code </a> How can we capture the unpredictable evolutionary and emergent properties of nature in software? How can understanding the mathematical principles behind our physical world help us to create digital worlds?  :free:
 + <a href="http://www.teachingtree.co/" target="_blank"> Teaching Tree </a> TeachingTree is an open platform that lets anybody organize educational content.  :free:
 + <a href="https://www.youtube.com/watch?v=O5nskjZ_GoI" target="_blank"> Crash Couse Computer Science </a> A 40 episode video course on Computer Science. From relay switches, tubes and transistors to artificial intelligence. A comprehensive, well thought out and fast paced course. :free:
-+ <a href="https://www.udacity.com/course/cs101" target="_blank"> Intro to Computer Science </a> You’ll learn and practice key computer science concepts by building your own versions of popular web applications. You’ll learn Python, a powerful, easy-to-learn, and widely used programming language, and you’ll explore computer science basics, as you build your own search engine and social network. :moneybag:
 + <a href="https://www.theodinproject.com/" target="_blank"> The Odin Project </a> The Odin Project is one of those "What I wish I had when I was learning" resources. Not everyone has access to a computer science education or the funds to attend an intensive coding school and neither of those is right for everyone anyway. This project is designed to fill in the gap for people who are trying to hack it on their own but still want a high quality education. :free:
++ <a href="https://www.udacity.com/course/cs101" target="_blank"> Intro to Computer Science </a> You’ll learn and practice key computer science concepts by building your own versions of popular web applications. You’ll learn Python, a powerful, easy-to-learn, and widely used programming language, and you’ll explore computer science basics, as you build your own search engine and social network. :moneybag:
+
 
 #### Learn to program with robots
 
