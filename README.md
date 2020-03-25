@@ -47,11 +47,11 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="https://rubykoans.com"> Ruby Koans </a> Learn Ruby With the Edgecase Ruby Koans. The Koans walk you along the path to enlightenment in order to learn Ruby. The goal is to learn the Ruby language. :free:
 + <a href="https://www.openvim.com/"> OpenVim </a> Vim is a highly configurable text editor built to enable efficient text editing. Collection of Vim learning tools. :free:
 + <a href="https://javascript30.com/" target="_blank"> JavaScript 30 </a> 30 Day Vanilla JS Coding Challenge, free and hosted by one of the best educators on the web. Learn all the basics and have fun, for beginners to intermediate developers. :free:
++ <a href="http://www.codewars.com/" target="_blank"> Codewars </a> Achieve mastery through challenge
+Improve your skills by training with others on real code challenges. :free:
 + <a href="https://www.codeschool.com/" target="_blank"> Code School </a> Code School teaches web technologies in the comfort of your browser with video lessons, coding challenges, and screencasts. :arrows_counterclockwise:
 + <a href="https://www.codeavengers.com/" target="_blank"> Code Avengers </a> Learn to build websites, apps and games with HTML, CSS and JavaScript. :arrows_counterclockwise:
 + <a href="https://codecombat.com/" target="_blank"> CodeCombat </a> An online game that teaches programming. Students write code in real programming languages like: Python, JavaScript, Lua, CofeeScript, Clojure. :arrows_counterclockwise:
-+ <a href="http://www.codewars.com/" target="_blank"> Codewars </a> Achieve mastery through challenge
-Improve your skills by training with others on real code challenges. :free:
 + <a href="https://www.codecademy.com/" target="_blank"> Codeacademy </a> Learn to code interactively, for free, on the web. Skill you will learn: HTML/CSS, JavaScript, Python, jQuery, PHP, SQL, AngularJS, Ruby on Rails and more! :arrows_counterclockwise:
 + <a href="https://teamtreehouse.com/" target="_blank"> Treehouse </a> Treehouse brings affordable technology education to people everywhere in order to help them achieve their dreams and change the world! :arrows_counterclockwise:
 + <a href="https://watchandcode.com/" target="_blank"> Watch and Code </a> A tutorial that teaches Practical Javascript through videos that go over basic to intermediate level concepts. The instructor also provides live office hours every week for additional support to those in need. :arrows_counterclockwise:
