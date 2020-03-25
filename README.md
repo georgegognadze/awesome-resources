@@ -30,7 +30,6 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="https://developer.mozilla.org/en-US/"> Mozila Developer Network </a> Shared knowledge for the Open Web. HTML/HTML5, CSS/CSS3, Web APIs & DOM, Javascript, SVG, WEBGL, MathML. :free:
 + <a href="http://www.tutorialspoint.com/" target="_blank"> Tutorialspoint </a> Tutorials for WebGL, Drupal, SQL, Wordpress, XAML, W3CSS, SVG, Web Icons, Web Analytics, Google Maps, Joomla, Magento, Apex, Emberjs, BackboneJS, KnockoutJS, Node.js and more! :free:
 + <a href="http://www.freecodecamp.com/" target="_blank"> freeCodeCamp </a> Learn to code and build projects for non-profits. Skill you will learn: HTML5, CSS3, Javascript, Databases, Git, Node.js, Angular.js, Agile. :free:
-+ <a href="https://csfirst.withgoogle.com/s/en/home" target="_blank"> CS First </a> A free computer science curriculum that makes coding easy to teach and fun to learn. :free:
 + <a href="https://www.thenewboston.com/" target="_blank"> TheNewBoston </a> Free Educational Video Tutorials on Computer Programming, Web Design, Game Development and More! :free:
 + <a href="https://dash.generalassemb.ly/" target="_blank"> Dash </a> Dash teaches HTML, CSS, and Javascript through fun projects you can do in your browser. :free:
 + <a href="https://www.codingame.com/" target="_blank"> CodinGame </a> Play video games using code, learn programming in more than 20 programming languages. :free:
@@ -48,6 +47,7 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="https://rubykoans.com"> Ruby Koans </a> Learn Ruby With the Edgecase Ruby Koans. The Koans walk you along the path to enlightenment in order to learn Ruby. The goal is to learn the Ruby language. :free:
 + <a href="https://www.openvim.com/"> OpenVim </a> Vim is a highly configurable text editor built to enable efficient text editing. Collection of Vim learning tools. :free:
 + <a href="https://javascript30.com/" target="_blank"> JavaScript 30 </a> 30 Day Vanilla JS Coding Challenge, free and hosted by one of the best educators on the web. Learn all the basics and have fun, for beginners to intermediate developers. :free:
++ <a href="https://csfirst.withgoogle.com/s/en/home" target="_blank"> CS First </a> A free computer science curriculum that makes coding easy to teach and fun to learn. :free:
 + <a href="https://www.codeschool.com/" target="_blank"> Code School </a> Code School teaches web technologies in the comfort of your browser with video lessons, coding challenges, and screencasts. :arrows_counterclockwise:
 + <a href="https://www.codeavengers.com/" target="_blank"> Code Avengers </a> Learn to build websites, apps and games with HTML, CSS and JavaScript. :arrows_counterclockwise:
 + <a href="https://codecombat.com/" target="_blank"> CodeCombat </a> An online game that teaches programming. Students write code in real programming languages like: Python, JavaScript, Lua, CofeeScript, Clojure. :arrows_counterclockwise:
