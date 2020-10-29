@@ -47,8 +47,8 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="https://rubykoans.com"> Ruby Koans </a> Learn Ruby With the Edgecase Ruby Koans. The Koans walk you along the path to enlightenment in order to learn Ruby. The goal is to learn the Ruby language. :free:
 + <a href="https://www.openvim.com/"> OpenVim </a> Vim is a highly configurable text editor built to enable efficient text editing. Collection of Vim learning tools. :free:
 + <a href="https://javascript30.com/" target="_blank"> JavaScript 30 </a> 30 Day Vanilla JS Coding Challenge, free and hosted by one of the best educators on the web. Learn all the basics and have fun, for beginners to intermediate developers. :free:
-+ <a href="http://www.codewars.com/" target="_blank"> Codewars </a> Achieve mastery through challenge
-Improve your skills by training with others on real code challenges. :free:
++ <a href="https://csfirst.withgoogle.com/s/en/home" target="_blank"> CS First </a> A free computer science curriculum that makes coding easy to teach and fun to learn. :free:
++ <a href="http://www.codewars.com/" target="_blank"> Codewars </a> Achieve mastery through challenge Improve your skills by training with others on real code challenges. :free:
 + <a href="https://www.codeschool.com/" target="_blank"> Code School </a> Code School teaches web technologies in the comfort of your browser with video lessons, coding challenges, and screencasts. :arrows_counterclockwise:
 + <a href="https://www.codeavengers.com/" target="_blank"> Code Avengers </a> Learn to build websites, apps and games with HTML, CSS and JavaScript. :arrows_counterclockwise:
 + <a href="https://codecombat.com/" target="_blank"> CodeCombat </a> An online game that teaches programming. Students write code in real programming languages like: Python, JavaScript, Lua, CofeeScript, Clojure. :arrows_counterclockwise:
@@ -105,6 +105,7 @@ Improve your skills by training with others on real code challenges. :free:
 + <a href="https://vimeo.com/channels/natureofcode/" target="_blank"> The Nature of Code </a> How can we capture the unpredictable evolutionary and emergent properties of nature in software? How can understanding the mathematical principles behind our physical world help us to create digital worlds?  :free:
 + <a href="http://www.teachingtree.co/" target="_blank"> Teaching Tree </a> TeachingTree is an open platform that lets anybody organize educational content.  :free:
 + <a href="https://www.youtube.com/watch?v=O5nskjZ_GoI" target="_blank"> Crash Couse Computer Science </a> A 40 episode video course on Computer Science. From relay switches, tubes and transistors to artificial intelligence. A comprehensive, well thought out and fast paced course. :free:
++ <a href="https://girlswhocode.com/" target="_blank"> Girls Who Code </a> Girls Who Code is on a mission to close the gender gap in technology and to change the image of what a programmer looks like and does. :free:
 + <a href="https://www.udacity.com/course/cs101" target="_blank"> Intro to Computer Science </a> You’ll learn and practice key computer science concepts by building your own versions of popular web applications. You’ll learn Python, a powerful, easy-to-learn, and widely used programming language, and you’ll explore computer science basics, as you build your own search engine and social network. :moneybag:
 
 
@@ -118,7 +119,7 @@ Improve your skills by training with others on real code challenges. :free:
 + <a href="http://www.finchrobot.com/" target="_blank"> Finch </a> The Finch was designed to allow students to write richly interactive programs. On-board features include: Light, temperature, and obstacle sensors, Accelerometers, Motors, Buzzer, Full-color beak LED, Pen mount for drawing capability, Plugs into USB port - no batteries required. :moneybag:
 + <a href="http://www.sphero.com/education/" target="_blank"> Sphero </a>  SPRK makes the skills of the future approachable and practical. And most importantly, fun. Learn: Drag and drop C-based block programming, Block programming in your Chrome browser, Programming with visual macros and more! :moneybag:
 + <a href="https://www.makewonder.com/" target="_blank"> Wonder </a> Home of Dash and Dot, robots that you can code. :moneybag:
-
++ <a href="https://makeymakey.com/" target="_blank">Makey Makey </a> Makey Makey is an invention kit for the 21st century. Turn everyday objects into touchpads and combine them with the internet. It's a simple Invention Kit for Beginners and Experts doing art, engineering, and everything inbetween. :moneybag:
 
 #### Make your own games or apps
 
@@ -166,8 +167,6 @@ teaches kids to code! :moneybag:
 + <a href="https://ocw.mit.edu/courses/" target="_blank"> MIT OpenCourseWare </a> MIT OpenCourseWare makes the materials used in the teaching of almost all of MIT's subjects available on the Web, free of charge. With more than 2,200 courses available, OCW is delivering on the promise of open sharing of knowledge. :free:
 + <a href="https://channel9.msdn.com/Series/" target="_blank"> Channel 9 </a> Channel 9 is A great place to find video series on all sorts of technologies including improving your code it skills. :free:
 + <a href="https://mva.microsoft.com/" target="_blank"> Microsoft Virtual Academy</a> MVA is an online course repository for Microsoft technologies including but not limited to .Net language courses. :free:
-+ <a href="https://channel9.msdn.com/Series/" target="_blank"> Channel 9 </a> Channel 9 is A great place to find video series on all sorts of technologies including improving your code it skills :free:
-+ <a href="https://mva.microsoft.com/" target="_blank"> Microsoft Virtual Academy</a> MVA is an online course repository for Microsoft technologies including but not limited to .Net language courses :free:
 + <a href="https://www.coursera.org/courses?orderby=upcoming&cats=cs-programming" target="_blank"> Coursera </a> Coursera provides universal access to the world’s best education, partnering with top universities and organizations to offer courses online. :arrows_counterclockwise:
 + <a href="https://www.udacity.com/courses#!/all" target="_blank"> Udacity </a> Udacity with industry giants—Google, AT&T, Facebook, Salesforce, Cloudera, etc.—we offer Nanodegree programs and credentials, designed so professionals become Web Developers, Data Analysts, Mobile Developers, etc. :arrows_counterclockwise:
 + <a href="https://www.udemy.com/courses/" target="_blank"> Udemy </a> World’s online learning marketplace, where 8 million+ students are taking courses in everything from programming to yoga to photography and much, much more. Each of our 32,000+ courses is taught by an expert instructor, and every course is available on-demand, so students can learn at their own pace, on their own time, and on any device. :arrows_counterclockwise:
