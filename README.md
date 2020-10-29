@@ -117,7 +117,7 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="http://www.finchrobot.com/" target="_blank"> Finch </a> The Finch was designed to allow students to write richly interactive programs. On-board features include: Light, temperature, and obstacle sensors, Accelerometers, Motors, Buzzer, Full-color beak LED, Pen mount for drawing capability, Plugs into USB port - no batteries required. :moneybag:
 + <a href="http://www.sphero.com/education/" target="_blank"> Sphero </a>  SPRK makes the skills of the future approachable and practical. And most importantly, fun. Learn: Drag and drop C-based block programming, Block programming in your Chrome browser, Programming with visual macros and more! :moneybag:
 + <a href="https://www.makewonder.com/" target="_blank"> Wonder </a> Home of Dash and Dot, robots that you can code. :moneybag:
-
++ <a href="https://makeymakey.com/" target="_blank">Makey Makey </a> Makey Makey is an invention kit for the 21st century. Turn everyday objects into touchpads and combine them with the internet. It's a simple Invention Kit for Beginners and Experts doing art, engineering, and everything inbetween. :moneybag:
 
 #### Make your own games or apps
 
