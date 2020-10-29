@@ -177,7 +177,7 @@ teaches kids to code! :moneybag:
 + <a href="https://www.datacamp.com/" target="_blank"> DataCamp </a> Learn R, Python and Data Science online. :arrows_counterclockwise:
 + <a href="https://tutsplus.com/courses" target="_blank"> Tutsplus </a> 1,260+ video-based courses and short courses to help you develop creative and technical skills. What would you like to learn? :arrows_counterclockwise:
 + <a href="https://online.stanford.edu/courses" target="_blank"> Stanford Online </a> Stanford Online offers learners a single point of access to Stanford’s extended education and lifelong learning opportunities both on campus and around the world. :arrows_counterclockwise:
-+ <a href="https://www.linkedin.com/learning/" target="_blank"> Linkedin Learning </a> Linkedin Learning  offers courses for every step of your career. Instructors with real-world experience.. :arrows_counterclockwise:
++ <a href="https://www.linkedin.com/learning/" target="_blank"> Linkedin Learning </a> Linkedin Learning  offers courses for every step of your career. Instructors with real-world experience. :arrows_counterclockwise:
 + <a href="https://www.futurelearn.com/" target="_blank"> Future Learn </a> Learn 100% online with world-class universities and industry experts. Develop your career, learn a new skill, or pursue your hobbies with flexible online courses. :arrows_counterclockwise:
 + <a href="https://laracasts.com/" target="_blank"> Laracasts </a> The best PHP and Laravel screencasts on the web. :moneybag:
 + <a href="https://www.safaribooksonline.com/" target="_blank"> Safari Books Online </a> Safari by O'Reilly is the premier popular online book collection containing thousands of best-selling, top-rated IT, computing, technology and business books by leading authors. :moneybag:
@@ -185,6 +185,7 @@ teaches kids to code! :moneybag:
 + <a href="https://linuxacademy.com/library/skill-level/Beginner/" target="_blank"> LinuxAcademy </a> Linux Academy provides online in-depth training and certification courses for Linux, AWS, Azure, Google, OpenStack, DevOps, Big Data, and Containers. :moneybag:
 + <a href="https://www.sitepoint.com/premium/library/" target="_blank"> Sitepoint </a> Learn web design and development, HTML, CSS, JavaScript, PHP, Node, React, WordPress and much more. :moneybag:
 + <a href="https://onemonth.com/" target="_blank"> One Month </a> Learn Python, HTML, JavaScript, and more. Invest in yourself, and upgrade your career. :moneybag:
++ <a href="https://www.skillshare.com/" target="_blank"> SkillShare </a> SkillShare is an online learning community for creators. With 5 million members and 20,000 classes, we’re on a mission to connect curious, lifelong learners everywhere — and build a more creative, generous, and prosperous world. :moneybag:
 
 
 #### Competetive programming
