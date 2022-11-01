@@ -108,6 +108,7 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="https://girlswhocode.com/" target="_blank"> Girls Who Code </a> Girls Who Code is on a mission to close the gender gap in technology and to change the image of what a programmer looks like and does. :free:
 + <a href="https://www.theodinproject.com/" target="_blank"> The Odin Project </a> The Odin Project is one of those "What I wish I had when I was learning" resources. Not everyone has access to a computer science education or the funds to attend an intensive coding school and neither of those is right for everyone anyway. This project is designed to fill in the gap for people who are trying to hack it on their own but still want a high quality education. :free:
 + <a href="https://www.udacity.com/course/cs101" target="_blank"> Intro to Computer Science </a> You’ll learn and practice key computer science concepts by building your own versions of popular web applications. You’ll learn Python, a powerful, easy-to-learn, and widely used programming language, and you’ll explore computer science basics, as you build your own search engine and social network. :moneybag:
++ <a href="https://www.hackster.io/" target="_blank"> hackster.io </a> Thousands of projects for hardware engineers. Build your skills and discover new products and technologies. From machine learning and edge computing to IoT security and automation, Hackster is the leading place where exploring tomorrow starts today. :free:
 
 
 #### Learn to program with robots
