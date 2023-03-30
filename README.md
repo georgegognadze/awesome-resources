@@ -39,6 +39,7 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 + <a href="https://developer.ibm.com/swift/guides/" target="_blank"> IBM Swift sandbox </a>  Web-based Swift sandbox where you can write code and execute it in a Linux server environment. :free:
 + <a href="https://www.test4u.eu/online/category.php" target="_blank"> Test4u </a> A collection of interactive tutorials for HTML, CSS, JavaScript, PHP and MySQL. :free:
 + <a href="https://www.sololearn.com/" target="_blank"> SoloLearn </a> Join the largest community of mobile code learners today. Learn C++, Java, Python, PHP, C#, JavaScript and more. :free:
++ <a href="https://www.scaler.com/topics/" target="_blank"> Scaler Topics </a> Scaler Topics provides programming articles related to different programming languages. :free:
 + <a href="http://cssgridgarden.com/" target="_blank"> Grid Garden </a> A game for learning CSS grid layout. :free:
 + <a href="https://scrimba.com/" target="_blank"> Scrimba </a> Scrimba is a powerful new way of learning code. Play around with the instructors code any time, right in the player. Learn AngularJS, VueJS, TypeScript, HTML, CSS, and more! :free:
 + <a href="https://devhints.io/" target="_blank"> Devhints </a> A place where you can find cheat sheets related to programming languages, frameworks and other command lines and technologies. :free:
