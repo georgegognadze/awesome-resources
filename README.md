@@ -196,6 +196,8 @@ teaches kids to code! :moneybag:
 
 + <a href="https://www.hackerrank.com/" target="_blank"> HackerRank </a> Practice coding, prepare for interviews, and get hired. :free:
 + <a href="https://projecteuler.net/archives" target="_blank"> Project Euler </a> Project Euler provides a large collection of challenges in the domain of computer science and mathematics. :free:
++ <a href="https://codeforces.com/problemset" target="_blank">CodeForces </a> Free coding contests and practice probs to test your chops. Join a global crew and climb the ranks with your fave language. :free:
++ <a href="https://www.codechef.com/practice" target="_blank">CodeChef </a> Free Indian-based platform with monthly contests like Long Challenge and Starters. Practice problems galore—great for beginners to pros. 🔄
 + <a href="https://leetcode.com/problemset/all/" target="_blank"> Leetcode </a> LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews. :arrows_counterclockwise:
 + <a href="https://www.topcoder.com/challenges/" target="_blank"> TopCoder </a> TopCoder provides a list of algorithmic challenges to help you build your coding skills. :arrows_counterclockwise:
 + <a href="https://www.coderbyte.com/challenges" target="_blank"> Coderbyte </a> Coderbyte provides 200+ coding challenges you can solve directly online in one of 10 programming languages. :arrows_counterclockwise:
@@ -205,7 +207,8 @@ teaches kids to code! :moneybag:
 
 + <a href="https://openweathermap.org/current" target="_blank"> Open Weather Map </a> Access current weather data for any location on Earth including over 200,000 cities!
 Current weather is frequently updated based on global models and data from more than 40,000 weather stations. Data is available in JSON, XML, or HTML format. :free:
-
++ <a href="https://www.kaggle.com/datasets" target=_blank> Kaggle Datasets</a>Massive stash of free datasets for all kinds of projects. :free:
+  
 
 #### License
 [![CC0](http://i.creativecommons.org/p/mark/1.0/88x31.png)](http://creativecommons.org/publicdomain/mark/1.0/)
@@ -223,6 +226,10 @@ All contributions are welcome but please do not create a pull request without re
 #### References
 
 + <a href="https://www.google.com/about/careers/students/guide-to-technical-development.html" target="_blank"> Google - Guide for Technical Development </a> This guide provides tips and resources to help you develop your technical skills (academically and non-academically) through self-paced, hands-on learning. This guide is intended to target Computer Science students seeking an internship or university grad role at Google. :free:
++ <a href="https://developer.mozilla.org/en-US/docs/Web" target="_blank">MDN Web Docs</a> A comprehensive, open-source resource for web development knowledge, offering tutorials and references on HTML, CSS, JavaScript, and more, maintained by Mozilla. :free:
++ <a href="https://git-scm.com/book/en/v2" target="_blank">The Git Book</a> An online book providing a complete guide to Git, covering version control basics to advanced workflows, freely available for all skill levels. :free:
++ <a href="https://eloquentjavascript.net/" target="_blank">Eloquent JavaScript</a> A digital book exploring JavaScript in depth, with interactive code examples and projects, suitable for beginners and intermediate learners. :free:
++ <a href="https://docs.python.org/3/" target="_blank">Python Official Documentation</a> The official guide to Python from python.org, featuring tutorials, references, and detailed documentation for all levels of programmers. :free:
 
 
 ### Give this project a star ⭐️
